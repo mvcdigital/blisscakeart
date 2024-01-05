@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<div class="title-bg">
+    <div class="container">
+        <div class="title">
+            <h1>About</h1>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="content content2column content-2-1">
+        <div class="content-left">
+            <h2>{{ .Params.Subtitle }}</h2>
+            {{ .Content }}
+            <p><a href="/contact" class="button">Contact me</a></p>
+            <p>Find me on social media:</p>
+            <div class="social">
+                {{ with .Site.GetPage "master" }}
+                    <a href="{{ .Params.FacebookUrl }}" target="_blank"><img src="/img/icon-fb.jpg" alt="Facebook" /></a>
+                    <a href="{{ .Params.InstagramUrl }}" target="_blank"><img src="/img/icon-insta.jpg" alt="Instagram" /></a>
+                {{ end }}
+            </div>
+        </div>
+        <div class="content-right">
+            <img src="{{ .Params.Image }}" alt="" />
+        </div>
+    </div>
+</div>
+
+{{ end }}

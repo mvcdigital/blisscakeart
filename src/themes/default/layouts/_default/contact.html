@@ -1,0 +1,77 @@
+{{ define "main" }}
+
+<div class="title-bg">
+    <div class="container">
+        <div class="title">
+            <h1>Contact</h1>
+        </div>
+    </div>
+</div>
+
+<div class="contact">
+    <div class="container">
+        <div class="contact-left">
+            <h2>{{ .Params.Subtitle }}</h2>
+            {{ .Content }}
+            <div class="social">
+                {{ with .Site.GetPage "master" }}
+                    <a href="{{ .Params.FacebookUrl }}" target="_blank"><img src="/img/icon-fb.jpg" alt="Facebook" /></a>
+                    <a href="{{ .Params.InstagramUrl }}" target="_blank"><img src="/img/icon-insta.jpg" alt="Instagram" /></a>
+                {{ end }}
+            </div>
+        </div>
+        <div class="contact-right">
+            <form name="contact">
+                <div class="name">
+                    <fieldset>
+                        <label for="firstname">First name *</label>
+                        <input name="firstname" required />
+                    </fieldset>
+                    <fieldset>
+                        <label for="lastname">Last name *</label>
+                        <input name="lastname" required />
+                    </fieldset>
+                </div>
+                <label for="email">Contact email *</label>
+                <input name="email" type="email" required />
+                <div class="date">
+                    <label for="date">Date cake is required for *</label>
+                    <input name="date" type="date" required />
+                </div>
+                <label for="flavour">Flavour</label>
+                <select name="flavour">
+                    <option value="">Please choose...</option>
+                    {{ range .Params.Flavours }}
+                        <option value="{{ .flavour }}">{{ .flavour }}</option>
+                    {{ end }}
+                </select>
+                <div class="info-container">
+                    <label for="portions">Portions required <span class="info-trigger">i</span></label>
+                    <div class="info-box info-box-hide">
+                        Portions are measured at a standard
+                        size of 1”x1” for Wedding Cakes or
+                        for 2”x1” for Occasion Cakes
+                    </div>
+                    <input name="portions" type="number" />
+                </div>
+                <label for="dietaryrequirements">Dietary requirements</label>
+                <input name="dietaryrequirements" />
+                <label for="description">Description of design/style of cake</label>
+                <textarea name="description" rows="5"></textarea>
+                <div class="delivery">
+                    <p>
+                        <input name="delivery" type="radio" id="delivery" value="Delivery required" checked />
+                        <label for="delivery">Delivery required</label>
+                    </p>
+                    <p>
+                        <input name="delivery" type="radio" id="collection" value="Happy to collect" />
+                        <label for="collection">Happy to collect</label>
+                    </p>
+                </div>
+                <input type="submit" class="button" value="Send" />
+            </form>
+        </div>
+    </div>
+</div>
+
+{{ end }}

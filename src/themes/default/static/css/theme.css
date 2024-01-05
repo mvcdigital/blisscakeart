@@ -1,0 +1,536 @@
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+/* Prevent font size inflation */
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none; }
+
+/* Remove default margin in favour of better control in authored CSS */
+body, h1, h2, h3, h4, p,
+figure, blockquote, dl, dd {
+  margin-block-end: 0; }
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role='list'],
+ol[role='list'] {
+  list-style: none; }
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  line-height: 1.5; }
+
+/* Set shorter line heights on headings and interactive elements */
+h1, h2, h3, h4,
+button, input, label {
+  line-height: 1.1; }
+
+/* Balance text wrapping on headings */
+h1, h2,
+h3, h4 {
+  text-wrap: balance; }
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+  color: currentColor; }
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block; }
+
+/* Inherit fonts for inputs and buttons */
+input, button,
+textarea, select {
+  font: inherit; }
+
+/* Make sure textareas without a rows attribute are not tiny */
+textarea:not([rows]) {
+  min-height: 10em; }
+
+/* Anything that has been anchored to should have extra scroll margin */
+:target {
+  scroll-margin-block: 5ex; }
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  padding: 0;
+  margin: 0; }
+
+h1, h2 {
+  font-family: "Bodoni Moda", serif;
+  font-weight: 400;
+  margin: 0 0 20px; }
+
+h1 {
+  font-size: 32px;
+  line-height: 32px; }
+
+h2 {
+  font-size: 32px;
+  line-height: 32px; }
+
+p {
+  margin: 0 0 20px; }
+
+a {
+  text-decoration: none;
+  color: #000000; }
+
+ul {
+  list-style: none; }
+
+.container {
+  padding: 20px 20px; }
+
+.header {
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  z-index: 20; }
+  .header span {
+    display: none; }
+  .header span.logo {
+    display: inline; }
+  .header a img {
+    max-height: 100px; }
+  .header .burger-toggle {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    background-repeat: no-repeat;
+    background-size: cover; }
+  .header .burger-toggle-off {
+    background-image: url(/img/icon-burger.svg); }
+  .header .burger-toggle-on {
+    background-image: url(/img/icon-close.svg); }
+
+.burger-menu {
+  position: absolute;
+  left: 0;
+  right: 0;
+  background: white;
+  padding-top: 20px;
+  z-index: 10;
+  margin-top: 100px;
+  transition: all 0.2s ease-out; }
+  .burger-menu a {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #000000;
+    font-family: "Bodoni Moda", serif;
+    font-size: 26px; }
+
+.burger-menu-off {
+  top: -100%;
+  bottom: 100%; }
+
+.burger-menu-on {
+  top: 0%;
+  bottom: 0%; }
+
+.hero {
+  height: 280px;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.hero-bg {
+  background-color: #EBC8C8; }
+
+.content ul {
+  list-style: disc; }
+
+.content .content-left {
+  margin-bottom: 30px; }
+
+.button {
+  display: inline-block;
+  padding: 10px 40px;
+  text-decoration: none;
+  color: #DCA09A;
+  border: 1px solid #DCA09A;
+  font-family: "Bodoni Moda", serif;
+  cursor: pointer;
+  width: auto; }
+  .button:hover {
+    background-color: #EBC8C8;
+    color: white; }
+
+.button-container {
+  text-align: center; }
+
+.testimonials {
+  text-align: center; }
+  .testimonials div {
+    display: flex;
+    align-items: flex-start; }
+    .testimonials div p {
+      font-size: 18px; }
+    .testimonials div img {
+      width: 40px; }
+
+.testimonials-bg {
+  background-color: #F2EFE9; }
+
+.title-bg {
+  background: url(/img/banner-img.jpg) repeat-x; }
+
+.title h1 {
+  margin: 15px 0; }
+
+.filters a {
+  font-family: "Bodoni Moda", serif;
+  font-size: 18px;
+  margin: 0 10px 0 0; }
+  .filters a:last-child {
+    margin-right: 0; }
+  .filters a.selected {
+    border-bottom: 1px solid #DCA09A; }
+
+.gallery .filters {
+  margin-bottom: 20px; }
+
+.gallery .images {
+  display: block;
+  margin: 0 0 20px 0;
+  padding: 0; }
+  .gallery .images li {
+    display: block;
+    cursor: pointer;
+    margin-bottom: 20px; }
+    .gallery .images li img {
+      width: 100%; }
+  .gallery .images .gallery-image-off {
+    display: none; }
+
+.gallery .load-more {
+  text-align: center; }
+  .gallery .load-more.load-more-off {
+    display: none; }
+
+gallery::after {
+  content: "";
+  flex-basis: 350px; }
+
+.gallery-modal-hidden {
+  display: none; }
+
+.gallery-modal .basicLightbox__placeholder {
+  width: calc(100vw - 20px);
+  height: calc(100vh - 20px);
+  background: white;
+  overflow-y: scroll; }
+  .gallery-modal .basicLightbox__placeholder .container {
+    padding-top: 55px; }
+  .gallery-modal .basicLightbox__placeholder .content {
+    height: 100%; }
+  .gallery-modal .basicLightbox__placeholder .slider {
+    height: 100vw; }
+
+.gallery-modal-close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 20px;
+  height: 20px;
+  background: transparent no-repeat center center;
+  background-size: 100% 100%;
+  background-image: url(/img/icon-close.svg); }
+
+.slider {
+  width: 100%;
+  height: 350px;
+  position: relative;
+  overflow: hidden; }
+  .slider .slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transition: all 0.5s; }
+    .slider .slide img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; }
+  .slider .slider-btn {
+    position: absolute;
+    top: calc(50% - 15px);
+    cursor: pointer;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: transparent no-repeat center center;
+    background-size: 100% 100%; }
+  .slider .slider-btn-prev {
+    left: 10px;
+    background-image: url(/img/icon-left.svg); }
+  .slider .slider-btn-next {
+    right: 10px;
+    background-image: url(/img/icon-right.svg); }
+
+.flavours {
+  margin-bottom: 30px; }
+  .flavours .flavour {
+    text-align: center; }
+    .flavours .flavour .flavour-title {
+      min-height: 150px;
+      background-repeat: no-repeat;
+      background-size: contain;
+      text-align: center;
+      background-position: center;
+      display: flex;
+      align-items: center;
+      flex-direction: column; }
+      .flavours .flavour .flavour-title h5 {
+        font-family: "Bodoni Moda", serif;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 32px; }
+
+.flavours-footer {
+  text-align: center; }
+
+.contact .container {
+  padding: 0; }
+
+.contact .contact-left {
+  padding: 20px; }
+
+.contact .contact-right {
+  background: #F2EFE9;
+  padding: 20px; }
+
+.info-container {
+  position: relative; }
+
+.info-trigger {
+  display: inline-block;
+  background-color: #DDC586;
+  width: 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer; }
+
+.info-box {
+  border: 8px solid black;
+  background-color: white;
+  width: 100%;
+  padding: 10px;
+  position: absolute;
+  top: 26px;
+  left: 0px; }
+
+.info-box-hide {
+  display: none; }
+
+.info-box-show {
+  display: block; }
+
+form label {
+  display: block;
+  margin-bottom: 5px; }
+
+form input, form textarea, form select {
+  background: white;
+  border: none;
+  outline: none;
+  width: 100%;
+  max-width: 600px;
+  padding: 10px;
+  display: block;
+  margin-bottom: 10px; }
+
+form .name {
+  display: block; }
+  form .name fieldset {
+    flex: 1;
+    border: none;
+    padding: 0; }
+
+form .delivery label {
+  display: inline;
+  margin: 0;
+  padding-left: 10px; }
+
+form .delivery input {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  width: auto; }
+
+.social img {
+  width: 58px;
+  display: inline-block;
+  margin: 0 10px;
+  border-radius: 5px; }
+
+.footer {
+  color: white; }
+  .footer div {
+    margin-bottom: 30px; }
+  .footer a {
+    text-decoration: none; }
+  .footer .food-hygiene img {
+    width: 100%; }
+
+.footer-bg {
+  background-color: #DCA09A;
+  border-top: 4px solid #DDC586; }
+
+@media only screen and (min-width: 768px) {
+  h1 {
+    font-size: 48px;
+    line-height: 48px; }
+  h2 {
+    font-size: 40px;
+    line-height: 40px; }
+  .hero {
+    height: 480px; }
+  .container {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 40px 80px; }
+  .content.content2column {
+    display: flex; }
+  .content .content-left {
+    margin-bottom: 0px;
+    padding-right: 30px; }
+  .content.content-1-1 .content-left {
+    flex: 1; }
+  .content.content-1-1 .content-right {
+    flex: 1; }
+  .content.content-2-1 .content-left {
+    flex: 2; }
+  .content.content-2-1 .content-right {
+    flex: 1; }
+  .button-container {
+    text-align: left;
+    display: inline; }
+  .testimonials div {
+    max-width: 680px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start; }
+    .testimonials div p {
+      font-size: 22px;
+      padding: 0 20px; }
+    .testimonials div img {
+      width: 50px; }
+  .testimonials-bg {
+    background-color: #F2EFE9; }
+  .filters a {
+    font-size: 24px;
+    margin: 0 20px 0 0; }
+  .gallery .filters {
+    margin-bottom: 40px; }
+  .gallery .images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 33px;
+    padding: 0;
+    margin: 0 0 30px 0; }
+    .gallery .images li {
+      flex-basis: calc(25% - 25px);
+      position: relative;
+      cursor: pointer;
+      margin-bottom: 0px; }
+      .gallery .images li img {
+        object-fit: cover;
+        max-width: 100%;
+        height: auto;
+        vertical-align: middle; }
+  .gallery-modal .basicLightbox__placeholder {
+    width: 90vw;
+    max-width: 1430px;
+    height: 90vh;
+    max-height: 700px;
+    overflow: unset; }
+    .gallery-modal .basicLightbox__placeholder .container {
+      height: 100%;
+      padding-top: 40px; }
+    .gallery-modal .basicLightbox__placeholder .slider {
+      height: 100%; }
+  .gallery-modal-close {
+    top: 40px;
+    right: 40px;
+    width: 40px;
+    height: 40px; }
+  .slider .slider-btn {
+    top: calc(50% - 30px);
+    width: 60px;
+    height: 60px; }
+  .slider .slider-btn-prev {
+    left: 20px; }
+  .slider .slider-btn-next {
+    right: 20px; }
+  .flavours .flavour {
+    display: inline-block;
+    width: calc(33% - 10px); }
+  .contact .contact-left {
+    padding: 40px 80px; }
+  .contact .contact-right {
+    padding: 40px 80px; }
+  .info-box {
+    width: 50%; }
+  form .name {
+    display: flex;
+    max-width: 600px;
+    gap: 30px; }
+  .footer {
+    display: flex;
+    justify-content: space-between; }
+    .footer .food-hygiene img {
+      width: 210px; } }
+
+@media only screen and (min-width: 1024px) {
+  .header {
+    height: 210px;
+    max-width: 1600px;
+    margin: 0 auto; }
+    .header span {
+      display: inline; }
+    .header a {
+      text-decoration: none;
+      color: #000000;
+      font-family: "Bodoni Moda", serif;
+      font-size: 26px; }
+      .header a img {
+        max-height: 198px; }
+      .header a.selected {
+        border-bottom: 1px solid #DCA09A; }
+    .header .burger-toggle {
+      display: none; }
+  .flavours .flavour {
+    width: calc(25% - 10px); }
+  .contact {
+    background: linear-gradient(to left, #F2EFE9 50%, #ffffff 50%); }
+    .contact .container {
+      padding: 40px 80px;
+      display: flex; }
+    .contact .contact-left {
+      flex: 1;
+      padding: 0px;
+      padding-right: 30px; }
+    .contact .contact-right {
+      flex: 1;
+      padding: 0px;
+      padding-left: 30px; } }
+
+@media only screen and (min-width: 1280px) {
+  .header a {
+    font-size: 32px; } }
