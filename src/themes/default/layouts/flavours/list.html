@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<div class="title-bg">
+    <div class="container">
+        <div class="title">
+            <h1>Useful info</h1>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <h2>{{ .Params.Subtitle }}</h2>
+    <div class="flavours">
+        {{ range .Params.Flavours }}
+            <div class="flavour">
+                <div class="flavour-title" style="background-image: url({{ .image }});">
+                    <h5>{{ .name }}</h5>
+                </div>
+                <p>{{ .text }}</p>
+            </div>
+        {{ end }}
+    </div>
+
+    <div class="flavours-footer">
+        <p>{{ .Params.Text }}</p>
+        <a href="/contact" class="button">Contact me</a>
+    </div>
+</div>
+
+{{ end }}

@@ -1,0 +1,19 @@
+<div class="footer-bg">
+    <div class="container">
+        <div class="footer">
+            {{ with .Site.GetPage "master" }}
+                <div>
+                    <p>&copy; Bliss Cake Art {{ dateFormat "2006" now }}</p>
+                    <a href="/pages/terms-and-conditions/">Terms and conditions</a>
+                </div>
+                <div class="social">
+                    <a href="{{ .Params.FacebookUrl }}" target="_blank"><img src="/img/icon-fb.jpg" alt="Facebook" /></a>
+                    <a href="{{ .Params.InstagramUrl }}" target="_blank"><img src="/img/icon-insta.jpg" alt="Instagram" /></a>
+                </div>
+                <div class="food-hygiene">
+                    <a href="{{ .Params.FoodHygieneRatingUrl }}" target="_blank"><img src="/img/food-hygiene.jpg" alt="Food Hygiene Rating" /></a>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>

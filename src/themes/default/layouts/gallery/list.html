@@ -1,0 +1,68 @@
+{{ define "main" }}
+
+<div class="title-bg">
+    <div class="container">
+        <div class="title">
+            <h1>Gallery</h1>
+        </div>
+    </div>
+</div>
+
+<div class="gallery container">
+    <div class="filters">
+        {{ range .Params.Filters }}<a href="javascript:void(0)" class="gallery-filter" data-tag="{{ .name }}" onclick="filterSelected(this, '{{ .name }}')">{{ .name }}</a>  {{ end }}
+    </div>
+    <ul class="images">
+        {{ $itemcount := .Params.Items | len }}
+        {{ range $i, $e := .Params.Items }}
+            {{ $tags := .tags }}
+            {{range $ii, $ee := where .images ".primary" true}}
+                <li
+                    data-tags="{{ range $tags }}{{ .name }}, {{ end }}"
+                    class="gallery-image gallery-image-{{ cond (lt $i 16) "on" "off" }}">
+                    <img src="{{ .image }}" alt="" />
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+    <div class="load-more load-more-{{ cond (gt $itemcount 16) "on" "off" }}">
+        <a href="javascript:void(0)" class="button" onclick="loadMore()">Load more</a>
+    </div>
+</div>
+
+{{ range $index, $element := .Params.Items }}
+    <div id="gallery-modal-{{ $index }}" class="gallery-modal-hidden">
+        <div class="container">
+            <div class="content content2column content-1-1">
+                <div class="content-left">
+                    <div class="slider">
+                        {{ range .images }}
+                            <div class="slide">
+                                <img src="{{ .image }}" alt="" />
+                            </div>
+                        {{ end }}
+                        <a href="javascript:void(0)" class="slider-btn slider-btn-prev"></a>
+                        <a href="javascript:void(0)" class="slider-btn slider-btn-next"></a>
+                    </div>
+                </div>
+                <div class="content-right">
+                    <a href="javascript:void(0)" class="gallery-modal-close"></a>
+                    <h2>{{ .title }}</h2>
+                    <P>{{ .text }}</P>
+                    <p>
+                        <ul>
+                            {{ range .bullets }}
+                                <li>{{ .bullet }}</li>
+                            {{ end }}
+                        </ul>
+                    </p>
+                    <div class="button-container">
+                        <a href="/contact" class="button">Contact me</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end }}
+
+{{ end }}

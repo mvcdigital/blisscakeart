@@ -1,0 +1,15 @@
+<div class="header">
+    <span><a href="/gallery" class="{{ cond (eq .Title "Gallery") "selected" "" }}">Gallery</a></span>
+    <span><a href="/flavours" class="{{ cond (eq .Title "Flavours") "selected" "" }}">Flavours</a></span>
+    <span class="logo"><a href="/"><img src="/img/bca-logo.jpg" alt="Bliss Cake Art"></a></span>
+    <span><a href="/about" class="{{ cond (eq .Title "About") "selected" "" }}">About</a></span>
+    <span><a href="/contact" class="{{ cond (eq .Title "Contact") "selected" "" }}">Contact</a></span>
+    <a id="burger-toggle" href="javascript:toggleMenu()" class="burger-toggle burger-toggle-off"></a>
+</div>
+
+<div id="burger-menu" class="burger-menu burger-menu-off">
+    <a href="/gallery" class="{{ cond (eq .Title "Gallery") "selected" "" }}">Gallery</a>
+    <a href="/flavours" class="{{ cond (eq .Title "Flavours") "selected" "" }}">Flavours</a>
+    <a href="/about" class="{{ cond (eq .Title "About") "selected" "" }}">About</a>
+    <a href="/contact" class="{{ cond (eq .Title "Contact") "selected" "" }}">Contact</a>
+</div>

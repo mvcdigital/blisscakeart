@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<div class="title-bg">
+    <div class="container">
+        <div class="title">
+            <h1>{{ .Params.Title }}</h1>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="content">
+        {{ .Content }}
+        <p><a href="/contact" class="button">Contact me</a></p>
+    </div>
+</div>
+
+{{ end }}

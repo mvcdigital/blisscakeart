@@ -1,0 +1,6 @@
+baseURL = "https://blisscakeart.co.uk/"
+languageCode = "en-gb"
+title = "Bliss Cake Art"
+theme = "default"
+relativeURLs = true
+paginate = 9
