@@ -9,7 +9,7 @@
         <div class="content-left">
             <h2>{{ .Params.Subtitle }}</h2>
             <P>
-                {{ .Content }}
+                {{ .Params.Content | markdownify }}
             </P>
                 <div class="button-container">
                     <a href="/gallery" class="button">View Gallery</a>
