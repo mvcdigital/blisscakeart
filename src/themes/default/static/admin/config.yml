@@ -1,6 +1,6 @@
 backend:
     name: git-gateway
-    branch: master
+    branch: main
 
 media_folder: "src/static/images/uploads"
 public_folder: "/images/uploads"
@@ -16,108 +16,23 @@ collections:
           file: "src/content/master.md"
           fields:
             - { label: "Title", name: "title", widget: "string" }
-            - { label: "Footer", name: "footer", widget: "markdown" }
+            - { label: "Facebook URL", name: "facebookUrl", widget: "string" }
+            - { label: "Instagram URL", name: "instagramUrl", widget: "string" }
+            - { label: "Food Hygiene Rating URL", name: "foodHygieneRatingUrl", widget: "string" }
         - label: "Home Page"
           name: "home"
           file: "src/content/_index.md"
           fields:
             - { label: "Title", name: "title", widget: "string" }
-            - { label: "Image", name: "image", widget: "image" }
-            - { label: "Day Care Text", name: "dayCareText", widget: "string" }
-            - { label: "Walking Text", name: "walkingText", widget: "string" }
-            - { label: "Boarding Text", name: "boardingText", widget: "string" }
-        - label: "Services Page"
-          name: "services"
-          file: "src/content/services/_index.md"
-          fields:
-            - { label: "Title", name: "title", widget: "string" }
             - { label: "Subtitle", name: "subtitle", widget: "string" }
-            - { label: "Image", name: "image", widget: "image" }
-            - { label: "Day Care Price", name: "dayCarePrice", widget: "string" }
-            - { label: "Day Care Text", name: "dayCareText", widget: "markdown" }
-            - { label: "Walking Price", name: "walkingPrice", widget: "string" }
-            - { label: "Walking Text", name: "walkingText", widget: "markdown" }
-            - { label: "Boarding Price", name: "boardingPrice", widget: "string" }
-            - { label: "Boarding Text", name: "boardingText", widget: "markdown" }
-            - { label: "Training Price", name: "trainingPrice", widget: "string" }
-            - { label: "Training Text", name: "trainingText", widget: "markdown" }
-        - label: "About Page"
-          name: "about"
-          file: "src/content/about/_index.md"
-          fields:
-            - { label: "Title", name: "title", widget: "string" }
-            - { label: "Subtitle", name: "subtitle", widget: "string" }
-            - { label: "Image", name: "image", widget: "image" }
-            - label: "Content"
-              name: "content"
-              widget: "list"
-              fields:
-                - { label: "Text", name: "text", widget: "markdown" }
-                - { label: "Image", name: "image", widget: "image", required: false }
-                - { label: "Positon", name: "position", widget: "select", options: ["left", "right"], required: false }
-            - { label: "Credentials Title", name: "credentialsTitle", widget: "string" }
-            - { label: "Left Credentials", name: "leftCredentials", widget: "list", summary: '{{fields.text}}', field: { label: Text, name: text, widget: string } }
-            - { label: "Right Credentials", name: "rightCredentials", widget: "list", summary: '{{fields.text}}', field: { label: Text, name: text, widget: string } }
-        - label: "Testimonials Page"
-          name: "testimonials"
-          file: "src/content/testimonials/_index.md"
-          fields:
-            - { label: "Title", name: "title", widget: "string" }
-            - { label: "Subtitle", name: "subtitle", widget: "string" }
-            - { label: "Image", name: "image", widget: "image" }
-        - label: "Terms and Conditions Page"
-          name: "termsAndConditions"
-          file: "src/content/pages/terms-and-conditions.md"
-          fields:
-            - { label: "Title", name: "title", widget: "string" }
-            - { label: "Subtitle", name: "subtitle", widget: "string" }
-            - { label: "Image", name: "image", widget: "image" }
-            - { label: "Content", name: "content", widget: "markdown" }
-        - label: "Contact Page"
-          name: "contact"
-          file: "src/content/contact/_index.md"
-          fields:
-            - { label: "Title", name: "title", widget: "string" }
-            - { label: "Subtitle", name: "subtitle", widget: "string" }
-            - { label: "Image", name: "image", widget: "image" }
-        - label: "Contact Thank You Page"
-          name: "contactThankYou"
-          file: "src/content/contact/thank-you.md"
-          fields:
-            - { label: "Title", name: "title", widget: "string" }
-            - { label: "Subtitle", name: "subtitle", widget: "string" }
-            - { label: "Image", name: "image", widget: "image" }
-        - label: "Blog Page"
-          name: "blog"
-          file: "src/content/blog/_index.md"
-          fields:
-            - { label: "Title", name: "title", widget: "string" }
-            - { label: "Subtitle", name: "subtitle", widget: "string" }
-            - { label: "Image", name: "image", widget: "image" }
-    - label: "Blog"
-      name: "blog"
-      folder: "src/content/blog/posts"
-      create: true
-      editor:
-        preview: false
-      fields:
-        - { label: "Title", name: "title", widget: "string" }
-        - { label: "Publish Date", name: "date", widget: "datetime", pickerUtc: true }
-        - { label: "Summary", name: "summary", widget: "string" }
-        - { label: "Image", name: "image", widget: "image" }
-        - { label: "Body", name: "body", widget: "markdown" }
-    - label: "Testimonials"
-      name: "testimonials"
-      folder: "src/content/testimonials/entries"
-      create: true
-      editor:
-        preview: false
-      identifier_field: "name"
-      sortableFields: ['sortOrder']
-      fields:
-        - { label: "Name", name: "name", widget: "string" }
-        - { label: "Summary", name: "summary", widget: "string" }
-        - { label: "Image", name: "image", widget: "image", required: false }
-        - { label: "Text", name: "text", widget: "text" }
-        - { label: "Featured", name: "featured", widget: "boolean", required: false }
-        - { label: "Sort Order", name: "sortOrder", widget: "number" }
+            - { label: "Hero Image", name: "hero", widget: "image" }
+            - label: Images
+              name: images
+              widget: list
+              fields: 
+                - { label: "Image", name: "image", widget: "image" }
+            - label: Testimonials
+              name: testimonials
+              widget: list
+              fields: 
+                - { label: "Text", name: "text", widget: "string" }
