@@ -105,3 +105,9 @@ collections:
                 - { label: "Name", name: "name", widget: "string" }
             - { label: "Thank You Title", name: "thankYouTitle", widget: "string" }
             - { label: "Thank You Text", name: "thankYouText", widget: "markdown" }
+        - label: "Terms and conditions"
+          name: "terms"
+          file: "src/content/pages/terms-and-conditions.md"
+          fields:
+            - { label: "Title", name: "title", widget: "string" }
+            - { label: "Content", name: "content", widget: "markdown" }
