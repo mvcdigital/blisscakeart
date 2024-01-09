@@ -12,7 +12,7 @@
     <div class="content content2column content-2-1">
         <div class="content-left">
             <h2>{{ .Params.Subtitle }}</h2>
-            {{ .Content }}
+            <p>{{ .Params.Content | markdownify }}</p>
             <p><a href="/contact" class="button">Contact me</a></p>
             <p>Find me on social media:</p>
             <div class="social">

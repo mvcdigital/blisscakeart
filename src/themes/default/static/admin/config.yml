@@ -83,3 +83,11 @@ collections:
                 - { label: "Name", name: "name", widget: "string" }
                 - { label: "Image", name: "image", widget: "image" }
                 - { label: "Text", name: "text", widget: "string" }
+        - label: "About"
+          name: "about"
+          file: "src/content/about/_index.md"
+          fields:
+            - { label: "Title", name: "title", widget: "string" }
+            - { label: "Subtitle", name: "subtitle", widget: "string" }
+            - { label: "Image", name: "image", widget: "image" }
+            - { label: "Content", name: "content", widget: "markdown" }
