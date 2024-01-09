@@ -5,21 +5,22 @@ filters:
   - name: Wedding
   - name: Christening
   - name: Children
+  - name: Other
 items:
   - title: Birthday
     text: A short bit of text about the brief.
-    bullets: 
+    bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
       - image: /images/uploads/500x500.png
         primary: true
-    tags: 
+    tags:
       - name: Birthday
   - title: Wedding
     text: A short bit of text about the brief.
-    bullets: 
+    bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
@@ -28,12 +29,12 @@ items:
         primary: true
       - image: /images/uploads/500x500.png
         primary: false
-    tags: 
+    tags:
       - name: Wedding
       - name: Birthday
   - title: Christening
     text: A short bit of text about the brief.
-    bullets: 
+    bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
@@ -44,13 +45,13 @@ items:
         primary: false
       - image: /images/uploads/500x500.png
         primary: false
-    tags: 
+    tags:
       - name: Christening
       - name: Wedding
       - name: Birthday
   - title: Children
     text: A short bit of text about the brief.
-    bullets: 
+    bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
@@ -63,23 +64,23 @@ items:
         primary: false
       - image: /images/uploads/500x500.png
         primary: false
-    tags: 
+    tags:
       - name: Children
       - name: Birthday
   - title: Birthday
     text: A short bit of text about the brief.
-    bullets: 
+    bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
       - image: /images/uploads/500x500.png
         primary: true
-    tags: 
+    tags:
       - name: Birthday
   - title: Wedding
     text: A short bit of text about the brief.
-    bullets: 
+    bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
@@ -88,12 +89,12 @@ items:
         primary: true
       - image: /images/uploads/500x500.png
         primary: false
-    tags: 
+    tags:
       - name: Wedding
       - name: Birthday
   - title: Christening
     text: A short bit of text about the brief.
-    bullets: 
+    bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
@@ -104,12 +105,12 @@ items:
         primary: false
       - image: /images/uploads/500x500.png
         primary: false
-    tags: 
+    tags:
       - name: Christening
       - name: Birthday
   - title: Children
     text: A short bit of text about the brief.
-    bullets: 
+    bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
@@ -122,6 +123,6 @@ items:
         primary: false
       - image: /images/uploads/500x500.png
         primary: false
-    tags: 
+    tags:
       - name: Birthday
 ---
