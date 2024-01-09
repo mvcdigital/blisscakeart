@@ -42,7 +42,7 @@
                 <select name="flavour">
                     <option value="">Please choose...</option>
                     {{ range .Params.Flavours }}
-                        <option value="{{ .flavour }}">{{ .flavour }}</option>
+                        <option value="{{ .name }}">{{ .name }}</option>
                     {{ end }}
                 </select>
                 <div class="info-container">

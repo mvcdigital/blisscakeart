@@ -91,3 +91,17 @@ collections:
             - { label: "Subtitle", name: "subtitle", widget: "string" }
             - { label: "Image", name: "image", widget: "image" }
             - { label: "Content", name: "content", widget: "markdown" }
+        - label: "Contact"
+          name: "contact"
+          file: "src/content/contact/_index.md"
+          fields:
+            - { label: "Title", name: "title", widget: "string" }
+            - { label: "Subtitle", name: "subtitle", widget: "string" }
+            - { label: "Content", name: "content", widget: "markdown" }
+            - label: Flavours
+              name: flavours
+              widget: list
+              fields: 
+                - { label: "Name", name: "name", widget: "string" }
+            - { label: "Thank You Title", name: "thankYouTitle", widget: "string" }
+            - { label: "Thank You Text", name: "thankYouText", widget: "markdown" }
