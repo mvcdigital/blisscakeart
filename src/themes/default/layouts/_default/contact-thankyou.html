@@ -13,7 +13,7 @@
         {{ with .Site.GetPage "contact" }}
             <div class="contact-left">
                 <h2>{{ .Params.Subtitle }}</h2>
-                {{ .Content }}
+                <p>{{ .Params.Content | markdownify }}</p>
                 <div class="social">
                     {{ with .Site.GetPage "master" }}
                         <a href="{{ .Params.FacebookUrl }}" target="_blank"><img src="/img/icon-fb.jpg" alt="Facebook" /></a>
