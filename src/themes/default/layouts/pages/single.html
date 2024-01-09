@@ -10,7 +10,7 @@
 
 <div class="container">
     <div class="content">
-        {{ .Content }}
+        <p>{{ .Params.Content | markdownify }}</p>
         <p><a href="/contact" class="button">Contact me</a></p>
     </div>
 </div>
