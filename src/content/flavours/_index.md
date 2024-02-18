@@ -9,30 +9,25 @@ flavours:
       strawberry or raspberry jam
   - name: " "
     image: /images/uploads/chocolate.jpg
-    text: Vanilla sponge, with a vanilla buttercream filling, paired with either
-      strawberry or raspberry jam
+    text: Chocolate sponge,(optional addition of mint/orange/coconut/salted
+      caramel), with either a chocolate or vanilla buttercream filling
   - name: " "
     image: /images/uploads/lemon.jpg
-    text: Vanilla sponge, with a vanilla buttercream filling, paired with either
-      strawberry or raspberry jam
+    text: Lemon sponge, with a vanilla buttercream filling and lemon curd
   - name: " "
     image: /images/uploads/raspberry-and-white-chocolate.jpg
-    text: Vanilla sponge, with a vanilla buttercream filling, paired with either
-      strawberry or raspberry jam
+    text: Raspberry sponge, with a white  chocolate buttercream filling (optional
+      addition of raspberry jam)
   - name: " "
     image: /images/uploads/coffee.jpg
-    text: Vanilla sponge, with a vanilla buttercream filling, paired with either
-      strawberry or raspberry jam
+    text: Coffee sponge, with a mocha buttercream filling
   - name: " "
     image: /images/uploads/lemon-and-elderflower.jpg
-    text: Vanilla sponge, with a vanilla buttercream filling, paired with either
-      strawberry or raspberry jam
+    text: Lemon sponge, with an elderflower buttercream filling
   - name: " "
     image: /images/uploads/strawberry-and-prosecco.jpg
-    text: Vanilla sponge, with a vanilla buttercream filling, paired with either
-      strawberry or raspberry jam
+    text: Strawberry sponge, with a  Prosecco buttercream filling
   - name: " "
     image: /images/uploads/tropical.jpg
-    text: Vanilla sponge, with a vanilla buttercream filling, paired with either
-      strawberry or raspberry jam
+    text: Tropical sponge, with a light rum buttercream filling
 ---
