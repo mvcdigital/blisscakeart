@@ -17,7 +17,7 @@ items:
       - image: /images/uploads/luisa-painting-1.jpg
         primary: true
       - image: /images/uploads/luisa-painting-2.jpg
-        primary: true
+        primary: false
     tags:
       - name: Birthday
   - title: Triathlon Wedding Cake
@@ -79,15 +79,15 @@ items:
       - image: /images/uploads/marvel-cake-1.jpg
         primary: true
       - image: /images/uploads/marvel-cake-2.jpg
-        primary: true
+        primary: false
       - image: /images/uploads/marvel-cake-3.jpg
-        primary: true
+        primary: false
       - image: /images/uploads/marvel-cake-4.jpg
-        primary: true
+        primary: false
       - image: /images/uploads/marvel-cake-5.jpg
-        primary: true
+        primary: false
       - image: /images/uploads/marvel-cake-6.jpg
-        primary: true
+        primary: false
     tags:
       - name: Birthday
   - title: Wedding
