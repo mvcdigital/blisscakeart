@@ -25,7 +25,7 @@ flavours:
       filling
   - name: " "
     image: /images/uploads/lemon-and-elderflower.jpg
-    text: Light lemon sponge, paired with an elderflower buttercream filling
+    text: Light lemon sponge, paired with a delicate elderflower buttercream filling
   - name: " "
     image: /images/uploads/strawberry-and-prosecco.jpg
     text: Silky strawberry sponge, with a Prosecco buttercream filling
