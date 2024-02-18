@@ -39,11 +39,14 @@ items:
     tags:
       - name: Wedding
   - title: Peter Rabbit Christening Cake
-    text: A short bit of text about the brief.
+    text: An adorable Peter Rabbit Christening cake, with a pink and white theme
+      with ditsy flowers for the little girl
     bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
+      - bullet: Two tier fondant covered cake, topped with a hand modelled Peter Rabbit
+      - bullet: Bottom tier, a classic vanilla sponge paired with vanilla buttercream
+          and strawberry jam. Top tier, moist chocolate sponge paired with
+          vanilla buttercream
+      - bullet: Served 40 portions
     images:
       - image: /images/uploads/peter-rabbit-christening-1.jpg
         primary: true
