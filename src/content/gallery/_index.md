@@ -99,19 +99,21 @@ items:
         primary: false
     tags:
       - name: Birthday
-  - title: White and Silver Wedding Cake
-    text: A short bit of text about the brief.
+  - title: Finding Nemo Birthday Cake
+    text: Two tier ganache covered Finding Nemo themed cake, with hand painted
+      features
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/white-and-silver-wedding-cake.jpg
+      - image: /images/uploads/willow-finding-nemo-1.jpg
         primary: true
       - image: /images/uploads/500x500.png
         primary: false
     tags:
-      - name: Wedding
+      - name: Birthday
+      - name: Children
   - title: Gruffalo Birthday Cake
     text: A short bit of text about the brief.
     bullets:
@@ -128,22 +130,15 @@ items:
     tags:
       - name: Birthday
       - name: Children
-  - title: Finding Nemo Birthday Cake
+  - title: White and Silver Wedding Cake
     text: A short bit of text about the brief.
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/willow-finding-nemo-1.jpg
+      - image: /images/uploads/white-and-silver-wedding-cake.jpg
         primary: true
-      - image: /images/uploads/500x500.png
-        primary: false
-      - image: /images/uploads/500x500.png
-        primary: false
-      - image: /images/uploads/500x500.png
-        primary: false
     tags:
-      - name: Birthday
-      - name: Children
+      - name: Wedding
 ---
