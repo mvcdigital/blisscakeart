@@ -11,10 +11,13 @@ images:
 testimonials:
   - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+content: >-
+  Welcome to Bliss Cake Art, the home of bespoke designed cakes, focusing on
+  hand painted elements creating edible art, in Bucks, U.K. 
+
+
+  Owner, Ricarda, is an award winning cake artist, achieving a Gold award in Cake International 2023 in the Hand Painted Category. She prides herself in creating memorable cakes, which are bespoke, unique and individual to each person and their vision.
+
+
+  Click below to explore her creations!
 ---
