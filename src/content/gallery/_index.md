@@ -31,7 +31,6 @@ items:
         primary: false
     tags:
       - name: Wedding
-      - name: Birthday
   - title: Peter Rabbit Christening Cake
     text: A short bit of text about the brief.
     bullets:
