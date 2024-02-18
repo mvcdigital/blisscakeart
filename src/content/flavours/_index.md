@@ -8,31 +8,31 @@ flavours:
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
       strawberry or raspberry jam
   - name: " "
-    image: /images/uploads/vanilla-left.jpg
+    image: /images/uploads/chocolate.jpg
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
       strawberry or raspberry jam
   - name: " "
-    image: /images/uploads/vanilla-right.jpg
+    image: /images/uploads/lemon.jpg
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
       strawberry or raspberry jam
-  - name: Vanilla
-    image: /images/uploads/flavour-vanilla.jpg
+  - name: " "
+    image: /images/uploads/raspberry-and-white-chocolate.jpg
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
       strawberry or raspberry jam
-  - name: Vanilla
-    image: /images/uploads/flavour-vanilla.jpg
+  - name: " "
+    image: /images/uploads/coffee.jpg
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
       strawberry or raspberry jam
-  - name: Vanilla
-    image: /images/uploads/flavour-vanilla.jpg
+  - name: " "
+    image: /images/uploads/lemon-and-elderflower.jpg
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
       strawberry or raspberry jam
-  - name: Vanilla
-    image: /images/uploads/flavour-vanilla.jpg
+  - name: " "
+    image: /images/uploads/strawberry-and-prosecco.jpg
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
       strawberry or raspberry jam
-  - name: Vanilla
-    image: /images/uploads/flavour-vanilla.jpg
+  - name: " "
+    image: /images/uploads/tropical.jpg
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
       strawberry or raspberry jam
 ---
