@@ -34,8 +34,6 @@ items:
     images:
       - image: /images/uploads/triathlon-wedding-cake.jpg
         primary: true
-      - image: /images/uploads/500x500.png
-        primary: false
     tags:
       - name: Wedding
   - title: Peter Rabbit Christening Cake
