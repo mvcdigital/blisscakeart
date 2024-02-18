@@ -8,10 +8,10 @@ filters:
   - name: Other
 items:
   - title: Hand Painted Birthday Cake
-    text: Hand painted portrait, with rustic bunny years and flower garland
+    text: Hand painted portrait, with bunny ears and flower hair garland
     bullets:
-      - bullet: Hand painted portrait on fondant, with modelled bunny ears and floral
-          garland
+      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
+          hair garland, like the little girl requested
       - bullet: Light lemon sponge, paired with vanilla sponge and tangy lemon curd
       - bullet: Served 30 portions
     images:
@@ -22,12 +22,12 @@ items:
     tags:
       - name: Birthday
   - title: Triathlon Wedding Cake
-    text: A bespoke wedding cake designed for a couple who met while training for
-      Triathlon's
+    text: "A bespoke wedding cake designed for a couple who met while Triathlon
+      training "
     bullets:
       - bullet: 3 tier wedding cake, topped with a fresh flower display based on the
           their wedding flowers
-      - bullet: Bottom tier, a rich coffee sponge, paired with a light buttercream
+      - bullet: Bottom tier, a rich coffee sponge paired with a light mocha buttercream
           filling. Middle tier, a classic vanilla sponge paired with vanilla
           buttercream and strawberry jam. Top tier, fruit cake.
       - bullet: Served 120 portions
@@ -39,8 +39,8 @@ items:
     tags:
       - name: Wedding
   - title: Peter Rabbit Christening Cake
-    text: An adorable Peter Rabbit Christening cake, with a pink and white theme
-      with ditsy flowers for the little girl
+    text: An adorable Peter Rabbit Christening cake, with a pastel colour theme and
+      ditsy flowers
     bullets:
       - bullet: Two tier fondant covered cake, topped with a hand modelled Peter Rabbit
       - bullet: Bottom tier, a classic vanilla sponge paired with vanilla buttercream
