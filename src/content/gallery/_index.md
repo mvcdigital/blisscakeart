@@ -112,7 +112,11 @@ items:
     images:
       - image: /images/uploads/willow-finding-nemo-1.jpg
         primary: true
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/willow-finding-nemo-2.jpg
+        primary: false
+      - image: /images/uploads/willow-finding-nemo-3.jpg
+        primary: false
+      - image: /images/uploads/willow-finding-nemo-4.jpg
         primary: false
     tags:
       - name: Birthday
@@ -129,9 +133,9 @@ items:
     images:
       - image: /images/uploads/gruffalo-sketches-1.jpg
         primary: true
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/gruffalo-sketches-2.jpg
         primary: false
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/gruffalo-sketches-3.jpg
         primary: false
     tags:
       - name: Birthday
