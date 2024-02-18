@@ -9,8 +9,8 @@ flavours:
       either strawberry or raspberry jam
   - name: " "
     image: /images/uploads/chocolate.jpg
-    text: Rich and moist chocolate sponge, with a vanilla or chocolate buttercream
-      filling
+    text: Rich and moist chocolate sponge, paired with a vanilla or chocolate
+      buttercream filling
   - name: " "
     image: /images/uploads/lemon.jpg
     text: Light lemon sponge, with a vanilla buttercream filling, paired with tangy
