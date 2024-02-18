@@ -99,44 +99,43 @@ items:
         primary: false
     tags:
       - name: Birthday
-  - title: Wedding
+  - title: White and Silver Wedding Cake
     text: A short bit of text about the brief.
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/white-and-silver-wedding-cake.jpg
         primary: true
       - image: /images/uploads/500x500.png
         primary: false
     tags:
       - name: Wedding
-      - name: Birthday
-  - title: Christening
+  - title: Gruffalo Birthday Cake
     text: A short bit of text about the brief.
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/gruffalo-sketches-1.jpg
         primary: true
       - image: /images/uploads/500x500.png
         primary: false
       - image: /images/uploads/500x500.png
         primary: false
     tags:
-      - name: Christening
       - name: Birthday
-  - title: Children
+      - name: Children
+  - title: Finding Nemo Birthday Cake
     text: A short bit of text about the brief.
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/willow-finding-nemo-1.jpg
         primary: true
       - image: /images/uploads/500x500.png
         primary: false
