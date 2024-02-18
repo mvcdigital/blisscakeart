@@ -6,7 +6,6 @@ flavours:
   - name: " "
     image: /images/uploads/vanilla-centre.jpg
     text: Vanilla sponge, with a vanilla buttercream filling, paired with either
-      strawberry or raspberry jam
   - name: " "
     image: /images/uploads/chocolate.jpg
     text: Chocolate sponge, with a vanilla buttercream filling
@@ -15,8 +14,7 @@ flavours:
     text: Lemon sponge, with a vanilla buttercream filling and lemon curd
   - name: " "
     image: /images/uploads/raspberry-and-white-chocolate.jpg
-    text: Raspberry sponge, with a white chocolate buttercream filling and raspberry
-      jam
+    text: Raspberry sponge, with a white chocolate buttercream filling and
   - name: " "
     image: /images/uploads/coffee.jpg
     text: Coffee sponge, with a mocha buttercream filling
