@@ -103,9 +103,12 @@ items:
     text: Two tier ganache covered Finding Nemo themed cake, with hand painted
       features
     bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
+      - bullet: Hand painted Nemo and Dory on fondant, topped with the hand modelled
+          pelican
+      - bullet: Bottom tier, light lemon sponge paired with vanilla buttercream and
+          tangy lemon curd. Top tier, rich chocolate sponge paired with vanilla
+          buttercream
+      - bullet: Served 30 portions
     images:
       - image: /images/uploads/willow-finding-nemo-1.jpg
         primary: true
@@ -115,11 +118,14 @@ items:
       - name: Birthday
       - name: Children
   - title: Gruffalo Birthday Cake
-    text: A short bit of text about the brief.
+    text: Two tier sketched Gruffalo themed cake
     bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
+      - bullet: Two tier ganache covered cake, with sketched style images, hand drawn on
+          fondant
+      - bullet: Bottom tier, rich chocolate sponge paired with chocolate buttercream.
+          Top tier, classic vanilla sponge paired with vanilla buttercream and
+          raspberry jam
+      - bullet: Served 40 portions
     images:
       - image: /images/uploads/gruffalo-sketches-1.jpg
         primary: true
