@@ -7,59 +7,56 @@ filters:
   - name: Children
   - name: Other
 items:
-  - title: Birthday
-    text: A short bit of text about the brief.
+  - title: Hand Painted Birthday Cake
+    text: akjdhalskfjba,
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/luisa-painting-1.jpg
         primary: true
     tags:
       - name: Birthday
-  - title: Wedding
+  - title: Triathlon Wedding Cake
     text: A short bit of text about the brief.
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/triathlon-wedding-cake.jpg
         primary: true
       - image: /images/uploads/500x500.png
         primary: false
     tags:
       - name: Wedding
       - name: Birthday
-  - title: Christening
+  - title: Peter Rabbit Christening Cake
     text: A short bit of text about the brief.
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/peter-rabbit-christening-1.jpg
         primary: true
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/peter-rabbit-christening-2.jpg
         primary: false
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/peter-rabbit-christening-3.jpg
         primary: false
     tags:
       - name: Christening
-      - name: Wedding
-      - name: Birthday
-  - title: Children
+      - name: Children
+  - title: Toy Story Childs Birthday Cake
     text: A short bit of text about the brief.
     bullets:
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
       - bullet: Lorem ipsum dolor sit amet
     images:
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/toy-story-1.jpg
         primary: true
-      - image: /images/uploads/500x500.png
-        primary: false
       - image: /images/uploads/500x500.png
         primary: false
       - image: /images/uploads/500x500.png
