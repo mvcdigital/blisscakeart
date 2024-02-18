@@ -8,11 +8,12 @@ filters:
   - name: Other
 items:
   - title: Hand Painted Birthday Cake
-    text: akjdhalskfjba,
+    text: Hand painted portrait, with rustic bunny years and flower garland
     bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
+      - bullet: Hand painted portrait on fondant, with modelled bunny ears and floral
+          garland
+      - bullet: Light lemon sponge, paired with vanilla sponge and tangy lemon curd
+      - bullet: Served 30 portions
     images:
       - image: /images/uploads/luisa-painting-1.jpg
         primary: true
@@ -21,11 +22,15 @@ items:
     tags:
       - name: Birthday
   - title: Triathlon Wedding Cake
-    text: A short bit of text about the brief.
+    text: A bespoke wedding cake designed for a couple who met while training for
+      Triathlon's
     bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
+      - bullet: 3 tier wedding cake, topped with a fresh flower display based on the
+          their wedding flowers
+      - bullet: Bottom tier, a rich coffee sponge, paired with a light buttercream
+          filling. Middle tier, a classic vanilla sponge paired with vanilla
+          buttercream and strawberry jam. Top tier, fruit cake.
+      - bullet: Served 120 portions
     images:
       - image: /images/uploads/triathlon-wedding-cake.jpg
         primary: true
@@ -49,12 +54,13 @@ items:
     tags:
       - name: Christening
       - name: Children
-  - title: Toy Story Childs Birthday Cake
-    text: A short bit of text about the brief.
+  - title: Toy Story Birthday Cake
+    text: Fun packed Toy Story themed cake
     bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
+      - bullet: Woody, Buzz Lightyear, Jessie and Forky hand crafted fondant models
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 30 portions
     images:
       - image: /images/uploads/toy-story-1.jpg
         primary: true
@@ -72,7 +78,7 @@ items:
   - title: Avengers Birthday Cake
     text: Mega Avengers birthday cake for a Marvel fan
     bullets:
-      - bullet: Avengers themed birthday cake
+      - bullet: Avengers theme, including Thor, Captain America, Spiderman and Hulk
       - bullet: Moist chocolate sponge, paired with vanilla buttercream
       - bullet: Served 45 portions
     images:
