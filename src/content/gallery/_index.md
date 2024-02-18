@@ -16,6 +16,8 @@ items:
     images:
       - image: /images/uploads/luisa-painting-1.jpg
         primary: true
+      - image: /images/uploads/luisa-painting-2.jpg
+        primary: true
     tags:
       - name: Birthday
   - title: Triathlon Wedding Cake
@@ -56,21 +58,35 @@ items:
     images:
       - image: /images/uploads/toy-story-1.jpg
         primary: true
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/toy-story-2.jpg
         primary: false
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/toy-story-3.jpg
         primary: false
+      - image: /images/uploads/toy-story-4.jpg
+        primary: true
+      - image: /images/uploads/toy-story-5.jpg
+        primary: true
     tags:
       - name: Children
       - name: Birthday
-  - title: Birthday
-    text: A short bit of text about the brief.
+  - title: Avengers Birthday Cake
+    text: Mega Avengers birthday cake for a Marvel fan
     bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
+      - bullet: Avengers themed birthday cake
+      - bullet: Moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Served 45 portions
     images:
-      - image: /images/uploads/500x500.png
+      - image: /images/uploads/marvel-cake-1.jpg
+        primary: true
+      - image: /images/uploads/marvel-cake-2.jpg
+        primary: true
+      - image: /images/uploads/marvel-cake-3.jpg
+        primary: true
+      - image: /images/uploads/marvel-cake-4.jpg
+        primary: true
+      - image: /images/uploads/marvel-cake-5.jpg
+        primary: true
+      - image: /images/uploads/marvel-cake-6.jpg
         primary: true
     tags:
       - name: Birthday
