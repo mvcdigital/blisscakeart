@@ -63,9 +63,9 @@ items:
       - image: /images/uploads/toy-story-3.jpg
         primary: false
       - image: /images/uploads/toy-story-4.jpg
-        primary: true
+        primary: false
       - image: /images/uploads/toy-story-5.jpg
-        primary: true
+        primary: false
     tags:
       - name: Children
       - name: Birthday
