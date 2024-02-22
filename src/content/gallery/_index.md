@@ -27,7 +27,7 @@ items:
     bullets:
       - bullet: 3 tier wedding cake, topped with a fresh flower display based on the
           their wedding flowers
-      - bullet: Bottom tier, a rich coffee sponge paired with a light mocha buttercream
+      - bullet: Bottom tier, rich coffee sponge paired with a light mocha buttercream
           filling. Middle tier, a classic vanilla sponge paired with vanilla
           buttercream and strawberry jam. Top tier, fruit cake.
       - bullet: Served 120 portions
@@ -42,8 +42,8 @@ items:
     bullets:
       - bullet: Two tier fondant covered cake, topped with a hand modelled Peter Rabbit
       - bullet: Bottom tier, a classic vanilla sponge paired with vanilla buttercream
-          and strawberry jam. Top tier, moist chocolate sponge paired with
-          vanilla buttercream
+          and strawberry jam. Top tier, rich and moist chocolate sponge paired
+          with vanilla buttercream
       - bullet: Served 40 portions
     images:
       - image: /images/uploads/peter-rabbit-christening-1.jpg
@@ -80,7 +80,7 @@ items:
     text: Mega Avengers birthday cake for a Marvel fan
     bullets:
       - bullet: Avengers theme, including Thor, Captain America, Spiderman and Hulk
-      - bullet: Moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
       - bullet: Served 45 portions
     images:
       - image: /images/uploads/marvel-cake-1.jpg
@@ -104,8 +104,8 @@ items:
       - bullet: Hand painted Nemo and Dory on fondant, topped with the hand modelled
           pelican
       - bullet: Bottom tier, light lemon sponge paired with vanilla buttercream and
-          tangy lemon curd. Top tier, rich chocolate sponge paired with vanilla
-          buttercream
+          tangy lemon curd. Top tier, rich and moist chocolate sponge paired
+          with vanilla buttercream
       - bullet: Served 30 portions
     images:
       - image: /images/uploads/willow-finding-nemo-1.jpg
@@ -124,9 +124,9 @@ items:
     bullets:
       - bullet: Two tier ganache covered cake, with sketched style images, hand drawn on
           fondant
-      - bullet: Bottom tier, rich chocolate sponge paired with chocolate buttercream.
-          Top tier, classic vanilla sponge paired with vanilla buttercream and
-          raspberry jam
+      - bullet: Bottom tier, rich and moist chocolate sponge paired with chocolate
+          buttercream. Top tier, classic vanilla sponge paired with vanilla
+          buttercream and raspberry jam
       - bullet: Served 40 portions
     images:
       - image: /images/uploads/gruffalo-sketches-1.jpg
@@ -149,4 +149,16 @@ items:
         primary: true
     tags:
       - name: Wedding
+  - title: Winnie The Pooh Cake
+    text: Hand painted Winnie The Pooh with book extract
+    bullets:
+      - bullet: Two tier ganache covered cake, with hand painted features and rice paper
+          3d element
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with vanilla
+          buttercream. Top tier, classic vanilla sponge, paired with vanilla
+          buttercream and raspberry jam
+      - bullet: Served 30 portions
+    images: []
+    tags:
+      - name: Children
 ---
