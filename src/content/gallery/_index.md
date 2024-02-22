@@ -7,20 +7,26 @@ filters:
   - name: Children
   - name: Christmas
 items:
-  - title: Hand Painted Birthday Cake
-    text: Hand painted portrait, with bunny ears and flower hair garland
-    bullets:
-      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
-          hair garland, like the little girl requested
-      - bullet: Light lemon sponge, paired with vanilla sponge and tangy lemon curd
-      - bullet: Served 30 portions
-    images:
-      - image: /images/uploads/luisa-painting-1.jpg
+  - images:
+      - image: /images/uploads/ted-lasso-cake-1.jpg
         primary: true
-      - image: /images/uploads/luisa-painting-2.jpg
+      - image: /images/uploads/ted-lasso-cake-2.jpg
+        primary: false
+      - image: /images/uploads/ted-lasso-cake-3.jpg
         primary: false
     tags:
       - name: Birthday
+    title: Ted Lasso Birthday Cake
+    text: Ted Lasso inspired 3 tier birthday cake, with fondant and hand painted
+      details
+    bullets:
+      - bullet: Hand painted Ted Lasso inspired characters on the bottom tier, with
+          fondant details based on the TV programme
+      - bullet: Bottom tier, rich and moist chocolate sponge paired with vanilla
+          buttercream. Middle tier, intense coffee sponge, paired with a light
+          mocha buttercream. Top tier, light lemon sponge, paired with vanilla
+          buttercream and tangy lemon curd
+      - bullet: Served 60 portions
   - title: Triathlon Wedding Cake
     text: "A bespoke wedding cake designed for a couple who met while Triathlon
       training "
@@ -55,47 +61,6 @@ items:
     tags:
       - name: Christening
       - name: Children
-  - images:
-      - image: /images/uploads/ted-lasso-cake-1.jpg
-        primary: true
-      - image: /images/uploads/ted-lasso-cake-2.jpg
-        primary: false
-      - image: /images/uploads/ted-lasso-cake-3.jpg
-        primary: false
-    tags:
-      - name: Birthday
-    title: Ted Lasso Birthday Cake
-    text: Ted Lasso inspired 3 tier birthday cake, with fondant and hand painted
-      details
-    bullets:
-      - bullet: Hand painted Ted Lasso inspired characters on the bottom tier, with
-          fondant details based on the TV programme
-      - bullet: Bottom tier, rich and moist chocolate sponge paired with vanilla
-          buttercream. Middle tier, intense coffee sponge, paired with a light
-          mocha buttercream. Top tier, light lemon sponge, paired with vanilla
-          buttercream and tangy lemon curd
-      - bullet: Served 60 portions
-  - title: Toy Story Birthday Cake
-    text: Fun packed Toy Story themed cake
-    bullets:
-      - bullet: Woody, Buzz Lightyear, Jessie and Forky hand crafted fondant models
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
-          jam
-      - bullet: Served 30 portions
-    images:
-      - image: /images/uploads/toy-story-1.jpg
-        primary: true
-      - image: /images/uploads/toy-story-2.jpg
-        primary: false
-      - image: /images/uploads/toy-story-3.jpg
-        primary: false
-      - image: /images/uploads/toy-story-4.jpg
-        primary: false
-      - image: /images/uploads/toy-story-5.jpg
-        primary: false
-    tags:
-      - name: Children
-      - name: Birthday
   - title: Avengers Birthday Cake
     text: Mega Avengers birthday cake for a Marvel fan
     bullets:
@@ -117,28 +82,41 @@ items:
         primary: false
     tags:
       - name: Birthday
-  - title: Finding Nemo Birthday Cake
-    text: Two tier ganache covered Finding Nemo themed cake, with hand painted
-      features
+  - title: Toy Story Birthday Cake
+    text: Fun packed Toy Story themed cake
     bullets:
-      - bullet: Hand painted Nemo and Dory on fondant, topped with the hand modelled
-          pelican
-      - bullet: Bottom tier, light lemon sponge paired with vanilla buttercream and
-          tangy lemon curd. Top tier, rich and moist chocolate sponge paired
-          with vanilla buttercream
+      - bullet: Woody, Buzz Lightyear, Jessie and Forky hand crafted fondant models
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
       - bullet: Served 30 portions
     images:
-      - image: /images/uploads/willow-finding-nemo-1.jpg
+      - image: /images/uploads/toy-story-1.jpg
         primary: true
-      - image: /images/uploads/willow-finding-nemo-2.jpg
+      - image: /images/uploads/toy-story-2.jpg
         primary: false
-      - image: /images/uploads/willow-finding-nemo-3.jpg
+      - image: /images/uploads/toy-story-3.jpg
         primary: false
-      - image: /images/uploads/willow-finding-nemo-4.jpg
+      - image: /images/uploads/toy-story-4.jpg
+        primary: false
+      - image: /images/uploads/toy-story-5.jpg
+        primary: false
+    tags:
+      - name: Children
+      - name: Birthday
+  - title: Hand Painted Birthday Cake
+    text: Hand painted portrait, with bunny ears and flower hair garland
+    bullets:
+      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
+          hair garland, like the little girl requested
+      - bullet: Light lemon sponge, paired with vanilla sponge and tangy lemon curd
+      - bullet: Served 30 portions
+    images:
+      - image: /images/uploads/luisa-painting-1.jpg
+        primary: true
+      - image: /images/uploads/luisa-painting-2.jpg
         primary: false
     tags:
       - name: Birthday
-      - name: Children
   - title: Gruffalo Birthday Cake
     text: Two tier sketched Gruffalo themed cake
     bullets:
@@ -169,23 +147,27 @@ items:
         primary: true
     tags:
       - name: Wedding
-  - title: Winnie The Pooh Cake
-    text: Hand painted Winnie The Pooh with book extract
+  - title: Finding Nemo Birthday Cake
+    text: Two tier ganache covered Finding Nemo themed cake, with hand painted
+      features
     bullets:
-      - bullet: Two tier ganache covered cake, with hand painted features and rice paper
-          3d element
-      - bullet: Bottom tier, rich and moist chocolate sponge, paired with vanilla
-          buttercream. Top tier, classic vanilla sponge, paired with vanilla
-          buttercream and raspberry jam
+      - bullet: Hand painted Nemo and Dory on fondant, topped with the hand modelled
+          pelican
+      - bullet: Bottom tier, light lemon sponge paired with vanilla buttercream and
+          tangy lemon curd. Top tier, rich and moist chocolate sponge paired
+          with vanilla buttercream
       - bullet: Served 30 portions
     images:
-      - image: /images/uploads/winnie-the-pooh-1.jpg
+      - image: /images/uploads/willow-finding-nemo-1.jpg
         primary: true
-      - image: /images/uploads/winnie-the-pooh-2.jpg
+      - image: /images/uploads/willow-finding-nemo-2.jpg
         primary: false
-      - image: /images/uploads/winnie-the-pooh-3.jpg
+      - image: /images/uploads/willow-finding-nemo-3.jpg
+        primary: false
+      - image: /images/uploads/willow-finding-nemo-4.jpg
         primary: false
     tags:
+      - name: Birthday
       - name: Children
   - images:
       - image: /images/uploads/80th-elephant-cake-1.jpg
@@ -204,6 +186,22 @@ items:
     title: Safari Sunset Birthday Cake
     text: Hand painted safari sunset 80th birthday cake
   - images:
+      - image: /images/uploads/bear-christening-cake-1.jpg
+        primary: true
+      - image: /images/uploads/bear-christening-cake-2.jpg
+        primary: false
+    tags:
+      - name: Children
+      - name: Christening
+    bullets:
+      - bullet: Hand modelled fondant teddy bear topper and inclusion of the little
+          Bible, that was a tradition to have on the family Christening cakes
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and raspberry
+          jam for both tiers
+      - bullet: "Served 65 portions "
+    title: Teddy Bear Christening Cake
+    text: Two tier grey, white, brown, teddy bear themed Christening cake
+  - images:
       - image: /images/uploads/danger-mouse-cake-1.jpg
         primary: true
       - image: /images/uploads/danger-mouse-cake-3.jpg
@@ -220,22 +218,24 @@ items:
           characters
       - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
       - bullet: Served 30 portions
-  - images:
-      - image: /images/uploads/bear-christening-cake-1.jpg
+  - title: Winnie The Pooh Cake
+    text: Hand painted Winnie The Pooh with book extract
+    bullets:
+      - bullet: Two tier ganache covered cake, with hand painted features and rice paper
+          3d element
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with vanilla
+          buttercream. Top tier, classic vanilla sponge, paired with vanilla
+          buttercream and raspberry jam
+      - bullet: Served 30 portions
+    images:
+      - image: /images/uploads/winnie-the-pooh-1.jpg
         primary: true
-      - image: /images/uploads/bear-christening-cake-2.jpg
+      - image: /images/uploads/winnie-the-pooh-2.jpg
+        primary: false
+      - image: /images/uploads/winnie-the-pooh-3.jpg
         primary: false
     tags:
       - name: Children
-      - name: Christening
-    bullets:
-      - bullet: Hand modelled fondant teddy bear topper and inclusion of the little
-          Bible, that was a tradition to have on the family Christening cakes
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and raspberry
-          jam for both tiers
-      - bullet: "Served 65 portions "
-    title: Teddy Bear Christening Cake
-    text: Two tier grey, white, brown, teddy bear themed Christening cake
   - images:
       - image: /images/uploads/finding-nemo-cake-1.jpg
         primary: true
