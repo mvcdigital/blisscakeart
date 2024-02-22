@@ -2,9 +2,9 @@
 title: Gallery
 filters:
   - name: Birthday
+  - name: Children
   - name: Wedding
   - name: Christening
-  - name: Children
   - name: Christmas
 items:
   - images:
