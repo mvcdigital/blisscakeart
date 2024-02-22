@@ -286,4 +286,67 @@ items:
       - name: Christening
       - name: Children
     text: Two tier baby girl christening cake, with fresh flower cake topper
+  - images:
+      - image: /images/uploads/peaky-blinders-1.jpg
+        primary: true
+      - image: /images/uploads/peaky-blinders-5.jpg
+        primary: false
+      - image: /images/uploads/peaky-blinders-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    title: Peaky Blinders Birthday Cake
+    bullets:
+      - bullet: Fondant details to represent key things from the TV programme, such as
+          the flat cap, cigarettes and stop watch
+      - bullet: Light lemon sponge, paired with vanilla buttercream and tangy lemon curd
+      - bullet: Served 20 portions
+    text: Peaky Blinders themed birthday cake, with fondant details
+  - images:
+      - image: /images/uploads/sewing-cake-1.jpg
+        primary: true
+      - primary: false
+        image: /images/uploads/sewing-cake-2.jpg
+      - image: /images/uploads/sewing-cake-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    bullets:
+      - bullet: Fondant covered cake, with modelled details such as the reels of cotton,
+          pin cushion and embroidered Olaf - who was her favourite character
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 25 portions
+    title: Sewing Birthday Cake
+    text: Sewing themed birthday cake, with fondant needle work details
+  - images:
+      - image: /images/uploads/sleeping-santa-1.jpg
+        primary: true
+      - image: /images/uploads/sleeping-santa-2.jpg
+        primary: false
+      - image: /images/uploads/sleeping-santa-3.jpg
+        primary: false
+    tags:
+      - name: Christmas
+    title: Sleeping Santa Christmas Cake
+    bullets:
+      - bullet: "Fondant covered cake, with fondant details in the bed, rug and side
+          table "
+      - bullet: Intense coffee sponge, paired with a light mocha buttercream
+      - bullet: Served 30 portions
+    text: Christmas cake inspired by Santa over sleeping in bed on Christmas morning
+  - images:
+      - image: /images/uploads/spiderman-3d-1.jpg
+        primary: true
+      - image: /images/uploads/spiderman-3d-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    title: 3D Spiderman Birthday Cake
+    text: Two tier Spiderman birthday cake, with a 3D element
+    bullets:
+      - bullet: Hand painted Spiderman image on the bottom tier, with fondant modelled
+          hand on the board, giving the 3D effect
+      - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Served 30 portions
 ---
