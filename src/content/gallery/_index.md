@@ -158,7 +158,62 @@ items:
           buttercream. Top tier, classic vanilla sponge, paired with vanilla
           buttercream and raspberry jam
       - bullet: Served 30 portions
-    images: []
+    images:
+      - image: /images/uploads/winnie-the-pooh-1.jpg
+        primary: true
+      - image: /images/uploads/winnie-the-pooh-2.jpg
+        primary: false
+      - image: /images/uploads/winnie-the-pooh-3.jpg
+        primary: false
     tags:
       - name: Children
+  - images:
+      - image: /images/uploads/80th-elephant-cake-1.jpg
+        primary: true
+      - image: /images/uploads/80th-elephant-cake-3.jpg
+        primary: false
+      - image: /images/uploads/80th-elephant-cake-4.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    bullets:
+      - bullet: Ganache covered cake, with hand painted giraffe silhouettes against the
+          sunset
+      - bullet: Light lemon sponge, paired with vanilla buttercream and tangy lemon curd
+      - bullet: Served 25 portions
+    title: Safari Sunset Birthday Cake
+    text: Hand painted safari sunset 80th birthday cake
+  - images:
+      - image: /images/uploads/danger-mouse-cake-1.jpg
+        primary: true
+      - image: /images/uploads/danger-mouse-cake-3.jpg
+        primary: false
+      - image: /images/uploads/danger-mouse-cake-4.jpg
+        primary: false
+    tags:
+      - name: Children
+      - name: Birthday
+    title: Danger Mouse Birthday Cake
+    text: 8th Birthday cake with 3D Danger Mouse characters
+    bullets:
+      - bullet: Ticking time bomb cake, with hand modelled fondant Danger Mouse
+          characters
+      - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Served 30 portions
+  - images:
+      - image: /images/uploads/bear-christening-cake-1.jpg
+        primary: true
+      - image: /images/uploads/bear-christening-cake-2.jpg
+        primary: false
+    tags:
+      - name: Children
+      - name: Christening
+    bullets:
+      - bullet: Hand modelled fondant teddy bear, and little Bible that was a tradition
+          to have in the family, tops the cute design of the cake
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and raspberry
+          jam for both tiers
+      - bullet: "Served 65 portions "
+    title: Teddy Bear Christening Cake
+    text: Two tier grey, white, brown, teddy bear themed Christening cake
 ---
