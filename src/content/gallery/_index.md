@@ -5,7 +5,7 @@ filters:
   - name: Wedding
   - name: Christening
   - name: Children
-  - name: Other
+  - name: Christmas
 items:
   - title: Hand Painted Birthday Cake
     text: Hand painted portrait, with bunny ears and flower hair garland
@@ -55,6 +55,26 @@ items:
     tags:
       - name: Christening
       - name: Children
+  - images:
+      - image: /images/uploads/ted-lasso-cake-1.jpg
+        primary: true
+      - image: /images/uploads/ted-lasso-cake-2.jpg
+        primary: false
+      - image: /images/uploads/ted-lasso-cake-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    title: Ted Lasso Birthday Cake
+    text: Ted Lasso inspired 3 tier birthday cake, with fondant and hand painted
+      details
+    bullets:
+      - bullet: Hand painted Ted Lasso inspired characters on the bottom tier, with
+          fondant details based on the TV programme
+      - bullet: Bottom tier, rich and moist chocolate sponge paired with vanilla
+          buttercream. Middle tier, intense coffee sponge, paired with a light
+          mocha buttercream. Top tier, light lemon sponge, paired with vanilla
+          buttercream and tangy lemon curd
+      - bullet: Served 60 portions
   - title: Toy Story Birthday Cake
     text: Fun packed Toy Story themed cake
     bullets:
@@ -209,11 +229,61 @@ items:
       - name: Children
       - name: Christening
     bullets:
-      - bullet: Hand modelled fondant teddy bear, and little Bible that was a tradition
-          to have in the family, tops the cute design of the cake
+      - bullet: Hand modelled fondant teddy bear topper and inclusion of the little
+          Bible, that was a tradition to have on the family Christening cakes
       - bullet: Classic vanilla sponge, paired with vanilla buttercream and raspberry
           jam for both tiers
       - bullet: "Served 65 portions "
     title: Teddy Bear Christening Cake
     text: Two tier grey, white, brown, teddy bear themed Christening cake
+  - images:
+      - image: /images/uploads/finding-nemo-cake-1.jpg
+        primary: true
+      - image: /images/uploads/finding-nemo-cake-2.jpg
+        primary: false
+      - image: /images/uploads/finding-nemo-cake-4.jpg
+        primary: false
+    tags:
+      - name: Children
+      - name: Birthday
+    title: Finding Nemo Birthday Cake
+    text: Finding Nemo 2nd birthday cake with fondant decorations
+    bullets:
+      - bullet: Hand modelled Finding Nemo characters, with coral reef fondant details
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 15 portions
+  - images:
+      - image: /images/uploads/gonk-house-cake-1.jpg
+        primary: true
+      - image: /images/uploads/gonk-house-cake-2.jpg
+        primary: false
+    bullets:
+      - bullet: Chocolate ganache coated cake in the shape of a Gonk house, with fondant
+          decorations
+      - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Served 20 portions
+    tags:
+      - name: Christmas
+    title: Gonk House Christmas Cake
+    text: Christmas cake inspired by a little Gonk house
+  - images:
+      - image: /images/uploads/hello-world-1.jpg
+        primary: true
+      - image: /images/uploads/hello-world-2.jpg
+        primary: false
+      - image: /images/uploads/hello-world-3.jpg
+        primary: false
+    bullets:
+      - bullet: Fondant covered cake, with hand modelled elephant and giraffe models,
+          world inspired top tier which matches the wooden cake topper
+      - bullet: Bottom tier, classic vanilla sponge, paired with vanilla buttercream and
+          strawberry jam. Top tier, rich and moist chocolate sponge, paired with
+          vanilla buttercream
+      - bullet: Served 50 portions
+    title: Hello World Christening Cake
+    tags:
+      - name: Christening
+      - name: Children
+    text: Two tier baby girl christening cake, with fresh flower cake topper
 ---
