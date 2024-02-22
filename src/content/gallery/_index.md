@@ -82,6 +82,17 @@ items:
         primary: false
     tags:
       - name: Birthday
+  - title: White and Silver Wedding Cake
+    text: A short bit of text about the brief.
+    bullets:
+      - bullet: Lorem ipsum dolor sit amet
+      - bullet: Lorem ipsum dolor sit amet
+      - bullet: Lorem ipsum dolor sit amet
+    images:
+      - image: /images/uploads/white-and-silver-wedding-cake.jpg
+        primary: true
+    tags:
+      - name: Wedding
   - title: Toy Story Birthday Cake
     text: Fun packed Toy Story themed cake
     bullets:
@@ -136,17 +147,6 @@ items:
     tags:
       - name: Birthday
       - name: Children
-  - title: White and Silver Wedding Cake
-    text: A short bit of text about the brief.
-    bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-    images:
-      - image: /images/uploads/white-and-silver-wedding-cake.jpg
-        primary: true
-    tags:
-      - name: Wedding
   - title: Finding Nemo Birthday Cake
     text: Two tier ganache covered Finding Nemo themed cake, with hand painted
       features
