@@ -381,4 +381,38 @@ items:
       - bullet: Served 45 portions
     text: Two tier blue and white fondant Christmas cake, with little hand painted
       Winter scene
+  - title: Minnie Mouse Cake
+    images:
+      - image: /images/uploads/minnie-mouse-1.jpg
+        primary: true
+      - image: /images/uploads/minnie-mouse-2.jpg
+        primary: false
+      - image: /images/uploads/minnie-mouse-3.jpg
+        primary: false
+    tags:
+      - name: Children
+      - name: Birthday
+    text: "Pink, white and gold, polka dot and flowers Minnie Mouse cake "
+    bullets:
+      - bullet: Minnie mouse jam packed cake with her face, 3D silhouettes and sugar
+          flowers
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 30 portions
+  - images:
+      - image: /images/uploads/9th-stitch-hawaii-1.jpg
+        primary: true
+      - image: /images/uploads/9th-stitch-hawaii-2.jpg
+        primary: false
+    title: Stitch Birthday Cake
+    bullets:
+      - bullet: Hawaii/tropical theme, with hand modelled Stitch character on top
+      - bullet: Zingy raspberry sponge, with a white chocolate buttercream filling,
+          paired with raspberry jam
+      - bullet: Served 30 portions
+    tags:
+      - name: Birthday
+      - name: Children
+    text: Two tier ganache covered cake, with chocolate wafer rolls and fondant
+      details
 ---
