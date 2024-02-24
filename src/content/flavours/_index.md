@@ -21,15 +21,14 @@ flavours:
       with raspberry jam
   - name: " "
     image: /images/uploads/coffee.jpg
-    text: "    Rich and intense coffee sponge, paired with a light mocha buttercream
-      filling"
+    text: Intense coffee sponge, paired with a light mocha buttercream filling
   - name: " "
     image: /images/uploads/lemon-and-elderflower.jpg
     text: "    Light lemon sponge, paired with a delicate elderflower buttercream
       filling"
   - name: " "
     image: /images/uploads/strawberry-and-prosecco.jpg
-    text: Silky strawberry sponge, with a Prosecco buttercream filling
+    text: Silky strawberry sponge, paired with a Prosecco buttercream filling
   - name: " "
     image: /images/uploads/tropical.jpg
     text: Exotic tropical sponge, paired with a light rum buttercream filling
