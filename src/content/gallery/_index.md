@@ -6,6 +6,7 @@ filters:
   - name: Wedding
   - name: Christening
   - name: Christmas
+  - name: Other
 items:
   - images:
       - image: /images/uploads/ted-lasso-cake-1.jpg
@@ -349,4 +350,35 @@ items:
           hand on the board, giving the 3D effect
       - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
       - bullet: Served 30 portions
+  - images:
+      - image: /images/uploads/superhero-cake-1.jpg
+        primary: true
+      - image: /images/uploads/superhero-cake-2.jpg
+        primary: false
+    title: Superhero Birthday Cake
+    tags:
+      - name: Birthday
+      - name: Children
+    bullets:
+      - bullet: Batgirl, Spider-woman Superwoman, all combined in one cake for a girl
+          who loves superhero's
+      - bullet: Both tiers, light lemon sponge, paired with vanilla buttercream and
+          tangy lemon curd
+      - bullet: Served 45 portions
+    text: Two tier girls Superhero cake with fondant details
+  - images:
+      - image: /images/uploads/winter-wonderland-1.jpg
+        primary: true
+      - image: /images/uploads/winter-wonderland-2.jpg
+        primary: false
+    tags:
+      - name: Christmas
+    title: Winter Wonderland Christmas Cake
+    bullets:
+      - bullet: Hand painted scene in the wreath on the top tier, with 3D trees and
+          ornate scroll
+      - bullet: Silky strawberry sponge, paired with a Prosecco buttercream filling
+      - bullet: Served 45 portions
+    text: Two tier blue and white fondant Christmas cake, with little hand painted
+      Winter scene
 ---
