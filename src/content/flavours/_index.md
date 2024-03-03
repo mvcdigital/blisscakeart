@@ -30,6 +30,6 @@ flavours:
     image: /images/uploads/strawberry-and-prosecco.jpg
     text: Silky strawberry sponge, paired with a Prosecco buttercream filling
   - name: " "
-    image: /images/uploads/tropical.jpg
+    image: /images/uploads/tropical-and-rum-flavour.jpg
     text: Exotic tropical sponge, paired with a light rum buttercream filling
 ---
