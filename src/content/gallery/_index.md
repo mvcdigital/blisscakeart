@@ -360,7 +360,7 @@ items:
       - name: Birthday
       - name: Children
     bullets:
-      - bullet: Batgirl, Spider-woman Superwoman, all combined in one cake for a girl
+      - bullet: Batgirl, Spider-woman, Superwoman, all combined in one cake for a girl
           who loves superhero's
       - bullet: Both tiers, light lemon sponge, paired with vanilla buttercream and
           tangy lemon curd
@@ -394,8 +394,8 @@ items:
       - name: Birthday
     text: "Pink, white and gold, polka dot and flowers Minnie Mouse cake "
     bullets:
-      - bullet: Minnie mouse jam packed cake with her face, 3D silhouettes and sugar
-          flowers
+      - bullet: Mega Minnie Mouse cake with her face front and centre, 3D silhouettes
+          and sugar flowers
       - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
           jam
       - bullet: Served 30 portions
@@ -415,4 +415,89 @@ items:
       - name: Children
     text: Two tier ganache covered cake, with chocolate wafer rolls and fondant
       details
+  - title: Gruffalo Birthday Cake
+    text: "Gruffalo themed 3rd Birthday cake "
+    images:
+      - image: /images/uploads/gruffalo-1.jpg
+        primary: true
+      - image: /images/uploads/gruffalo-2.jpg
+        primary: false
+      - image: /images/uploads/gruffalo-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+      - name: Children
+    bullets:
+      - bullet: Fondant covered birthday cake, with a hand modelled Gruffalo on top
+      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
+          filling
+      - bullet: Served 30 portions
+  - title: Spiderman Cake
+    images:
+      - image: /images/uploads/spiderman-1.jpg
+        primary: true
+      - image: /images/uploads/spiderman-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
+      - name: Children
+    text: Spiderman themed 3rd birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with Spiderman's face on top and the night
+          cityscape
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
+      - bullet: Served 30 portions
+  - title: Formula 1 Helmet Birthday Cake
+    text: "F1 helmet birthday cake for a F1 super fan "
+    images:
+      - image: /images/uploads/hamilton-s-helmet-1.jpg
+        primary: true
+      - image: /images/uploads/hamilton-s-helmet-2.jpg
+        primary: false
+      - image: /images/uploads/hamilton-s-helmet-3.jpg
+        primary: false
+      - image: /images/uploads/hamilton-s-helmet-4.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    bullets:
+      - bullet: Fondant replica of Lewis Hamilton's Helmet, with hand painted features
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 20 portions
+  - images:
+      - image: /images/uploads/sonic-1.jpg
+        primary: false
+      - image: /images/uploads/sonic-2.jpg
+        primary: false
+      - image: /images/uploads/sonic-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+      - name: Children
+    title: Sonic Birthday Cake
+    text: Sonic themed 6th birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with hand modelled Sonic topping the cake
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 30 portions
+  - images:
+      - image: /images/uploads/70th-knitting-cake-1.jpg
+        primary: true
+      - image: /images/uploads/70th-knitting-cake-2.jpg
+        primary: false
+      - image: /images/uploads/70th-knitting-cake-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    title: Knitting Birthday Cake
+    text: 70th knitting themed birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with grey and pink fondant details and cake pop
+          wool balls topping the cake
+      - bullet: Light lemon sponge, with a vanilla buttercream filling, paired with
+          tangy lemon
+      - bullet: Served 40 portions
 ---
