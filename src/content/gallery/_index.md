@@ -84,11 +84,17 @@ items:
     tags:
       - name: Birthday
   - title: White and Silver Wedding Cake
-    text: A short bit of text about the brief.
+    text: 4 tier all white wedding cake, with silver features
     bullets:
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
-      - bullet: Lorem ipsum dolor sit amet
+      - bullet: White fondant covered tiers, with hand modelled sugar flowers. Plus a
+          free from mini cake made specially for a guest
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
+          buttercream filling. 3rd tier, classic vanilla sponge, paired with a
+          vanilla buttercream filling and strawberry jam. 2nd tier, (retired)
+          luxurious red velvet sponge, paired with a cream cheese buttercream
+          filling. Top tier, intense coffee sponge, paired with a light mocha
+          buttercream filling.
+      - bullet: Served 170 portions
     images:
       - image: /images/uploads/white-and-silver-wedding-cake.jpg
         primary: true
