@@ -506,4 +506,22 @@ items:
       - bullet: Light lemon sponge, with a vanilla buttercream filling, paired with
           tangy lemon
       - bullet: Served 40 portions
+  - title: Stranger Things Birthday Cake
+    text: "2 tier Stranger Things themed birthday cake "
+    tags:
+      - name: Birthday
+    bullets:
+      - bullet: Fondant covered cake, with hand modelled fondant Demogorgon topping the
+          cake
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
+          buttercream filling. Top tier, classic vanilla sponge, with a vanilla
+          buttercream filling, paired with either strawberry jam
+      - bullet: Served 45 portions
+    images:
+      - image: /images/uploads/ben-stranger-things-1.jpg
+        primary: true
+      - image: /images/uploads/ben-stranger-things-2.jpg
+        primary: false
+      - image: /images/uploads/ben-stranger-things-3.jpg
+        primary: false
 ---
