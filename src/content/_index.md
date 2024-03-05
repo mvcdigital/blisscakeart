@@ -9,8 +9,11 @@ images:
   - image: /images/uploads/600x400.png
   - image: /images/uploads/600x400.png
 testimonials:
-  - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - text: Lorem ipsum
+  - text: dolor sit amet
+  - text: consectetur adipiscing elit
+  - text: or incididunt ut labore et dolore ma
+  - text: " magna aliqua."
 content: >-
   Welcome to Bliss Cake Art, the home of bespoke designed cakes, focusing on
   hand painted elements creating edible art, in Bucks, U.K. 
