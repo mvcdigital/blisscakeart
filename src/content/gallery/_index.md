@@ -514,8 +514,8 @@ items:
       - bullet: Fondant covered cake, with hand modelled fondant Demogorgon topping the
           cake
       - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
-          buttercream filling. Top tier, classic vanilla sponge, with a vanilla
-          buttercream filling, paired with either strawberry jam
+          buttercream filling. Top tier, classic vanilla sponge, paired with a
+          vanilla buttercream filling and strawberry jam
       - bullet: Served 45 portions
     images:
       - image: /images/uploads/ben-stranger-things-1.jpg
@@ -524,4 +524,21 @@ items:
         primary: false
       - image: /images/uploads/ben-stranger-things-3.jpg
         primary: false
+  - title: Motorhome Retirement Cake
+    bullets:
+      - bullet: Fondant covered cake, with details on the board representing different
+          things in their life
+      - bullet: Classic vanilla sponge, with a vanilla buttercream filling, paired with
+          strawberry jam
+      - bullet: Served 40 portions
+    images:
+      - image: /images/uploads/motorhome-leaving-cake-1.jpg
+        primary: true
+      - image: /images/uploads/motorhome-leaving-cake-2.jpg
+        primary: false
+      - image: /images/uploads/motorhome-leaving-cake-3.jpg
+        primary: false
+    tags:
+      - name: Other
+    text: Based on the motorhome they were going to spend time in once they retired
 ---
