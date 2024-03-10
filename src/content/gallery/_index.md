@@ -489,23 +489,6 @@ items:
       - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
           jam
       - bullet: Served 30 portions
-  - images:
-      - image: /images/uploads/70th-knitting-cake-1.jpg
-        primary: true
-      - image: /images/uploads/70th-knitting-cake-2.jpg
-        primary: false
-      - image: /images/uploads/70th-knitting-cake-3.jpg
-        primary: false
-    tags:
-      - name: Birthday
-    title: Knitting Birthday Cake
-    text: 70th knitting themed birthday cake
-    bullets:
-      - bullet: Fondant covered cake, with grey and pink fondant details and cake pop
-          wool balls topping the cake
-      - bullet: Light lemon sponge, with a vanilla buttercream filling, paired with
-          tangy lemon
-      - bullet: Served 40 portions
   - title: Stranger Things Birthday Cake
     text: "2 tier Stranger Things themed birthday cake "
     tags:
@@ -541,4 +524,21 @@ items:
     tags:
       - name: Other
     text: Based on the motorhome they were going to spend time in once they retired
+  - title: Knitting Birthday Cake
+    text: 70th knitting themed birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with grey and pink fondant details and cake pop
+          wool balls topping the cake
+      - bullet: Light lemon sponge, with a vanilla buttercream filling, paired with
+          tangy lemon
+      - bullet: Served 40 portions
+    tags:
+      - name: Birthday
+    images:
+      - image: /images/uploads/70th-knitting-cake-1.jpg
+        primary: true
+      - image: /images/uploads/70th-knitting-cake-2.jpg
+        primary: false
+      - image: /images/uploads/70th-knitting-cake-3.jpg
+        primary: false
 ---
