@@ -438,4 +438,21 @@ items:
       - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
           filling
       - bullet: Served 30 portions
+  - title: Sonic Birthday Cake
+    text: Sonic themed 6th birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with a hand modelled Sonic topping the cake
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 30 portions
+    tags:
+      - name: Children
+      - name: Birthday
+    images:
+      - image: /images/uploads/sonic-1.jpg
+        primary: true
+      - image: /images/uploads/sonic-2.jpg
+        primary: false
+      - image: /images/uploads/sonic-3.jpg
+        primary: false
 ---
