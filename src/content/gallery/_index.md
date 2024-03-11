@@ -243,6 +243,24 @@ items:
         primary: false
     tags:
       - name: Children
+  - title: Stranger Things Birthday Cake
+    text: 2 tier Stranger Things themed birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with hand modelled fondant Demogorgon topping the
+          cake
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
+          buttercream filling. Top tier, classic vanilla sponge, paired with a
+          vanilla buttercream and strawberry jam
+      - bullet: Served 45 portions
+    images:
+      - image: /images/uploads/ben-stranger-things-1.jpg
+        primary: true
+      - image: /images/uploads/ben-stranger-things-2.jpg
+        primary: false
+      - image: /images/uploads/ben-stranger-things-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
   - images:
       - image: /images/uploads/finding-nemo-cake-1.jpg
         primary: true
@@ -488,24 +506,6 @@ items:
         primary: false
     tags:
       - name: Children
-      - name: Birthday
-  - title: Stranger Things Birthday Cake
-    text: 2 tier Stranger Things themed birthday cake
-    bullets:
-      - bullet: Fondant covered cake, with hand modelled fondant Demogorgon topping the
-          cake
-      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
-          buttercream filling. Top tier, classic vanilla sponge, paired with a
-          vanilla buttercream and strawberry jam
-      - bullet: Served 45 portions
-    images:
-      - image: /images/uploads/ben-stranger-things-1.jpg
-        primary: true
-      - image: /images/uploads/ben-stranger-things-2.jpg
-        primary: false
-      - image: /images/uploads/ben-stranger-things-3.jpg
-        primary: false
-    tags:
       - name: Birthday
   - title: Motorhome Retirement Cake
     text: "Cake based on the motorhome they were going to spend time in, once they
