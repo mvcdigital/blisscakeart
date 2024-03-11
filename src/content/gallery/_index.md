@@ -23,10 +23,10 @@ items:
     bullets:
       - bullet: Hand painted Ted Lasso inspired characters on the bottom tier, with
           fondant details based on the TV programme
-      - bullet: Bottom tier, rich and moist chocolate sponge paired with vanilla
-          buttercream. Middle tier, intense coffee sponge, paired with a light
-          mocha buttercream. Top tier, light lemon sponge, paired with vanilla
-          buttercream and tangy lemon curd
+      - bullet: Bottom tier, rich and moist chocolate sponge paired with a vanilla
+          buttercream filling. Middle tier, intense coffee sponge, paired with a
+          light mocha buttercream filling. Top tier, light lemon sponge, paired
+          with vanilla buttercream and tangy lemon curd filling
       - bullet: Served 60 portions
   - title: Triathlon Wedding Cake
     text: "A bespoke wedding cake designed for a couple who met while Triathlon
@@ -35,8 +35,8 @@ items:
       - bullet: 3 tier wedding cake, topped with a fresh flower display based on the
           their wedding flowers
       - bullet: Bottom tier, rich coffee sponge paired with a light mocha buttercream
-          filling. Middle tier, a classic vanilla sponge paired with vanilla
-          buttercream and strawberry jam. Top tier, fruit cake.
+          filling. Middle tier, a classic vanilla sponge paired with a vanilla
+          buttercream and strawberry jam filling. Top tier, fruit cake.
       - bullet: Served 120 portions
     images:
       - image: /images/uploads/triathlon-wedding-cake.jpg
@@ -48,9 +48,9 @@ items:
       ditsy flowers
     bullets:
       - bullet: Two tier fondant covered cake, topped with a hand modelled Peter Rabbit
-      - bullet: Bottom tier, a classic vanilla sponge paired with vanilla buttercream
-          and strawberry jam. Top tier, rich and moist chocolate sponge paired
-          with vanilla buttercream
+      - bullet: Bottom tier, classic vanilla sponge paired with a vanilla buttercream
+          and strawberry jam filling. Top tier, rich and moist chocolate sponge
+          paired with vanilla buttercream filling
       - bullet: Served 40 portions
     images:
       - image: /images/uploads/peter-rabbit-christening-1.jpg
@@ -66,7 +66,8 @@ items:
     text: Mega Avengers birthday cake for a Marvel fan
     bullets:
       - bullet: Avengers theme, including Thor, Captain America, Spiderman and Hulk
-      - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
       - bullet: Served 45 portions
     images:
       - image: /images/uploads/marvel-cake-1.jpg
@@ -90,7 +91,7 @@ items:
           free from mini cake made specially for a guest
       - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
           buttercream filling. 3rd tier, classic vanilla sponge, paired with a
-          vanilla buttercream filling and strawberry jam. 2nd tier, (retired)
+          vanilla buttercream and strawberry jam filling. 2nd tier, (retired)
           luxurious red velvet sponge, paired with a cream cheese buttercream
           filling. Top tier, intense coffee sponge, paired with a light mocha
           buttercream filling.
@@ -104,8 +105,8 @@ items:
     text: Fun packed Toy Story themed cake
     bullets:
       - bullet: Woody, Buzz Lightyear, Jessie and Forky hand crafted fondant models
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
-          jam
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
       - bullet: Served 30 portions
     images:
       - image: /images/uploads/toy-story-1.jpg
@@ -126,7 +127,8 @@ items:
     bullets:
       - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
           hair garland, like the little girl requested
-      - bullet: Light lemon sponge, paired with vanilla sponge and tangy lemon curd
+      - bullet: Light lemon sponge, paired with a vanilla sponge and tangy lemon curd
+          filling
       - bullet: Served 30 portions
     images:
       - image: /images/uploads/luisa-painting-1.jpg
@@ -140,9 +142,9 @@ items:
     bullets:
       - bullet: Two tier ganache covered cake, with sketched style images, hand drawn on
           fondant
-      - bullet: Bottom tier, rich and moist chocolate sponge paired with chocolate
-          buttercream. Top tier, classic vanilla sponge paired with vanilla
-          buttercream and raspberry jam
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a chocolate
+          buttercream filling. Top tier, classic vanilla sponge, paired with a
+          vanilla buttercream and raspberry jam filling
       - bullet: Served 40 portions
     images:
       - image: /images/uploads/gruffalo-sketches-1.jpg
@@ -160,9 +162,9 @@ items:
     bullets:
       - bullet: Hand painted Nemo and Dory on fondant, topped with the hand modelled
           pelican
-      - bullet: Bottom tier, light lemon sponge paired with vanilla buttercream and
-          tangy lemon curd. Top tier, rich and moist chocolate sponge paired
-          with vanilla buttercream
+      - bullet: Bottom tier, light lemon sponge paired with a vanilla buttercream and
+          tangy lemon curd filling. Top tier, rich and moist chocolate sponge,
+          paired with a vanilla buttercream filling
       - bullet: Served 30 portions
     images:
       - image: /images/uploads/willow-finding-nemo-1.jpg
@@ -188,7 +190,8 @@ items:
     bullets:
       - bullet: Ganache covered cake, with hand painted giraffe silhouettes against the
           sunset
-      - bullet: Light lemon sponge, paired with vanilla buttercream and tangy lemon curd
+      - bullet: Light lemon sponge, paired with a vanilla buttercream and tangy lemon
+          curd filling
       - bullet: Served 25 portions
     title: Safari Sunset Birthday Cake
     text: Hand painted safari sunset 80th birthday cake
@@ -203,8 +206,8 @@ items:
     bullets:
       - bullet: Hand modelled fondant teddy bear topper and inclusion of the little
           Bible, that was a tradition to have on the family Christening cakes
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and raspberry
-          jam for both tiers
+      - bullet: Both tiers, classic vanilla sponge, paired with a vanilla buttercream
+          and raspberry jam filling
       - bullet: "Served 65 portions "
     title: Teddy Bear Christening Cake
     text: Two tier grey, white, brown, teddy bear themed Christening cake
@@ -223,16 +226,17 @@ items:
     bullets:
       - bullet: Ticking time bomb cake, with hand modelled fondant Danger Mouse
           characters
-      - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
       - bullet: Served 30 portions
   - title: Winnie The Pooh Cake
     text: Hand painted Winnie The Pooh with book extract
     bullets:
       - bullet: Two tier ganache covered cake, with hand painted features and rice paper
           3d element
-      - bullet: Bottom tier, rich and moist chocolate sponge, paired with vanilla
-          buttercream. Top tier, classic vanilla sponge, paired with vanilla
-          buttercream and raspberry jam
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
+          buttercream filling. Top tier, classic vanilla sponge, paired with a
+          vanilla buttercream and raspberry jam filling
       - bullet: Served 30 portions
     images:
       - image: /images/uploads/winnie-the-pooh-1.jpg
@@ -250,7 +254,7 @@ items:
           cake
       - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
           buttercream filling. Top tier, classic vanilla sponge, paired with a
-          vanilla buttercream and strawberry jam
+          vanilla buttercream and strawberry jam filling
       - bullet: Served 45 portions
     images:
       - image: /images/uploads/ben-stranger-things-1.jpg
@@ -275,8 +279,8 @@ items:
     text: Finding Nemo 2nd birthday cake with fondant decorations
     bullets:
       - bullet: Hand modelled Finding Nemo characters, with coral reef fondant details
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
-          jam
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
       - bullet: Served 15 portions
   - images:
       - image: /images/uploads/gonk-house-cake-1.jpg
@@ -286,7 +290,8 @@ items:
     bullets:
       - bullet: Chocolate ganache coated cake in the shape of a Gonk house, with fondant
           decorations
-      - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
       - bullet: Served 20 portions
     tags:
       - name: Christmas
@@ -302,9 +307,9 @@ items:
     bullets:
       - bullet: Fondant covered cake, with hand modelled elephant and giraffe models,
           world inspired top tier which matches the wooden cake topper
-      - bullet: Bottom tier, classic vanilla sponge, paired with vanilla buttercream and
-          strawberry jam. Top tier, rich and moist chocolate sponge, paired with
-          vanilla buttercream
+      - bullet: Bottom tier, classic vanilla sponge, paired with a vanilla buttercream
+          and strawberry jam filling. Top tier, rich and moist chocolate sponge,
+          paired with a vanilla buttercream filling
       - bullet: Served 50 portions
     title: Hello World Christening Cake
     tags:
@@ -324,7 +329,8 @@ items:
     bullets:
       - bullet: Fondant details to represent key things from the TV programme, such as
           the flat cap, cigarettes and stop watch
-      - bullet: Light lemon sponge, paired with vanilla buttercream and tangy lemon curd
+      - bullet: Light lemon sponge, paired with a vanilla buttercream and tangy lemon
+          curd filling
       - bullet: Served 20 portions
     text: Peaky Blinders themed birthday cake, with fondant details
   - images:
@@ -339,8 +345,8 @@ items:
     bullets:
       - bullet: Fondant covered cake, with modelled details such as the reels of cotton,
           pin cushion and embroidered Olaf - who was her favourite character
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
-          jam
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
       - bullet: Served 25 portions
     title: Sewing Birthday Cake
     text: Sewing themed birthday cake, with fondant needle work details
@@ -357,7 +363,7 @@ items:
     bullets:
       - bullet: "Fondant covered cake, with fondant details in the bed, rug and side
           table "
-      - bullet: Intense coffee sponge, paired with a light mocha buttercream
+      - bullet: Intense coffee sponge, paired with a light mocha buttercream filling
       - bullet: Served 30 portions
     text: Christmas cake inspired by Santa over sleeping in bed on Christmas morning
   - images:
@@ -372,7 +378,8 @@ items:
     bullets:
       - bullet: Hand painted Spiderman image on the bottom tier, with fondant modelled
           hand on the board, giving the 3D effect
-      - bullet: Rich and moist chocolate sponge, paired with vanilla buttercream
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
       - bullet: Served 30 portions
   - images:
       - image: /images/uploads/superhero-cake-1.jpg
@@ -386,8 +393,8 @@ items:
     bullets:
       - bullet: Batgirl, Spider-woman, Superwoman, all combined in one cake for a girl
           who loves superhero's
-      - bullet: Both tiers, light lemon sponge, paired with vanilla buttercream and
-          tangy lemon curd
+      - bullet: Both tiers, light lemon sponge, paired with a vanilla buttercream and
+          tangy lemon curd filling
       - bullet: Served 45 portions
     text: Two tier girls Superhero cake with fondant details
   - images:
@@ -420,8 +427,8 @@ items:
     bullets:
       - bullet: Mega Minnie Mouse cake with her face front and centre, 3D silhouettes
           and sugar flowers
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
-          jam
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
       - bullet: Served 30 portions
   - images:
       - image: /images/uploads/9th-stitch-hawaii-1.jpg
@@ -431,8 +438,8 @@ items:
     title: Stitch Birthday Cake
     bullets:
       - bullet: Hawaii/tropical theme, with hand modelled Stitch character on top
-      - bullet: Zingy raspberry sponge, with a white chocolate buttercream filling,
-          paired with raspberry jam
+      - bullet: Zingy raspberry sponge, paired with a white chocolate buttercream and
+          raspberry jam filling
       - bullet: Served 30 portions
     tags:
       - name: Birthday
@@ -460,8 +467,8 @@ items:
     text: Sonic themed 6th birthday cake
     bullets:
       - bullet: Fondant covered cake, with a hand modelled Sonic topping the cake
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
-          jam
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
       - bullet: Served 30 portions
     tags:
       - name: Children
@@ -488,8 +495,8 @@ items:
         primary: false
     bullets:
       - bullet: Fondant replica of Lewis Hamilton's helmet, with hand painted features
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
-          jam
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
       - bullet: Served 20 portions
   - title: Spiderman Cake
     text: Spiderman cityscape children's birthday cake
