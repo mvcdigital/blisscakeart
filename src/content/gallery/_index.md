@@ -525,4 +525,21 @@ items:
         primary: false
     tags:
       - name: Other
+  - title: Knitting Birthday Cake
+    text: 70th knitting themed birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with grey and pink fondant details, and cake pop
+          wool ball topping the cake
+      - bullet: Light lemon sponge, paired with a vanilla buttercream and tangy lemon
+          curd filling
+      - bullet: Served 40 portions
+    images:
+      - image: /images/uploads/70th-knitting-cake-1.jpg
+        primary: true
+      - image: /images/uploads/70th-knitting-cake-2.jpg
+        primary: false
+      - image: /images/uploads/70th-knitting-cake-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
 ---
