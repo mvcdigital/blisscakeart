@@ -13,8 +13,8 @@ flavours:
       buttercream filling
   - name: " "
     image: /images/uploads/lemon-flavour.jpg
-    text: Light lemon sponge, paired with a vanilla buttercream and tangy lemon curd
-      filling
+    text: "     Light lemon sponge, paired with a vanilla buttercream and tangy
+      lemon curd filling"
   - name: " "
     image: /images/uploads/raspberry-and-white-chocolate-flavour.jpg
     text: Zingy raspberry sponge, paired with a white chocolate buttercream and
