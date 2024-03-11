@@ -18,8 +18,8 @@ content: >-
   hand painted elements creating edible art, in Bucks, U.K. 
 
 
-  Owner, Ricarda, is an award winning cake artist, achieving a Gold award in Cake International 2023 in the Hand Painted Category. She prides herself in creating memorable cakes, which are bespoke, unique and individual to each person and their vision.
+  I'm owner and creator, Ricarda, an award winning cake artist, achieving a Gold award in Cake International 2023 in the Hand Painted Category. I pride myself in creating memorable cakes, which are bespoke, unique and individual to each person and their vision.
 
 
-  Click below to explore her creations!
+  Click below to explore my creations!
 ---
