@@ -84,7 +84,7 @@ items:
     tags:
       - name: Birthday
   - title: White and Silver Wedding Cake
-    text: 4 tier all white wedding cake, with silver features
+    text: 4 tier all white wedding cake, with slight silver features
     bullets:
       - bullet: White fondant covered tiers, with hand modelled sugar flowers. Plus a
           free from mini cake made specially for a guest
@@ -455,4 +455,74 @@ items:
         primary: false
       - image: /images/uploads/sonic-3.jpg
         primary: false
+  - title: Formula 1 Helmet Birthday Cake
+    text: Lewis Hamilton's F1 helmet replica, for an F1 super fan
+    tags:
+      - name: Birthday
+    images:
+      - image: /images/uploads/hamilton-s-helmet-1.jpg
+        primary: true
+      - image: /images/uploads/hamilton-s-helmet-2.jpg
+        primary: false
+      - image: /images/uploads/hamilton-s-helmet-3.jpg
+        primary: false
+      - image: /images/uploads/hamilton-s-helmet-4.jpg
+        primary: false
+    bullets:
+      - bullet: Fondant replica of Lewis Hamilton's helmet, with hand painted features
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 20 portions
+  - title: Spiderman Cake
+    text: Spiderman cityscape children's birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with Spiderman's face on top and the night
+          cityscape
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
+      - bullet: Served 30 portions
+    images:
+      - image: /images/uploads/spiderman-1.jpg
+        primary: true
+      - image: /images/uploads/spiderman-2.jpg
+        primary: false
+    tags:
+      - name: Children
+      - name: Birthday
+  - title: Stranger Things Birthday Cake
+    text: 2 tier Stranger Things themed birthday cake
+    bullets:
+      - bullet: Fondant covered cake, with hand modelled fondant Demogorgon topping the
+          cake
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
+          buttercream filling. Top tier, classic vanilla sponge, paired with a
+          vanilla buttercream and strawberry jam
+      - bullet: Served 45 portions
+    images:
+      - image: /images/uploads/ben-stranger-things-1.jpg
+        primary: true
+      - image: /images/uploads/ben-stranger-things-2.jpg
+        primary: false
+      - image: /images/uploads/ben-stranger-things-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+  - title: Motorhome Retirement Cake
+    text: "Cake based on the motorhome they were going to spend time in, once they
+      retired "
+    bullets:
+      - bullet: Fondant covered cake, with details on the board representing different
+          things in their life
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
+      - bullet: Served 40 portions
+    images:
+      - image: /images/uploads/motorhome-leaving-cake-1.jpg
+        primary: true
+      - image: /images/uploads/motorhome-leaving-cake-2.jpg
+        primary: false
+      - image: /images/uploads/motorhome-leaving-cake-3.jpg
+        primary: false
+    tags:
+      - name: Other
 ---
