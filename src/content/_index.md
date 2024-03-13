@@ -4,7 +4,7 @@ subtitle: Welcome
 hero: /images/uploads/home-hero.jpg
 images:
   - image: /images/uploads/home-page-scroll-image-1.jpg
-  - image: /images/uploads/600x400.png
+  - image: /images/uploads/home-page-scroll-image-2.jpg
   - image: /images/uploads/600x400.png
   - image: /images/uploads/600x400.png
 testimonials:
