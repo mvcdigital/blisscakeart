@@ -1,7 +1,7 @@
 ---
 title: Terms and Conditions and Privacy
 content: >-
-  **TERMS AND CONDITIONS**
+  ## **TERMS AND CONDITIONS**
 
 
   The agreement is between the supplier ‘Bliss Cake Art’ and you, the customer.
@@ -192,7 +192,7 @@ content: >-
 
 
 
-  **PRIVACY**
+  ## **PRIVACY**
 
 
   Bliss Cake Art is committed to protecting and respecting any personal information you share with us. This statement describes what type of information we collect from you, how it is used and how we manage the information we hold.
