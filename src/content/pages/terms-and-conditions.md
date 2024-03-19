@@ -7,7 +7,7 @@ content: >-
   The agreement is between the supplier ‘Bliss Cake Art’ and you, the customer.
 
 
-   **Placing an Order**
+  **Placing an Order**
 
 
   a) Orders will be accepted via email, either directly or via the online contact form. 
@@ -186,6 +186,8 @@ content: >-
 
 
   f) It is at Bliss Cake Art’s discretion as to what refund, if any, will be given.
+
+
 
 
 
