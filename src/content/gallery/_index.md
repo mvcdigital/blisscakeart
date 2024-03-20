@@ -551,7 +551,13 @@ items:
       - name: Birthday
   - title: Semi-Naked Wedding Cake
     text: 2 tier white chocolate ganache coated wedding cake
-    images: []
+    images:
+      - image: /images/uploads/ryan-and-jamie-wedding-cake-1.jpg
+        primary: true
+      - image: /images/uploads/ryan-and-jamie-wedding-cake-2.jpg
+        primary: false
+      - image: /images/uploads/ryan-and-jamie-wedding-cake-3.jpg
+        primary: false
     tags:
       - name: Wedding
     bullets:
@@ -569,4 +575,9 @@ items:
       - bullet: Served 20 portions
     tags:
       - name: Other
+    images:
+      - image: /images/uploads/mother-s-day-portrait-1.jpg
+        primary: true
+      - image: /images/uploads/mother-s-day-portrait-2.jpg
+        primary: false
 ---
