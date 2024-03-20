@@ -549,4 +549,24 @@ items:
         primary: false
     tags:
       - name: Birthday
+  - title: Semi-Naked Wedding Cake
+    text: 2 tier white chocolate ganache coated wedding cake
+    images: []
+    tags:
+      - name: Wedding
+    bullets:
+      - bullet: Bottom tier, Lingy raspberry sponge, with a white chocolate buttercream
+          filling, paired with raspberry jam. Top tier, Light lemon sponge, with
+          a vanilla buttercream filling, paired with tangy lemon curd
+      - bullet: Served 75 portions
+  - title: Mother's Day Cake
+    text: Hand painted image against pastel colours Mother's Day cake
+    bullets:
+      - bullet: One line drawing of a mother and her child, with organic pastel coloured
+          shapes and leaves in the background
+      - bullet: Light lemon sponge, with a vanilla buttercream filling, paired with
+          tangy lemon curd
+      - bullet: Served 20 portions
+    tags:
+      - name: Other
 ---
