@@ -644,4 +644,20 @@ items:
       - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
           filling
       - bullet: Served 15 portions
+  - images:
+      - image: /images/uploads/easter_birthday-cake-1.jpg
+        primary: true
+      - image: /images/uploads/easter_birthday-cake-2.jpg
+        primary: false
+    tags:
+      - name: Easter
+      - name: Birthday
+    title: Easter Bunny Birthday Cake
+    text: Easter/Birthday smash up with this big bunny cake
+    bullets:
+      - bullet: Fondant covered cake with fondant details, piping and acrylic cake
+          topper
+      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
+          filling
+      - bullet: Served 40 portions
 ---
