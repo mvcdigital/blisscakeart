@@ -213,6 +213,19 @@ items:
     tags:
       - name: Birthday
       - name: Children
+  - title: Watercolour Flowers Mother's Day Cake
+    text: Hand painted flowers in a watercolour design for Mother's Day
+    tags:
+      - name: Other
+    images:
+      - image: /images/uploads/watercolour-flowers-mother-s-day-cake.jpg
+        primary: true
+    bullets:
+      - bullet: Fondant covered cake, with hand painted floral design in a watercolour
+          style and gold edging
+      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
+          filling
+      - bullet: Served 15 portions
   - images:
       - image: /images/uploads/80th-elephant-cake-1.jpg
         primary: true
@@ -262,21 +275,6 @@ items:
           filling, paired with raspberry jam. Top tier, Light lemon sponge, with
           a vanilla buttercream filling, paired with tangy lemon curd
       - bullet: Served 75 portions
-  - title: Mother's Day Cake
-    text: Hand painted image against pastel colours Mother's Day cake
-    bullets:
-      - bullet: One line drawing of a mother and her child, with organic pastel coloured
-          shapes and leaves in the background
-      - bullet: Light lemon sponge, with a vanilla buttercream filling, paired with
-          tangy lemon curd
-      - bullet: Served 20 portions
-    tags:
-      - name: Other
-    images:
-      - image: /images/uploads/mother-s-day-portrait-1.jpg
-        primary: true
-      - image: /images/uploads/mother-s-day-portrait-2.jpg
-        primary: false
   - images:
       - image: /images/uploads/danger-mouse-cake-1.jpg
         primary: true
@@ -313,6 +311,21 @@ items:
         primary: false
     tags:
       - name: Children
+  - title: Mother's Day Cake
+    text: Hand painted image against pastel colours Mother's Day cake
+    bullets:
+      - bullet: One line drawing of a mother and her child, with organic pastel coloured
+          shapes and leaves in the background
+      - bullet: Light lemon sponge, with a vanilla buttercream filling, paired with
+          tangy lemon curd
+      - bullet: Served 20 portions
+    tags:
+      - name: Other
+    images:
+      - image: /images/uploads/mother-s-day-portrait-1.jpg
+        primary: true
+      - image: /images/uploads/mother-s-day-portrait-2.jpg
+        primary: false
   - title: Stranger Things Birthday Cake
     text: 2 tier Stranger Things themed birthday cake
     bullets:
@@ -633,19 +646,6 @@ items:
         primary: false
     tags:
       - name: Other
-  - title: Watercolour Flowers Mother's Day Cake
-    text: Hand painted flowers in a watercolour design for Mother's Day
-    tags:
-      - name: Other
-    images:
-      - image: /images/uploads/watercolour-flowers-mother-s-day-cake.jpg
-        primary: true
-    bullets:
-      - bullet: Fondant covered cake, with hand painted floral design in a watercolour
-          style and gold edging
-      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
-          filling
-      - bullet: Served 15 portions
   - images:
       - image: /images/uploads/easter_birthday-cake-1.jpg
         primary: true
