@@ -580,4 +580,27 @@ items:
         primary: false
     tags:
       - name: Birthday
+  - images:
+      - image: /images/uploads/wonka-cake-1.jpg
+        primary: true
+      - image: /images/uploads/wonka-cake-2.jpg
+        primary: false
+      - image: /images/uploads/wonka-cake-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+      - name: Children
+    title: Wonka Birthday Cake
+    text: Hand painted Wonka themed 9th Birthday Cake
+    bullets:
+      - bullet: Fondant covered two tier cake, with hand painted details including a
+          portrait of Timothy Chalamet as Willy Wonka
+      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
+          filling
+      - bullet: Served 45 portions
+  - title: Flopsy Bunny Easter Cake
+    text: Hand painted Flopsy Bunny Easter cake, with rice paper floral hoop
+    tags:
+      - name: Other
+    images: []
 ---
