@@ -633,4 +633,15 @@ items:
         primary: false
     tags:
       - name: Other
+  - title: Watercolour Flowers Mother's Day Cake
+    text: Hand painted flowers in a watercolour design for Mother's Day
+    tags:
+      - name: Other
+    images: []
+    bullets:
+      - bullet: Fondant covered cake, with hand painted floral design in a watercolour
+          style and gold edging
+      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
+          filling
+      - bullet: Served 15 portions
 ---
