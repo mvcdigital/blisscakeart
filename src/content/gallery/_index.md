@@ -84,23 +84,24 @@ items:
         primary: false
     tags:
       - name: Birthday
-  - title: White and Silver Wedding Cake
-    text: 4 tier all white wedding cake, with slight silver features
-    bullets:
-      - bullet: White fondant covered tiers, with hand modelled sugar flowers. Plus a
-          free from mini cake made specially for a guest
-      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
-          buttercream filling. 3rd tier, classic vanilla sponge, paired with a
-          vanilla buttercream and strawberry jam filling. 2nd tier, (retired)
-          luxurious red velvet sponge, paired with a cream cheese buttercream
-          filling. Top tier, intense coffee sponge, paired with a light mocha
-          buttercream filling.
-      - bullet: Served 170 portions
-    images:
-      - image: /images/uploads/white-and-silver-wedding-cake.jpg
+  - images:
+      - image: /images/uploads/wonka-cake-1.jpg
         primary: true
+      - image: /images/uploads/wonka-cake-2.jpg
+        primary: false
+      - image: /images/uploads/wonka-cake-3.jpg
+        primary: false
     tags:
-      - name: Wedding
+      - name: Birthday
+      - name: Children
+    title: Wonka Birthday Cake
+    text: Hand painted Wonka themed 9th Birthday Cake
+    bullets:
+      - bullet: Fondant covered two tier cake, with hand painted details including a
+          portrait of Timothy Chalamet as Willy Wonka
+      - bullet: Both tiers, rich and moist chocolate sponge, paired with a chocolate
+          buttercream filling
+      - bullet: Served 45 portions
   - title: Toy Story Birthday Cake
     text: Fun packed Toy Story themed cake
     bullets:
@@ -122,6 +123,23 @@ items:
     tags:
       - name: Children
       - name: Birthday
+  - title: Flopsy Bunny Easter Cake
+    text: Hand painted Flopsy Bunny Easter cake, with rice paper floral hoop
+    tags:
+      - name: Other
+    images:
+      - image: /images/uploads/flopsy-easter-cake-1.jpg
+        primary: true
+      - image: /images/uploads/flopsy-easter-cake-2.jpg
+        primary: false
+      - image: /images/uploads/flopsy-easter-cake-3.jpg
+        primary: false
+    bullets:
+      - bullet: Fondant covered cake, with hand painted Flopsy Bunny plaque, and pastel
+          rice paper flowers around the gold floral hoop
+      - bullet: Light lemon sponge paired with a vanilla buttercream and tangy lemon
+          curd filling
+      - bullet: Served 15 portions
   - title: Hand Painted Birthday Cake
     text: Hand painted portrait, with bunny ears and flower hair garland
     bullets:
@@ -137,6 +155,23 @@ items:
         primary: false
     tags:
       - name: Birthday
+  - title: White and Silver Wedding Cake
+    text: 4 tier all white wedding cake, with slight silver features
+    bullets:
+      - bullet: White fondant covered tiers, with hand modelled sugar flowers. Plus a
+          free from mini cake made specially for a guest
+      - bullet: Bottom tier, rich and moist chocolate sponge, paired with a vanilla
+          buttercream filling. 3rd tier, classic vanilla sponge, paired with a
+          vanilla buttercream and strawberry jam filling. 2nd tier, (retired)
+          luxurious red velvet sponge, paired with a cream cheese buttercream
+          filling. Top tier, intense coffee sponge, paired with a light mocha
+          buttercream filling.
+      - bullet: Served 170 portions
+    images:
+      - image: /images/uploads/white-and-silver-wedding-cake.jpg
+        primary: true
+    tags:
+      - name: Wedding
   - title: Gruffalo Birthday Cake
     text: Two tier sketched Gruffalo themed cake
     bullets:
@@ -580,41 +615,6 @@ items:
         primary: false
     tags:
       - name: Birthday
-  - images:
-      - image: /images/uploads/wonka-cake-1.jpg
-        primary: true
-      - image: /images/uploads/wonka-cake-2.jpg
-        primary: false
-      - image: /images/uploads/wonka-cake-3.jpg
-        primary: false
-    tags:
-      - name: Birthday
-      - name: Children
-    title: Wonka Birthday Cake
-    text: Hand painted Wonka themed 9th Birthday Cake
-    bullets:
-      - bullet: Fondant covered two tier cake, with hand painted details including a
-          portrait of Timothy Chalamet as Willy Wonka
-      - bullet: Both tiers, rich and moist chocolate sponge, paired with a chocolate
-          buttercream filling
-      - bullet: Served 45 portions
-  - title: Flopsy Bunny Easter Cake
-    text: Hand painted Flopsy Bunny Easter cake, with rice paper floral hoop
-    tags:
-      - name: Other
-    images:
-      - image: /images/uploads/flopsy-easter-cake-1.jpg
-        primary: true
-      - image: /images/uploads/flopsy-easter-cake-2.jpg
-        primary: false
-      - image: /images/uploads/flopsy-easter-cake-3.jpg
-        primary: false
-    bullets:
-      - bullet: Fondant covered cake, with hand painted Flopsy Bunny plaque, and pastel
-          rice paper flowers around the gold floral hoop
-      - bullet: Light lemon sponge paired with a vanilla buttercream and tangy lemon
-          curd filling
-      - bullet: Served 15 portions
   - title: Mechanic Retirement Cake
     text: Mechanic themed retirement cake, with fondant models and a replica of his
       car
