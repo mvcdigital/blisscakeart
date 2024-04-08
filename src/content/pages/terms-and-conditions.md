@@ -22,8 +22,6 @@ content: >-
   d) Bliss Cake Art will accept payment by bank transfer, details of which will be provided upon booking.
 
 
-
-
   **Pricing and Payment**
 
 
@@ -45,8 +43,6 @@ content: >-
   f) If full payment has not been received by the agreed delivery/collection date and time, the order will not be fulfilled, and the deposit not refunded. 
 
 
-
-
   **Collection and Acceptance**
 
 
@@ -60,8 +56,6 @@ content: >-
 
 
   d) A signature will be required for the receipt of your order upon collection, and a photograph will be taken as proof of non-damage.
-
-
 
 
   **Delivery and Acceptance**
@@ -88,8 +82,6 @@ content: >-
    d) Bliss Cake Art shall not be liable for any consequential damages, losses or other costs that arise from a failure to fulfil the contract. 
 
 
-
-
   **Changes and Cancellation**
 
 
@@ -108,8 +100,6 @@ content: >-
   e) In the very unlikely event that Bliss Cake Art has to cancel your order for any reason, then as much notice as possible will be given. Bliss Cake Art will try to agree a suitable alternative, if the customer wishes not to accept the suggested alternative, Bliss Cake Art will refund any payments made.
 
 
-
-
   **Allergies**
 
 
@@ -120,8 +110,6 @@ content: >-
 
 
   c) An ingredients/allergens list will be supplied with each order, it is the customer’s responsibility to ensure they understand this list at the point of collection/delivery, and therefore to inform consumers of any risks.
-
-
 
 
   **Fresh Flowers and Non-Edible Items**
@@ -148,8 +136,6 @@ content: >-
   g) Bliss Cake Art takes no responsibility for misuse of non-edible items once delivery/collection is complete.
 
 
-
-
   **Photography**
 
 
@@ -163,8 +149,6 @@ content: >-
 
 
   d) If Bliss Cake Art supplies photography to the customer, these must be used with the logo/watermark included.
-
-
 
 
   **Complaints**
@@ -188,10 +172,6 @@ content: >-
   f) It is at Bliss Cake Art’s discretion as to what refund, if any, will be given.
 
 
-
-
-
-
   ## **PRIVACY**
 
 
@@ -199,9 +179,6 @@ content: >-
 
 
   Bliss Cake Art does not share your date with 3rd parties.
-
-
-   
 
 
   **What information we collect?**
@@ -222,13 +199,7 @@ content: >-
   Address (if delivery is required)
 
 
-   
-
-
   We do not store any card details.
-
-
-    
 
 
   **How do we use this information?** 
@@ -237,11 +208,8 @@ content: >-
   Bliss Cake Art will only collect information that is necessary for the purpose for which it has been collected for. We will use your information to organise, arrange and fulfil orders to complete them. 
 
 
-   
-
-
   **How do we manage the information we hold.** 
 
 
-  We will not hold any personal information for any longer than necessary unless Bliss Cake Art has an ongoing relationship with you. All information is stored on a secure email server and will not be shared to any 3rdparties. You have the right to contact Bliss Cake Art to securely remove and delete any information that has been held, on completion of your order.
+  We will not hold any personal information for any longer than necessary unless Bliss Cake Art has an ongoing relationship with you. All information is stored on a secure email server and will not be shared to any 3rd parties. You have the right to contact Bliss Cake Art to securely remove and delete any information that has been held, on completion of your order.
 ---
