@@ -595,12 +595,42 @@ items:
     bullets:
       - bullet: Fondant covered two tier cake, with hand painted details including a
           portrait of Timothy Chalamet as Willy Wonka
-      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
-          filling
+      - bullet: Both tiers, rich and moist chocolate sponge, paired with a chocolate
+          buttercream filling
       - bullet: Served 45 portions
   - title: Flopsy Bunny Easter Cake
     text: Hand painted Flopsy Bunny Easter cake, with rice paper floral hoop
     tags:
       - name: Other
-    images: []
+    images:
+      - image: /images/uploads/flopsy-easter-cake-1.jpg
+        primary: true
+      - image: /images/uploads/flopsy-easter-cake-2.jpg
+        primary: false
+      - image: /images/uploads/flopsy-easter-cake-3.jpg
+        primary: false
+    bullets:
+      - bullet: Fondant covered cake, with hand painted Flopsy Bunny plaque, and pastel
+          rice paper flowers around the gold floral hoop
+      - bullet: Light lemon sponge paired with a vanilla buttercream and tangy lemon
+          curd filling
+      - bullet: Served 15 portions
+  - title: Mechanic Retirement Cake
+    text: Mechanic themed retirement cake, with fondant models and a replica of his
+      car
+    bullets:
+      - bullet: Fondant covered cake, with mechanic/car themed fondant details and a
+          model of his car
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
+      - bullet: Served 25 portions
+    images:
+      - image: /images/uploads/mechanic-retirement-1.jpg
+        primary: true
+      - image: /images/uploads/mechanic-retirement-2.jpg
+        primary: false
+      - image: /images/uploads/mechanic-retirement-3.jpg
+        primary: false
+    tags:
+      - name: Other
 ---
