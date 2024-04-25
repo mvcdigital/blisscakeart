@@ -246,22 +246,22 @@ items:
           curd filling
       - bullet: Served 12 portions
   - images:
-      - image: /images/uploads/80th-elephant-cake-1.jpg
+      - image: /images/uploads/finding-nemo-cake-1.jpg
         primary: true
-      - image: /images/uploads/80th-elephant-cake-3.jpg
+      - image: /images/uploads/finding-nemo-cake-2.jpg
         primary: false
-      - image: /images/uploads/80th-elephant-cake-4.jpg
+      - image: /images/uploads/finding-nemo-cake-4.jpg
         primary: false
     tags:
+      - name: Children
       - name: Birthday
+    title: Finding Nemo Birthday Cake
+    text: Finding Nemo 2nd birthday cake with fondant decorations
     bullets:
-      - bullet: Ganache covered cake, with hand painted giraffe silhouettes against the
-          sunset
-      - bullet: Light lemon sponge, paired with a vanilla buttercream and tangy lemon
-          curd filling
-      - bullet: Served 25 portions
-    title: Safari Sunset Birthday Cake
-    text: Hand painted safari sunset 80th birthday cake
+      - bullet: Hand modelled Finding Nemo characters, with coral reef fondant details
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
+      - bullet: Served 15 portions
   - images:
       - image: /images/uploads/bear-christening-cake-1.jpg
         primary: true
@@ -379,22 +379,22 @@ items:
       - image: /images/uploads/mother-s-day-portrait-2.jpg
         primary: false
   - images:
-      - image: /images/uploads/finding-nemo-cake-1.jpg
+      - image: /images/uploads/80th-elephant-cake-1.jpg
         primary: true
-      - image: /images/uploads/finding-nemo-cake-2.jpg
+      - image: /images/uploads/80th-elephant-cake-3.jpg
         primary: false
-      - image: /images/uploads/finding-nemo-cake-4.jpg
+      - image: /images/uploads/80th-elephant-cake-4.jpg
         primary: false
     tags:
-      - name: Children
       - name: Birthday
-    title: Finding Nemo Birthday Cake
-    text: Finding Nemo 2nd birthday cake with fondant decorations
     bullets:
-      - bullet: Hand modelled Finding Nemo characters, with coral reef fondant details
-      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
-          jam filling
-      - bullet: Served 15 portions
+      - bullet: Ganache covered cake, with hand painted giraffe silhouettes against the
+          sunset
+      - bullet: Light lemon sponge, paired with a vanilla buttercream and tangy lemon
+          curd filling
+      - bullet: Served 25 portions
+    title: Safari Sunset Birthday Cake
+    text: Hand painted safari sunset 80th birthday cake
   - images:
       - image: /images/uploads/gonk-house-cake-1.jpg
         primary: true
