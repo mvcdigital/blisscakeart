@@ -662,4 +662,38 @@ items:
       - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
           filling
       - bullet: Served 40 portions
+  - tags:
+      - name: Birthday
+    images:
+      - image: /images/uploads/80th-lily-of-the-valley-cake-1.jpg
+        primary: true
+      - image: /images/uploads/80th-lily-of-the-valley-cake-2.jpg
+        primary: false
+      - image: /images/uploads/80th-lily-of-the-valley-cake-3.jpg
+        primary: false
+      - image: /images/uploads/80th-lily-of-the-valley-cake-4.jpg
+        primary: false
+    title: Lily of the Valley Birthday Cake
+    text: 80th birthday cake based on the lady's favourite flower
+    bullets:
+      - bullet: Fondant covered cake, with sugar paste Lily of the Valley flowers and
+          hand painted flowers in the background
+      - bullet: Light lemon sponge paired with a vanilla buttercream and tangy lemon
+          curd filling
+      - bullet: Served 12 portions
+  - images:
+      - image: /images/uploads/70th-floral-birthday-cake-1.jpg
+        primary: true
+      - image: /images/uploads/70th-floral-birthday-cake-2.jpg
+        primary: false
+    title: Ditsy Flower Cake
+    text: Pastel shades of little ditsy flowers covering the cake
+    bullets:
+      - bullet: Ganache covered cake, with palette knife textured flowers and an
+          embossed 70 topping the cake
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
+      - bullet: Served 12 portions
+    tags:
+      - name: Birthday
 ---
