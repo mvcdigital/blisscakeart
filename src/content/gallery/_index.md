@@ -348,6 +348,21 @@ items:
         primary: false
     tags:
       - name: Children
+  - images:
+      - image: /images/uploads/70th-floral-birthday-cake-1.jpg
+        primary: true
+      - image: /images/uploads/70th-floral-birthday-cake-2.jpg
+        primary: false
+    title: Ditsy Flower Cake
+    text: Pastel shades of little ditsy flowers covering the cake
+    bullets:
+      - bullet: Ganache covered cake, with palette knife textured flowers and an
+          embossed 70 topping the cake
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
+      - bullet: Served 12 portions
+    tags:
+      - name: Birthday
   - title: Mother's Day Cake
     text: Hand painted image against pastel colours Mother's Day cake
     bullets:
@@ -380,21 +395,6 @@ items:
       - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
           jam filling
       - bullet: Served 15 portions
-  - images:
-      - image: /images/uploads/70th-floral-birthday-cake-1.jpg
-        primary: true
-      - image: /images/uploads/70th-floral-birthday-cake-2.jpg
-        primary: false
-    title: Ditsy Flower Cake
-    text: Pastel shades of little ditsy flowers covering the cake
-    bullets:
-      - bullet: Ganache covered cake, with palette knife textured flowers and an
-          embossed 70 topping the cake
-      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
-          jam filling
-      - bullet: Served 12 portions
-    tags:
-      - name: Birthday
   - images:
       - image: /images/uploads/gonk-house-cake-1.jpg
         primary: true
