@@ -696,4 +696,34 @@ items:
       - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
           filling
       - bullet: Served 40 portions
+  - images:
+      - image: /images/uploads/yellow-and-blue-flower-wedding-cake.jpg
+        primary: true
+    title: Yellow and Blue flowers Wedding Cake
+    tags:
+      - name: Wedding
+    text: "3 tier buttercream coated wedding cake, with cascading sugar flowers "
+    bullets:
+      - bullet: Textured buttercream covering across the three tiers, with handmade
+          yellow sugar roses and blue sugar cornflowers
+      - bullet: "Bottom tier, (retired) luxurious red velvet sponge, paired with a cream
+          cheese buttercream filling. 2nd tier, rich and moist chocolate sponge,
+          paired with a vanilla buttercream filling. Top tier, classic vanilla
+          sponge, paired with a vanilla buttercream and strawberry jam filling "
+      - bullet: Served 80 portions
+  - images:
+      - image: /images/uploads/3rd-minion-cake.jpg
+        primary: true
+      - image: /images/uploads/3rd-minion-cake-2.jpg
+        primary: false
+    tags:
+      - name: Children
+      - name: Birthday
+    title: Minion Cake
+    text: 3D Minion 3rd birthday cake
+    bullets:
+      - bullet: Fondant covered 6 layer cake, with fondant details
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
+      - bullet: Served 25 portions
 ---
