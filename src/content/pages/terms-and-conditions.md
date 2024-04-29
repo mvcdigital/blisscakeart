@@ -178,7 +178,7 @@ content: >-
   Bliss Cake Art is committed to protecting and respecting any personal information you share with us. This statement describes what type of information we collect from you, how it is used and how we manage the information we hold.
 
 
-  Bliss Cake Art does not share your date with 3rd parties.
+  Bliss Cake Art does not share your data with 3rd parties.
 
 
   **What information we collect?**
