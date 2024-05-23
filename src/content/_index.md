@@ -10,7 +10,7 @@ images:
 testimonials:
   - text: '"Our cake was absolutely beautiful and was everything we wanted, and
       tasted incredible as always. Thank you so much for making our day as
-      special as we hoped!" S & P '
+      special as we hoped!" J & S '
   - text: '"Your artwork is incredible and being combined in cake - just
       mesmerising. The cake was all everyone could talk about!! Absolutely
       incredible thank you!" A & T'
