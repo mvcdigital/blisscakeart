@@ -13,7 +13,7 @@ testimonials:
       special as we hoped!" S & P '
   - text: '"Your artwork is incredible and being combined in cake - just
       mesmerising. The cake was all everyone could talk about!! Absolutely
-      incredible thank you!" A & P'
+      incredible thank you!" A & T'
   - text: '"Absolutely loved it!! Went down a treat with the guests, thank you so so
       much!" E & O'
 content: >-
