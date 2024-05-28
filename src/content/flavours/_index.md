@@ -1,5 +1,5 @@
 ---
-title: Flavours
+title: Info
 subtitle: Flavours
 text: All of the above can be ordered Gluten Free or Vegan
 flavours:
