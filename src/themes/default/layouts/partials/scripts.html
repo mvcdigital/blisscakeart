@@ -17,9 +17,8 @@ var initSliders = function(containerEl) {
 
         var curSlide = 0;
         var maxSlide = slides.length - 1;
-
-        nextSlide.addEventListener("click", function () {
-            console.log('Next clicked');
+        
+        var nextFn = function () {
             if (curSlide === maxSlide) {
                 curSlide = 0;
             } else {
@@ -29,6 +28,13 @@ var initSliders = function(containerEl) {
             slides.forEach((slide, indx) => {
                 slide.style.transform = `translateX(${100 * (indx - curSlide)}%)`;
             });
+        };
+
+        var nextInt = setInterval(nextFn, 3000);
+
+        nextSlide.addEventListener("click", function() {
+            nextFn();
+            clearInterval(nextInt);
         });
 
         var prevSlide = slider.querySelector(".slider-btn-prev");
@@ -43,12 +49,14 @@ var initSliders = function(containerEl) {
             slides.forEach((slide, indx) => {
                 slide.style.transform = `translateX(${100 * (indx - curSlide)}%)`;
             });
+
+            clearInterval(nextInt);
         });
     });
 }
 
 var initGallery = function() {
-    var galleryImages = document.querySelectorAll('.gallery .images img');
+    var galleryImages = document.querySelectorAll('.gallery .images span');
 
     for (var index = 0; index < galleryImages.length; index++) {
         var img = galleryImages[index];

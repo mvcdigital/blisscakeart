@@ -69,9 +69,9 @@ collections:
                   widget: list
                   fields: 
                     - { label: "Name", name: "name", widget: "string" }
-        - label: "Flavours"
-          name: "flavours"
-          file: "src/content/flavours/_index.md"
+        - label: "Details"
+          name: "details"
+          file: "src/content/details/_index.md"
           fields:
             - { label: "Title", name: "title", widget: "string" }
             - { label: "Subtitle", name: "subtitle", widget: "string" }

@@ -146,7 +146,9 @@ ul {
 .hero {
   height: 280px;
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  border-top: 4px solid #DDC586;
+  border-bottom: 4px solid #DDC586; }
 
 .hero-bg {
   background-color: #EBC8C8; }
@@ -205,15 +207,35 @@ ul {
   margin-bottom: 20px; }
 
 .gallery .images {
-  display: block;
-  margin: 0 0 20px 0;
-  padding: 0; }
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 0;
+  margin: 0 0 20px 0; }
   .gallery .images li {
-    display: block;
+    flex-basis: calc(50% - 10px);
+    position: relative;
     cursor: pointer;
-    margin-bottom: 20px; }
+    margin-bottom: 0px; }
+    .gallery .images li span {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      background: #DCA09A;
+      opacity: 0;
+      color: white;
+      font-family: "Bodoni Moda", serif;
+      font-size: 18px;
+      text-align: center;
+      padding-top: 40%; }
+    .gallery .images li span:hover {
+      opacity: 0.8; }
     .gallery .images li img {
-      width: 100%; }
+      object-fit: cover;
+      max-width: 100%;
+      height: auto;
+      vertical-align: middle; }
   .gallery .images .gallery-image-off {
     display: none; }
 
@@ -439,21 +461,12 @@ form .delivery input {
   .gallery .filters {
     margin-bottom: 40px; }
   .gallery .images {
-    display: flex;
-    flex-wrap: wrap;
     gap: 33px;
-    padding: 0;
     margin: 0 0 30px 0; }
     .gallery .images li {
-      flex-basis: calc(25% - 25px);
-      position: relative;
-      cursor: pointer;
-      margin-bottom: 0px; }
-      .gallery .images li img {
-        object-fit: cover;
-        max-width: 100%;
-        height: auto;
-        vertical-align: middle; }
+      flex-basis: calc(25% - 25px); }
+      .gallery .images li span {
+        font-size: 26px; }
   .gallery-modal .basicLightbox__placeholder {
     width: 90vw;
     max-width: 1430px;
@@ -499,7 +512,7 @@ form .delivery input {
 
 @media only screen and (min-width: 1024px) {
   .header {
-    height: 210px;
+    height: 140px;
     max-width: 1600px;
     margin: 0 auto; }
     .header span {
@@ -510,7 +523,7 @@ form .delivery input {
       font-family: "Bodoni Moda", serif;
       font-size: 26px; }
       .header a img {
-        max-height: 198px; }
+        max-height: 140px; }
       .header a.selected {
         border-bottom: 1px solid #DCA09A; }
     .header .burger-toggle {
@@ -530,7 +543,3 @@ form .delivery input {
       flex: 1;
       padding: 0px;
       padding-left: 30px; } }
-
-@media only screen and (min-width: 1280px) {
-  .header a {
-    font-size: 32px; } }

@@ -1,6 +1,6 @@
 ---
 title: Information
-subtitle: Flavours
+subtitle: Details
 text: All of the above can be ordered Gluten Free or Vegan
 flavours:
   - name: " "
