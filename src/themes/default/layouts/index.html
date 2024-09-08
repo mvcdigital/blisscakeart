@@ -19,7 +19,7 @@
             <div class="slider">
                 {{ range .Params.Images }}
                     <div class="slide">
-                        <img src="{{ .image }}" alt="" />
+                        <img src="{{ .image }}" alt="" class="slide-img" />
                     </div>
                 {{ end }}
                 <a href="javascript:void(0)" class="slider-btn slider-btn-prev"></a>
@@ -33,13 +33,17 @@
     <div class="container">
         <div class="testimonials">
             <h2>Testimonials</h2>
-            {{ range .Params.Testimonials }}
-                <div>
-                    <img src="/img/icon-openquote.svg" />
-                    <p>{{ .text }}</p>
-                    <img src="/img/icon-closequote.svg" />
-                </div>
-            {{ end }}
+            <div class="slider">
+                {{ range .Params.Testimonials }}
+                    <div class="slide">
+                        <img src="/img/icon-openquote.svg" />
+                        <p>{{ .text }}</p>
+                        <img src="/img/icon-closequote.svg" />
+                    </div>
+                {{ end }}
+                <a href="javascript:void(0)" class="slider-btn slider-btn-prev"></a>
+                <a href="javascript:void(0)" class="slider-btn slider-btn-next"></a>
+            </div>
         </div>
     </div>
 </div>
