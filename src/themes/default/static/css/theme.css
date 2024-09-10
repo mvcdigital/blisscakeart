@@ -315,8 +315,9 @@ gallery::after {
 .flavours {
   margin-bottom: 30px; }
   .flavours .flavour {
-    text-align: center; }
-    .flavours .flavour .flavour-title {
+    text-align: center;
+    vertical-align: top; }
+    .flavours .flavour .flavour-image {
       min-height: 150px;
       background-repeat: no-repeat;
       background-size: contain;
@@ -325,11 +326,18 @@ gallery::after {
       display: flex;
       align-items: center;
       flex-direction: column; }
-      .flavours .flavour .flavour-title h5 {
-        font-family: "Bodoni Moda", serif;
-        font-weight: 400;
-        font-size: 32px;
-        line-height: 32px; }
+    .flavours .flavour h5 {
+      font-family: "Bodoni Moda", serif;
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 24px;
+      margin: 20px 0; }
+
+.flavours-guide {
+  margin: 40px 0; }
+  .flavours-guide img {
+    margin: 0 auto;
+    max-width: 80%; }
 
 .flavours-footer {
   text-align: center; }

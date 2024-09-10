@@ -13,12 +13,17 @@
     <div class="flavours">
         {{ range .Params.Flavours }}
             <div class="flavour">
-                <div class="flavour-title" style="background-image: url({{ .image }});">
-                    <h5>{{ .name }}</h5>
+                <div class="flavour-image" style="background-image: url({{ .image }});">
                 </div>
+                <h5>{{ .name }}</h5>
                 <p>{{ .text }}</p>
             </div>
         {{ end }}
+    </div>
+
+    <h2>Portion Guide</h2>
+    <div class="flavours-guide">
+        <img src="{{ .Params.Guide }}" alt="Portion Guide" />
     </div>
 
     <div class="flavours-footer">
