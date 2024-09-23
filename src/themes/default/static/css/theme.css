@@ -230,8 +230,6 @@ ul {
       font-size: 18px;
       text-align: center;
       padding-top: 40%; }
-    .gallery .images li span:hover {
-      opacity: 0.8; }
     .gallery .images li img {
       object-fit: cover;
       max-width: 100%;
@@ -486,6 +484,8 @@ form .delivery input {
       flex-basis: calc(25% - 25px); }
       .gallery .images li span {
         font-size: 26px; }
+      .gallery .images li span:hover {
+        opacity: 0.8; }
   .gallery-modal .basicLightbox__placeholder {
     width: 90vw;
     max-width: 1430px;

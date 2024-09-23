@@ -245,10 +245,6 @@ ul {
         text-align: center;
         padding-top: 40%;
       }
-
-      span:hover {
-        opacity: 0.8;
-      }
   
       img {
         object-fit: cover;
@@ -629,6 +625,10 @@ form {
 
         span {
           font-size: 26px;
+        }
+
+        span:hover {
+          opacity: 0.8;
         }
       }
     }
