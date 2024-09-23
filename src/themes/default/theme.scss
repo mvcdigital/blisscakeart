@@ -514,8 +514,12 @@ form {
     text-decoration: none;
   }
 
-  .food-hygiene img {
-    width: 100%;
+  .images img {
+    display: inline-block;
+    width: calc(50% - 22px);
+    vertical-align: middle;
+    max-width: 200px;
+    margin: 0 10px;
   }
 }
 
@@ -730,10 +734,6 @@ form {
   .footer {
     display: flex;
     justify-content: space-between;
-  
-    .food-hygiene img {
-      width: 210px;
-    }
   }
 }
 
