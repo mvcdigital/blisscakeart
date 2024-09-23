@@ -8,6 +8,7 @@ var initSliders = function(containerEl) {
 
     sliders.forEach((slider, index) => {
         var slides = slider.querySelectorAll(".slide");
+        var speed = slider.getAttribute('data-speed');
 
         slides.forEach((slide, indx) => {
             slide.style.transform = `translateX(${indx * 100}%)`;
@@ -30,7 +31,7 @@ var initSliders = function(containerEl) {
             });
         };
 
-        var nextInt = setInterval(nextFn, 3000);
+        var nextInt = setInterval(nextFn, speed ?? 3000);
 
         nextSlide.addEventListener("click", function() {
             nextFn();

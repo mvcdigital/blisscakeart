@@ -305,7 +305,7 @@ gallery::after {
     background-image: url(/img/icon-right.svg); }
 
 .testimonials .slider {
-  height: 250px; }
+  height: 120px; }
   .testimonials .slider .slider-btn {
     display: none; }
 
@@ -512,7 +512,7 @@ form .delivery input {
   .slider .slider-btn-next {
     right: 20px; }
   .testimonials .slider {
-    height: 150px; }
+    height: 100px; }
     .testimonials .slider .slider-btn {
       display: block;
       top: 20px;
