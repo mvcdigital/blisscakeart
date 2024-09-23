@@ -333,12 +333,10 @@ gallery::after {
       line-height: 24px;
       margin: 10px 0; }
 
-.flavours-guide {
-  margin: 40px 0; }
-  .flavours-guide img {
-    margin: 0 auto;
-    max-width: 700px;
-    width: 100%; }
+.flavours-guide img {
+  margin: 0 auto;
+  max-width: 700px;
+  width: 100%; }
 
 .flavours-footer {
   text-align: center; }
