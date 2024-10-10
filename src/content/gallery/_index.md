@@ -8,6 +8,21 @@ filters:
   - name: Christmas
   - name: Other
 items:
+  - title: The Joker Cake
+    text: Cocao butter hand painted Joker cake
+    bullets:
+      - bullet: Hand painted half face of the Joker, finished with splatters of the
+          colours coming away from his face
+      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
+          filling
+      - bullet: Served 30 portions
+    images:
+      - image: /images/uploads/joker-2.jpg
+        primary: true
+      - image: /images/uploads/joker-3.jpg
+        primary: false
+    tags:
+      - name: Other
   - images:
       - image: /images/uploads/ted-lasso-cake-1.jpg
         primary: true
@@ -28,6 +43,21 @@ items:
           light mocha buttercream filling. Top tier, light lemon sponge, paired
           with vanilla buttercream and tangy lemon curd filling
       - bullet: Served 60 portions
+  - title: Jack Skellington Cake
+    text: Jack Skellington engagement cake
+    tags:
+      - name: Other
+    bullets:
+      - bullet: Cocao butter hand painted image from 'The Nightmare Before Christmas'
+          for a couple who were big fans
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
+      - bullet: Served 40 portions
+    images:
+      - image: /images/uploads/jack-skellington-1.jpg
+        primary: true
+      - image: /images/uploads/jack-skellington-2.jpg
+        primary: false
   - title: Triathlon Wedding Cake
     text: "A bespoke wedding cake designed for a couple who met while Triathlon
       training "
@@ -43,6 +73,24 @@ items:
         primary: true
     tags:
       - name: Wedding
+  - images:
+      - image: /images/uploads/wonka-cake-1.jpg
+        primary: true
+      - image: /images/uploads/wonka-cake-2.jpg
+        primary: false
+      - image: /images/uploads/wonka-cake-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+      - name: Children
+    title: Wonka Birthday Cake
+    text: Hand painted Wonka themed 9th Birthday Cake
+    bullets:
+      - bullet: Fondant covered two tier cake, with hand painted details including a
+          portrait of Timothy Chalamet as Willy Wonka
+      - bullet: Both tiers, rich and moist chocolate sponge, paired with a chocolate
+          buttercream filling
+      - bullet: Served 45 portions
   - title: Peter Rabbit Christening Cake
     text: An adorable Peter Rabbit Christening cake, with a pastel colour theme and
       ditsy flowers
@@ -62,6 +110,21 @@ items:
     tags:
       - name: Christening
       - name: Children
+  - title: Bee Birthday Cake
+    text: Hand painted spring bee birthday cake
+    bullets:
+      - bullet: "Hand painted watercolour effect bee on a daisy scene, with a bright
+          spring colour palette "
+      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
+          filling
+      - bullet: Served 10 portion
+    images:
+      - image: /images/uploads/bee-cake-1.jpg
+        primary: true
+      - image: /images/uploads/bee-cake-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
   - title: Avengers Birthday Cake
     text: Mega Avengers birthday cake for a Marvel fan
     bullets:
@@ -84,24 +147,6 @@ items:
         primary: false
     tags:
       - name: Birthday
-  - images:
-      - image: /images/uploads/wonka-cake-1.jpg
-        primary: true
-      - image: /images/uploads/wonka-cake-2.jpg
-        primary: false
-      - image: /images/uploads/wonka-cake-3.jpg
-        primary: false
-    tags:
-      - name: Birthday
-      - name: Children
-    title: Wonka Birthday Cake
-    text: Hand painted Wonka themed 9th Birthday Cake
-    bullets:
-      - bullet: Fondant covered two tier cake, with hand painted details including a
-          portrait of Timothy Chalamet as Willy Wonka
-      - bullet: Both tiers, rich and moist chocolate sponge, paired with a chocolate
-          buttercream filling
-      - bullet: Served 45 portions
   - title: Toy Story Birthday Cake
     text: Fun packed Toy Story themed cake
     bullets:
@@ -123,6 +168,20 @@ items:
     tags:
       - name: Children
       - name: Birthday
+  - title: Autumn Flowers Cake
+    bullets:
+      - bullet: Hand painted autumn foliage on the face of the cake, topped with autumn
+          flowers on a fondant panel to give a 3D effect
+      - bullet: Silky strawberry sponge, paired with a Prosecco buttercream filling
+      - bullet: Served 10 portions
+    images:
+      - image: /images/uploads/autumn-flowers-1.jpg
+        primary: true
+      - image: /images/uploads/autumn-flowers-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    text: Autumnal themed cake for a small birthday celebration
   - title: Flopsy Bunny Easter Cake
     text: Hand painted Flopsy Bunny Easter cake, with rice paper floral hoop
     tags:
@@ -278,22 +337,6 @@ items:
       - bullet: "Served 65 portions "
     title: Teddy Bear Christening Cake
     text: Two tier grey, white, brown, teddy bear themed Christening cake
-  - title: Semi-Naked Wedding Cake
-    text: 2 tier white chocolate ganache coated wedding cake
-    images:
-      - image: /images/uploads/ryan-and-jamie-wedding-cake-1.jpg
-        primary: true
-      - image: /images/uploads/ryan-and-jamie-wedding-cake-2.jpg
-        primary: false
-      - image: /images/uploads/ryan-and-jamie-wedding-cake-3.jpg
-        primary: false
-    tags:
-      - name: Wedding
-    bullets:
-      - bullet: Bottom tier, Lingy raspberry sponge, with a white chocolate buttercream
-          filling, paired with raspberry jam. Top tier, Light lemon sponge, with
-          a vanilla buttercream filling, paired with tangy lemon curd
-      - bullet: Served 75 portions
   - title: Stranger Things Birthday Cake
     text: 2 tier Stranger Things themed birthday cake
     bullets:
@@ -726,18 +769,4 @@ items:
       - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
           jam filling
       - bullet: Served 25 portions
-  - title: Autumn Flowers Cake
-    bullets:
-      - bullet: Hand painted autumn foliage on the face of the cake, topped with autumn
-          flowers on a fondant panel to give a 3D effect
-      - bullet: Silky strawberry sponge, paired with a Prosecco buttercream filling
-      - bullet: Served 10 portions
-    images:
-      - image: /images/uploads/autumn-flowers-1.jpg
-        primary: true
-      - image: /images/uploads/autumn-flowers-2.jpg
-        primary: false
-    tags:
-      - name: Birthday
-    text: Autumnal themed cake for a small birthday celebration
 ---
