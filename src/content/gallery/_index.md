@@ -43,21 +43,21 @@ items:
           light mocha buttercream filling. Top tier, light lemon sponge, paired
           with vanilla buttercream and tangy lemon curd filling
       - bullet: Served 60 portions
-  - title: Jack Skellington Cake
-    text: Jack Skellington engagement cake
-    tags:
-      - name: Other
+  - title: Hand Painted Birthday Cake
+    text: Hand painted portrait, with bunny ears and flower hair garland
     bullets:
-      - bullet: Cocao butter hand painted image from 'The Nightmare Before Christmas'
-          for a couple who were big fans
-      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
+          hair garland, like the little girl requested
+      - bullet: Light lemon sponge, paired with a vanilla sponge and tangy lemon curd
           filling
-      - bullet: Served 40 portions
+      - bullet: Served 30 portions
     images:
-      - image: /images/uploads/jack-skellington-1.jpg
+      - image: /images/uploads/luisa-painting-1.jpg
         primary: true
-      - image: /images/uploads/jack-skellington-2.jpg
+      - image: /images/uploads/luisa-painting-2.jpg
         primary: false
+    tags:
+      - name: Birthday
   - title: Triathlon Wedding Cake
     text: "A bespoke wedding cake designed for a couple who met while Triathlon
       training "
@@ -91,6 +91,21 @@ items:
       - bullet: Both tiers, rich and moist chocolate sponge, paired with a chocolate
           buttercream filling
       - bullet: Served 45 portions
+  - title: Jack Skellington Cake
+    text: Jack Skellington engagement cake
+    tags:
+      - name: Other
+    bullets:
+      - bullet: Cocao butter hand painted image from 'The Nightmare Before Christmas'
+          for a couple who were big fans
+      - bullet: Rich and moist chocolate sponge, paired with a vanilla buttercream
+          filling
+      - bullet: Served 40 portions
+    images:
+      - image: /images/uploads/jack-skellington-1.jpg
+        primary: true
+      - image: /images/uploads/jack-skellington-2.jpg
+        primary: false
   - title: Peter Rabbit Christening Cake
     text: An adorable Peter Rabbit Christening cake, with a pastel colour theme and
       ditsy flowers
@@ -199,21 +214,6 @@ items:
       - bullet: Light lemon sponge paired with a vanilla buttercream and tangy lemon
           curd filling
       - bullet: Served 15 portions
-  - title: Hand Painted Birthday Cake
-    text: Hand painted portrait, with bunny ears and flower hair garland
-    bullets:
-      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
-          hair garland, like the little girl requested
-      - bullet: Light lemon sponge, paired with a vanilla sponge and tangy lemon curd
-          filling
-      - bullet: Served 30 portions
-    images:
-      - image: /images/uploads/luisa-painting-1.jpg
-        primary: true
-      - image: /images/uploads/luisa-painting-2.jpg
-        primary: false
-    tags:
-      - name: Birthday
   - title: White and Silver Wedding Cake
     text: 4 tier all white wedding cake, with slight silver features
     bullets:
@@ -231,6 +231,19 @@ items:
         primary: true
     tags:
       - name: Wedding
+  - title: Watercolour Flowers Mother's Day Cake
+    text: Hand painted flowers in a watercolour design for Mother's Day
+    tags:
+      - name: Other
+    images:
+      - image: /images/uploads/watercolour-flowers-mother-s-day-cake.jpg
+        primary: true
+    bullets:
+      - bullet: Fondant covered cake, with hand painted floral design in a watercolour
+          style and gold edging
+      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
+          filling
+      - bullet: Served 15 portions
   - title: Gruffalo Birthday Cake
     text: Two tier sketched Gruffalo themed cake
     bullets:
@@ -272,19 +285,6 @@ items:
     tags:
       - name: Birthday
       - name: Children
-  - title: Watercolour Flowers Mother's Day Cake
-    text: Hand painted flowers in a watercolour design for Mother's Day
-    tags:
-      - name: Other
-    images:
-      - image: /images/uploads/watercolour-flowers-mother-s-day-cake.jpg
-        primary: true
-    bullets:
-      - bullet: Fondant covered cake, with hand painted floral design in a watercolour
-          style and gold edging
-      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
-          filling
-      - bullet: Served 15 portions
   - tags:
       - name: Birthday
     images:
