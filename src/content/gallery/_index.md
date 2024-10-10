@@ -145,21 +145,20 @@ items:
     tags:
       - name: Christening
       - name: Children
-  - title: Bee Birthday Cake
-    text: Hand painted spring bee birthday cake
+  - title: Autumn Flowers Cake
     bullets:
-      - bullet: "Hand painted watercolour effect bee on a daisy scene, with a bright
-          spring colour palette "
-      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
-          filling
-      - bullet: Served 10 portion
+      - bullet: Hand painted autumn foliage on the face of the cake, topped with autumn
+          flowers on a fondant panel to give a 3D effect
+      - bullet: Silky strawberry sponge, paired with a Prosecco buttercream filling
+      - bullet: Served 10 portions
     images:
-      - image: /images/uploads/bee-cake-1.jpg
+      - image: /images/uploads/autumn-flowers-1.jpg
         primary: true
-      - image: /images/uploads/bee-cake-2.jpg
+      - image: /images/uploads/autumn-flowers-2.jpg
         primary: false
     tags:
       - name: Birthday
+    text: Autumnal themed cake for a small birthday celebration
   - title: Avengers Birthday Cake
     text: Mega Avengers birthday cake for a Marvel fan
     bullets:
@@ -182,20 +181,6 @@ items:
         primary: false
     tags:
       - name: Birthday
-  - title: Autumn Flowers Cake
-    bullets:
-      - bullet: Hand painted autumn foliage on the face of the cake, topped with autumn
-          flowers on a fondant panel to give a 3D effect
-      - bullet: Silky strawberry sponge, paired with a Prosecco buttercream filling
-      - bullet: Served 10 portions
-    images:
-      - image: /images/uploads/autumn-flowers-1.jpg
-        primary: true
-      - image: /images/uploads/autumn-flowers-2.jpg
-        primary: false
-    tags:
-      - name: Birthday
-    text: Autumnal themed cake for a small birthday celebration
   - title: Toy Story Birthday Cake
     text: Fun packed Toy Story themed cake
     bullets:
@@ -264,6 +249,21 @@ items:
       - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
           filling
       - bullet: Served 15 portions
+  - title: Bee Birthday Cake
+    text: Hand painted spring bee birthday cake
+    bullets:
+      - bullet: "Hand painted watercolour effect bee on a daisy scene, with a bright
+          spring colour palette "
+      - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
+          filling
+      - bullet: Served 10 portion
+    images:
+      - image: /images/uploads/bee-cake-1.jpg
+        primary: true
+      - image: /images/uploads/bee-cake-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
   - title: Gruffalo Birthday Cake
     text: Two tier sketched Gruffalo themed cake
     bullets:
