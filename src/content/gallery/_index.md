@@ -726,4 +726,18 @@ items:
       - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
           jam filling
       - bullet: Served 25 portions
+  - title: Autumn Flowers Cake
+    bullets:
+      - bullet: Hand painted autumn foliage on the face of the cake, topped with autumn
+          flowers on a fondant panel to give a 3D effect
+      - bullet: Silky strawberry sponge, paired with a Prosecco buttercream filling
+      - bullet: Served 10 portions
+    images:
+      - image: /images/uploads/autumn-flowers-1.jpg
+        primary: true
+      - image: /images/uploads/autumn-flowers-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    text: Autumnal themed cake for a small birthday celebration
 ---
