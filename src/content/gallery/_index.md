@@ -162,6 +162,20 @@ items:
         primary: false
     tags:
       - name: Birthday
+  - title: Autumn Flowers Cake
+    bullets:
+      - bullet: Hand painted autumn foliage on the face of the cake, topped with autumn
+          flowers on a fondant panel to give a 3D effect
+      - bullet: Silky strawberry sponge, paired with a Prosecco buttercream filling
+      - bullet: Served 10 portions
+    images:
+      - image: /images/uploads/autumn-flowers-1.jpg
+        primary: true
+      - image: /images/uploads/autumn-flowers-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    text: Autumnal themed cake for a small birthday celebration
   - title: Toy Story Birthday Cake
     text: Fun packed Toy Story themed cake
     bullets:
@@ -183,20 +197,6 @@ items:
     tags:
       - name: Children
       - name: Birthday
-  - title: Autumn Flowers Cake
-    bullets:
-      - bullet: Hand painted autumn foliage on the face of the cake, topped with autumn
-          flowers on a fondant panel to give a 3D effect
-      - bullet: Silky strawberry sponge, paired with a Prosecco buttercream filling
-      - bullet: Served 10 portions
-    images:
-      - image: /images/uploads/autumn-flowers-1.jpg
-        primary: true
-      - image: /images/uploads/autumn-flowers-2.jpg
-        primary: false
-    tags:
-      - name: Birthday
-    text: Autumnal themed cake for a small birthday celebration
   - title: Flopsy Bunny Easter Cake
     text: Hand painted Flopsy Bunny Easter cake, with rice paper floral hoop
     tags:
