@@ -769,4 +769,18 @@ items:
       - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
           jam filling
       - bullet: Served 25 portions
+  - bullets:
+      - bullet: 5 tier classic off white fondant covered cake, with cascading faux white
+          roses and sage foliage. The tiers are separated with clear acrylic
+          tiers to give the cake extra height. Finished off with an acrylic
+          initials cake charm front and centre.
+      - bullet: All tiers, classic vanilla sponge, paired with a vanilla buttercream,
+          and a strawberry conserve filling
+      - bullet: Served 150 portions
+    images: []
+    tags:
+      - name: Wedding
+    title: 5 tier Wedding Cake
+    text: Fondant covered 5 tier wedding cake, with clear acrylic tier spacers and
+      white roses
 ---
