@@ -1,7 +1,7 @@
 ---
 title: Home
 subtitle: Welcome
-hero: /images/uploads/home-banner-image-final.jpg
+hero: /images/uploads/new-home-banner-image.jpg
 images:
   - image: /images/uploads/home-page-scroll-image-1.jpg
   - image: /images/uploads/home-page-scroll-image-2.jpg
