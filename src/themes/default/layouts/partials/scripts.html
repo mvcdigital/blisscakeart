@@ -68,8 +68,16 @@ var initGallery = function() {
                 {
                     className: 'gallery-modal',
                     onShow: (instance) => {
-                        instance.element().querySelector('.gallery-modal-close').onclick = instance.close;
-                        initSliders(instance.element());
+                        var element = instance.element();
+                        element.querySelector('.gallery-modal-close').onclick = instance.close;
+                        initSliders(element);
+                        if (typeof ga === "function") {
+                            var title = element.querySelector('h2').textContent;
+                            ga.getAll().forEach((tracker) => {
+                                tracker.set('page', '/gallery/' + title);
+                                tracker.send('pageview');
+                            });
+                        }
                     }
                 }
             ).show();
