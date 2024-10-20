@@ -43,6 +43,39 @@ items:
           light mocha buttercream filling. Top tier, light lemon sponge, paired
           with vanilla buttercream and tangy lemon curd filling
       - bullet: Served 60 portions
+  - title: Cake International Entry 2023
+    text: 3 tier under the sea themed cake
+    bullets:
+      - bullet: "This was my entry for Cake International 2023. 3 tier hand painted
+          under the sea themed cake, with a range of fish and coral in a mix of
+          bright colours. 3D fondant features on certain fish and the turtle
+          modelled to give life to the cake. "
+    images:
+      - image: /images/uploads/cake-international-cake.jpg
+        primary: true
+      - image: /images/uploads/cake-international-2023-logo-3.jpg
+        primary: false
+      - image: /images/uploads/cake-international-2023-logo-2.jpg
+        primary: false
+      - image: /images/uploads/cake-international-2023-logo-4.jpg
+        primary: false
+    tags:
+      - name: Other
+  - title: Wildflower Wedding Blessing Cake
+    text: Two tier wildflower themed cake
+    bullets:
+      - bullet: Two tiers of hand painted watercolour style wildflowers, in a mixture of
+          bright spring colours
+      - bullet: Both tiers, light lemon sponge, paired with a delicate elderflower
+          buttercream filling
+      - bullet: Served 50 portions
+    images:
+      - image: /images/uploads/wildflower-cake-1.jpg
+        primary: true
+      - image: /images/uploads/wildflower-cake-2.jpg
+        primary: false
+    tags:
+      - name: Wedding
   - title: Hand Painted Birthday Cake
     text: Hand painted portrait, with bunny ears and flower hair garland
     bullets:
