@@ -51,7 +51,7 @@ items:
           bright colours. 3D fondant features on certain fish and the turtle
           modelled to give life to the cake. "
     images:
-      - image: /images/uploads/cake-international-cake.jpg
+      - image: /images/uploads/ci-square-version.jpg
         primary: true
       - image: /images/uploads/cake-international-2023-logo-3.jpg
         primary: false
