@@ -46,10 +46,10 @@ items:
   - title: Cake International Entry 2023
     text: 3 tier under the sea themed cake
     bullets:
-      - bullet: "This was my entry for Cake International 2023. 3 tier hand painted
-          under the sea themed cake, with a range of fish and coral in a mix of
-          bright colours. 3D fondant features on certain fish and the turtle
-          modelled to give life to the cake. "
+      - bullet: This was my entry for Cake International 2023
+      - bullet: "3 tier hand painted under the sea themed cake, with a range of fish and
+          coral in a mix of bright colours. 3D modelled fondant features on
+          certain fish and the turtle to give life to the cake "
     images:
       - image: /images/uploads/ci-square-version.jpg
         primary: true
