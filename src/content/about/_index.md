@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: Bliss Cake Art
-image: /images/uploads/about-page-500x500.jpg
+image: /images/uploads/about-page-pic.jpg
 content: >-
   Hi! I'm Ricarda, owner of Bliss Cake Art. I'm a cake designer, with a passion
   for baking and a love of all things hand painted. 
