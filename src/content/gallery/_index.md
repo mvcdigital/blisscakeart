@@ -8,6 +8,28 @@ filters:
   - name: Christmas
   - name: Other
 items:
+  - title: Cake International Entry 2024
+    bullets:
+      - bullet: This was my entry for Cake International 2024, which won Gold in it's
+          category
+      - bullet: 3 tier safari themed hand painted cake, with 3D fondant features to
+          bring the animals on the cake to life
+    text: 3 tier safari themed cake
+    images:
+      - image: /images/uploads/cake-international-2024-1-logo-.jpg
+        primary: true
+      - primary: false
+        image: /images/uploads/cake-international-2024-2-logo-.jpg
+      - primary: false
+        image: /images/uploads/cake-international-2024-3-logo-.jpg
+      - primary: false
+        image: /images/uploads/cake-international-2024-4-logo-.jpg
+      - primary: false
+        image: /images/uploads/cake-international-2024-5-logo-.jpg
+      - primary: false
+        image: /images/uploads/cake-international-2024-6-logo-.jpg
+    tags:
+      - name: Other
   - title: The Joker Cake
     text: Cocao butter hand painted Joker cake
     bullets:
@@ -43,25 +65,6 @@ items:
           light mocha buttercream filling. Top tier, light lemon sponge, paired
           with vanilla buttercream and tangy lemon curd filling
       - bullet: Served 60 portions
-  - title: Cake International Entry 2023
-    text: 3 tier under the sea themed cake
-    bullets:
-      - bullet: This was my entry for Cake International 2023, which won Gold in it's
-          category
-      - bullet: "3 tier hand painted under the sea themed cake, with a range of fish and
-          coral in a mix of bright colours. 3D modelled fondant features on
-          certain fish and the turtle to give life to the cake "
-    images:
-      - image: /images/uploads/ci-square-version.jpg
-        primary: true
-      - image: /images/uploads/cake-international-2023-logo-3.jpg
-        primary: false
-      - image: /images/uploads/cake-international-2023-logo-2.jpg
-        primary: false
-      - image: /images/uploads/cake-international-2023-logo-4.jpg
-        primary: false
-    tags:
-      - name: Other
   - title: Wildflower Wedding Blessing Cake
     text: Two tier wildflower themed cake
     bullets:
@@ -107,6 +110,25 @@ items:
         primary: true
     tags:
       - name: Wedding
+  - title: Cake International Entry 2023
+    text: 3 tier under the sea themed cake
+    bullets:
+      - bullet: This was my entry for Cake International 2023, which won Gold in it's
+          category
+      - bullet: "3 tier hand painted under the sea themed cake, with a range of fish and
+          coral in a mix of bright colours. 3D modelled fondant features on
+          certain fish and the turtle to give life to the cake "
+    images:
+      - image: /images/uploads/ci-square-version.jpg
+        primary: true
+      - image: /images/uploads/cake-international-2023-logo-3.jpg
+        primary: false
+      - image: /images/uploads/cake-international-2023-logo-2.jpg
+        primary: false
+      - image: /images/uploads/cake-international-2023-logo-4.jpg
+        primary: false
+    tags:
+      - name: Other
   - images:
       - image: /images/uploads/wonka-cake-1.jpg
         primary: true
@@ -125,6 +147,24 @@ items:
       - bullet: Both tiers, rich and moist chocolate sponge, paired with a chocolate
           buttercream filling
       - bullet: Served 45 portions
+  - images:
+      - image: /images/uploads/little-mermaid-1.jpg
+        primary: true
+      - image: /images/uploads/little-mermaid-2.jpg
+        primary: false
+      - image: /images/uploads/little-mermaid-3.jpg
+        primary: false
+    tags:
+      - name: Children
+    title: Little Mermaid Cake
+    text: Hand painted Little Mermaid Cake
+    bullets:
+      - bullet: Textured ganache covered cake, with fondant details in the mermaid
+          tail/coral, pearls, and hand painted characters from the Little
+          Mermaid
+      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
+          filling
+      - bullet: Served 40 people
   - bullets:
       - bullet: 5 tier classic off white fondant covered cake, with cascading faux white
           roses and sage foliage. The tiers are separated with clear acrylic
@@ -656,6 +696,21 @@ items:
       - name: Children
     text: Two tier ganache covered cake, with chocolate wafer rolls and fondant
       details
+  - tags:
+      - name: Christmas
+    images:
+      - image: /images/uploads/santa-elf-tree-xmas-cake-1.jpg
+        primary: true
+      - image: /images/uploads/santa-elf-tree-xmas-cake-3.jpg
+        primary: false
+    title: Christmas Santa and Elf cake
+    bullets:
+      - bullet: "The theme of the cake was meant to tell a little story of Santa
+          bringing the presents for the tree, and the little cheeky elf has
+          opened one "
+      - bullet: The tree and presents are made of cake and covered in fondant, so they
+          are also edible and not just sugar
+    text: Christmas scene topped cake, with Santa/elf/tree/presents
   - title: Gruffalo Birthday Cake
     text: "Gruffalo themed 3rd Birthday cake "
     images:
@@ -823,18 +878,6 @@ items:
       - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
           jam filling
       - bullet: Served 25 portions
-  - title: Cake International Entry 2024
-    bullets:
-      - bullet: This was my entry for Cake International 2024, which won Gold in it's
-          category
-      - bullet: 3 tier safari themed hand painted cake, with 3D fondant features to
-          bring the animals on the cake to life
-    text: 3 tier safari themed cake
-    images:
-      - image: /images/uploads/cake-international-2024.jpg
-        primary: true
-    tags:
-      - name: Other
   - title: Christmas Wreath Cake
     text: Frosted natural wreath Christmas cake
     tags:
@@ -849,37 +892,4 @@ items:
           rosemary, almonds, cranberries, cinnamon, to create the wreath
       - bullet: Merry Christmas hand piped in the centre, finished with red and gold
           ribbon
-  - images:
-      - image: /images/uploads/little-mermaid-1.jpg
-        primary: true
-      - image: /images/uploads/little-mermaid-2.jpg
-        primary: false
-      - image: /images/uploads/little-mermaid-3.jpg
-        primary: false
-    tags:
-      - name: Children
-    title: Little Mermaid Cake
-    text: Hand painted Little Mermaid Cake
-    bullets:
-      - bullet: Textured ganache covered cake, with fondant details in the mermaid
-          tail/coral, pearls, and hand painted characters from the Little
-          Mermaid
-      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
-          filling
-      - bullet: Served 40 people
-  - tags:
-      - name: Christmas
-    images:
-      - image: /images/uploads/santa-elf-tree-xmas-cake-1.jpg
-        primary: true
-      - image: /images/uploads/santa-elf-tree-xmas-cake-3.jpg
-        primary: false
-    title: Christmas Santa and Elf cake
-    bullets:
-      - bullet: "The theme of the cake was meant to tell a little story of Santa
-          bringing the presents for the tree, and the little cheeky elf has
-          opened one "
-      - bullet: The tree and presents are made of cake and covered in fondant, so they
-          are also edible and not just sugar
-    text: Christmas scene topped cake, with Santa/elf/tree/presents
 ---
