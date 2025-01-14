@@ -46,7 +46,8 @@ items:
   - title: Cake International Entry 2023
     text: 3 tier under the sea themed cake
     bullets:
-      - bullet: This was my entry for Cake International 2023
+      - bullet: This was my entry for Cake International 2023, which won Gold in it's
+          category
       - bullet: "3 tier hand painted under the sea themed cake, with a range of fish and
           coral in a mix of bright colours. 3D modelled fondant features on
           certain fish and the turtle to give life to the cake "
@@ -822,4 +823,16 @@ items:
       - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
           jam filling
       - bullet: Served 25 portions
+  - title: Cake International Entry 2024
+    bullets:
+      - bullet: This was my entry for Cake International 2024, which won Gold in it's
+          category
+      - bullet: 3 tier safari themed hand painted cake, with 3D fondant features to
+          bring the animals on the cake to life
+    text: 3 tier safari themed cake
+    images:
+      - image: /images/uploads/cake-international-2024.jpg
+        primary: true
+    tags:
+      - name: Other
 ---
