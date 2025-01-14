@@ -156,6 +156,7 @@ items:
         primary: false
     tags:
       - name: Children
+      - name: Birthday
     title: Little Mermaid Cake
     text: Hand painted Little Mermaid Cake
     bullets:
