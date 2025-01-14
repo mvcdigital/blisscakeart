@@ -617,6 +617,21 @@ items:
       - bullet: Served 30 portions
     text: Christmas cake inspired by Santa over sleeping in bed on Christmas morning
   - images:
+      - image: /images/uploads/yellow-and-blue-flower-wedding-cake.jpg
+        primary: true
+    title: Yellow and Blue flowers Wedding Cake
+    tags:
+      - name: Wedding
+    text: "3 tier buttercream coated wedding cake, with cascading sugar flowers "
+    bullets:
+      - bullet: Textured buttercream covering across the three tiers, with handmade
+          yellow sugar roses and blue sugar cornflowers
+      - bullet: "Bottom tier, (retired) luxurious red velvet sponge, paired with a cream
+          cheese buttercream filling. 2nd tier, rich and moist chocolate sponge,
+          paired with a vanilla buttercream filling. Top tier, classic vanilla
+          sponge, paired with a vanilla buttercream and strawberry jam filling "
+      - bullet: Served 80 portions
+  - images:
       - image: /images/uploads/spiderman-3d-1.jpg
         primary: true
       - image: /images/uploads/spiderman-3d-2.jpg
@@ -680,6 +695,24 @@ items:
       - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
           jam filling
       - bullet: Served 30 portions
+  - title: Formula 1 Helmet Birthday Cake
+    text: Lewis Hamilton's F1 helmet replica, for an F1 super fan
+    tags:
+      - name: Birthday
+    images:
+      - image: /images/uploads/hamilton-s-helmet-1.jpg
+        primary: true
+      - image: /images/uploads/hamilton-s-helmet-2.jpg
+        primary: false
+      - image: /images/uploads/hamilton-s-helmet-3.jpg
+        primary: false
+      - image: /images/uploads/hamilton-s-helmet-4.jpg
+        primary: false
+    bullets:
+      - bullet: Fondant replica of Lewis Hamilton's helmet, with hand painted features
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
+      - bullet: Served 20 portions
   - images:
       - image: /images/uploads/9th-stitch-hawaii-1.jpg
         primary: true
@@ -745,24 +778,6 @@ items:
         primary: false
       - image: /images/uploads/sonic-3.jpg
         primary: false
-  - title: Formula 1 Helmet Birthday Cake
-    text: Lewis Hamilton's F1 helmet replica, for an F1 super fan
-    tags:
-      - name: Birthday
-    images:
-      - image: /images/uploads/hamilton-s-helmet-1.jpg
-        primary: true
-      - image: /images/uploads/hamilton-s-helmet-2.jpg
-        primary: false
-      - image: /images/uploads/hamilton-s-helmet-3.jpg
-        primary: false
-      - image: /images/uploads/hamilton-s-helmet-4.jpg
-        primary: false
-    bullets:
-      - bullet: Fondant replica of Lewis Hamilton's helmet, with hand painted features
-      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
-          jam filling
-      - bullet: Served 20 portions
   - title: Spiderman Cake
     text: Spiderman cityscape children's birthday cake
     bullets:
@@ -848,21 +863,6 @@ items:
       - bullet: Light lemon sponge, paired with a delicate elderflower buttercream
           filling
       - bullet: Served 40 portions
-  - images:
-      - image: /images/uploads/yellow-and-blue-flower-wedding-cake.jpg
-        primary: true
-    title: Yellow and Blue flowers Wedding Cake
-    tags:
-      - name: Wedding
-    text: "3 tier buttercream coated wedding cake, with cascading sugar flowers "
-    bullets:
-      - bullet: Textured buttercream covering across the three tiers, with handmade
-          yellow sugar roses and blue sugar cornflowers
-      - bullet: "Bottom tier, (retired) luxurious red velvet sponge, paired with a cream
-          cheese buttercream filling. 2nd tier, rich and moist chocolate sponge,
-          paired with a vanilla buttercream filling. Top tier, classic vanilla
-          sponge, paired with a vanilla buttercream and strawberry jam filling "
-      - bullet: Served 80 portions
   - images:
       - image: /images/uploads/3rd-minion-cake.jpg
         primary: true
