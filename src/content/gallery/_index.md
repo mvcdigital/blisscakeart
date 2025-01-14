@@ -835,4 +835,51 @@ items:
         primary: true
     tags:
       - name: Other
+  - title: Christmas Wreath Cake
+    text: Frosted natural wreath Christmas cake
+    tags:
+      - name: Christmas
+    images:
+      - image: /images/uploads/xmas-frosted-wreath-1.jpg
+        primary: true
+      - image: /images/uploads/xmas-frosted-wreath-3.jpg
+        primary: false
+    bullets:
+      - bullet: Royal iced covered cake, with frosted natural ingredients such as
+          rosemary, almonds, cranberries, cinnamon, to create the wreath
+      - bullet: Merry Christmas hand piped in the centre, finished with red and gold
+          ribbon
+  - images:
+      - image: /images/uploads/little-mermaid-1.jpg
+        primary: true
+      - image: /images/uploads/little-mermaid-2.jpg
+        primary: false
+      - image: /images/uploads/little-mermaid-3.jpg
+        primary: false
+    tags:
+      - name: Children
+    title: Little Mermaid Cake
+    text: Hand painted Little Mermaid Cake
+    bullets:
+      - bullet: Textured ganache covered cake, with fondant details in the mermaid
+          tail/coral, pearls, and hand painted characters from the Little
+          Mermaid
+      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
+          filling
+      - bullet: Served 40 people
+  - tags:
+      - name: Christmas
+    images:
+      - image: /images/uploads/santa-elf-tree-xmas-cake-1.jpg
+        primary: true
+      - image: /images/uploads/santa-elf-tree-xmas-cake-3.jpg
+        primary: false
+    title: Christmas Santa and Elf cake
+    bullets:
+      - bullet: "The theme of the cake was meant to tell a little story of Santa
+          bringing the presents for the tree, and the little cheeky elf has
+          opened one "
+      - bullet: The tree and presents are made of cake and covered in fondant, so they
+          are also edible and not just sugar
+    text: Christmas scene topped cake, with Santa/elf/tree/presents
 ---
