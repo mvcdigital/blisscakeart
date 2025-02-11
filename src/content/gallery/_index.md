@@ -30,6 +30,23 @@ items:
         image: /images/uploads/cake-international-2024-6-logo-.jpg
     tags:
       - name: Other
+  - title: Lewis Hamilton/Mercedes Cake
+    text: Cakescape of Lewis Hamilton and Mercedes
+    tags:
+      - name: Birthday
+    images:
+      - primary: true
+        image: /images/uploads/lewis-hamilton-cake-1-square.jpg
+      - image: /images/uploads/lewis-hamilton-cake-2-square.jpg
+        primary: false
+      - image: /images/uploads/lewis-hamilton-cake-3-square.jpg
+        primary: false
+    bullets:
+      - bullet: Hand painted image of Lewis Hamilton, sat behind the big Mercedes car,
+          all hand painted details using colour dusts and cocao butter
+      - bullet: Alternate layers of classic vanilla sponge, moist and rich chocolate
+          sponge, paired with vanilla buttercream layers
+      - bullet: Served 45 portions
   - title: The Joker Cake
     text: Cocao butter hand painted Joker cake
     bullets:
@@ -893,21 +910,4 @@ items:
           rosemary, almonds, cranberries, cinnamon, to create the wreath
       - bullet: Merry Christmas hand piped in the centre, finished with red and gold
           ribbon
-  - title: Lewis Hamilton/Mercedes Cake
-    text: Cakescape of Lewis Hamilton and Mercedes
-    tags:
-      - name: Birthday
-    images:
-      - image: /images/uploads/lewis-hamilton-cake-1.jpg
-        primary: true
-      - image: /images/uploads/lewis-hamilton-cake-2.jpg
-        primary: false
-      - image: /images/uploads/lewis-hamilton-cake-3.jpg
-        primary: false
-    bullets:
-      - bullet: Hand painted image of Lewis Hamilton, sat behind the big Mercedes car,
-          all hand painted details using colour dusts and cocao butter
-      - bullet: Alternate layers of classic vanilla sponge, moist and rich chocolate
-          sponge, paired with vanilla buttercream layers
-      - bullet: Served 45 portions
 ---
