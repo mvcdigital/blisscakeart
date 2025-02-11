@@ -18,7 +18,7 @@ testimonials:
       much!" E & O'
 content: >-
   Welcome to Bliss Cake Art, the home of bespoke designed cakes, focusing on
-  hand painted elements creating edible art, in Bucks, U.K. 
+  hand painted elements creating edible art, near Aylesbury, Bucks, U.K. 
 
 
   I'm owner and creator, Ricarda, an award winning cake artist, achieving a Gold award in Cake International 2023 and 2024 in the Hand Painted Category. I pride myself in creating memorable cakes, which are bespoke, unique and individual to each person and their vision.
