@@ -328,6 +328,22 @@ items:
         primary: true
     tags:
       - name: Wedding
+  - title: Jelly Cat Cake
+    tags:
+      - name: Birthday
+      - name: Children
+    text: Cake based on the popular cuddly toy
+    bullets:
+      - bullet: Super cute fondant covered cake, looking like the Jelly Cat birthday
+          cake cuddly toy
+      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
+          jam
+      - bullet: Served 15 portions
+    images:
+      - image: /images/uploads/jelly-cat-birthday-cake-1.jpg
+        primary: true
+      - image: /images/uploads/jelly-cat-birthday-cake-2.jpg
+        primary: false
   - title: Watercolour Flowers Mother's Day Cake
     text: Hand painted flowers in a watercolour design for Mother's Day
     tags:
@@ -910,20 +926,4 @@ items:
           rosemary, almonds, cranberries, cinnamon, to create the wreath
       - bullet: Merry Christmas hand piped in the centre, finished with red and gold
           ribbon
-  - title: Jelly Cat Cake
-    tags:
-      - name: Birthday
-      - name: Children
-    text: Cake based on the popular cuddly toy
-    bullets:
-      - bullet: Super cute fondant covered cake, looking like the Jelly Cat birthday
-          cake cuddly toy
-      - bullet: Classic vanilla sponge, paired with vanilla buttercream and strawberry
-          jam
-      - bullet: Served 15 portions
-    images:
-      - image: /images/uploads/jelly-cat-birthday-cake-1.jpg
-        primary: true
-      - image: /images/uploads/jelly-cat-birthday-cake-2.jpg
-        primary: false
 ---
