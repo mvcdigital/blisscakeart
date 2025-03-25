@@ -97,6 +97,21 @@ items:
         primary: false
     tags:
       - name: Wedding
+  - title: 3 Tier White Wedding
+    text: All white wedding cake, with clear tier and white florals
+    images:
+      - image: /images/uploads/square-3-tier-white-with-ribbon.jpg
+        primary: true
+    tags:
+      - name: Wedding
+    bullets:
+      - bullet: "White fondant covered tiers, with white florals and white ribbon. The
+          top and bottom tiers are edible, and the middle clear tier adds height
+          and dimension to the cake. "
+      - bullet: Bottom tier, rich and moist chocolate sponge paired with a vanilla
+          buttercream filling. Top tier, light lemon sponge, paired with vanilla
+          buttercream and tangy lemon curd filling
+      - bullet: Served 130 portions
   - title: Hand Painted Birthday Cake
     text: Hand painted portrait, with bunny ears and flower hair garland
     bullets:
@@ -203,6 +218,20 @@ items:
     title: 5 tier Wedding Cake
     text: Fondant covered 5 tier wedding cake, with clear acrylic tier spacers and
       white roses
+  - title: Blue Floral Wedding Cake
+    text: Small blue and dried florals wedding cake
+    tags:
+      - name: Wedding
+    images:
+      - image: /images/uploads/square-blue-flower-engagement-cake.jpg
+        primary: true
+    bullets:
+      - bullet: Wedding cakes don't have to be big! This was a small fondant covered
+          cake with hand painted florals and dried floral spray, matching the
+          theme and colours of their big day
+      - bullet: Light lemon sponge, paired with vanilla buttercream and tangy lemon curd
+          filling
+      - bullet: Served 55 portions
   - title: Jack Skellington Cake
     text: Jack Skellington engagement cake
     tags:
