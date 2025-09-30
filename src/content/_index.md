@@ -6,6 +6,7 @@ images:
   - image: /images/uploads/home-page-scroll-image-1.jpg
   - image: /images/uploads/home-page-scroll-image-2.jpg
   - image: /images/uploads/3rd-home-page-scroll-image.jpg
+  - image: /images/uploads/home-page-scroll-image-4.jpg
   - image: /images/uploads/home-page-scroll-image-5.jpg
 testimonials:
   - text: '"Our cake was absolutely beautiful and was everything we wanted, and
