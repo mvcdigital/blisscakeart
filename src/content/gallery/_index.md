@@ -47,6 +47,19 @@ items:
       - bullet: Alternate layers of classic vanilla sponge, moist and rich chocolate
           sponge, paired with vanilla buttercream layers
       - bullet: Served 45 portions
+  - title: Hand Painted Floral Wedding Cake
+    text: Two tier hand painted floral cake, with 3D elements
+    bullets:
+      - bullet: Cocoa butter paintings inspired by the brides bouquet, including little
+          3D elements as you go around the cake
+      - bullet: Two tiers of zingy raspberry sponge, paired with a white chocolate
+          buttercream and raspberry conserve
+      - bullet: Served 100 portions
+    images:
+      - image: /images/uploads/s-s-hand-painted-wedding-cake-1.jpg
+        primary: true
+    tags:
+      - name: Wedding
   - title: The Joker Cake
     text: Cocao butter hand painted Joker cake
     bullets:
@@ -62,26 +75,59 @@ items:
         primary: false
     tags:
       - name: Other
-  - images:
-      - image: /images/uploads/ted-lasso-cake-1.jpg
+  - title: Hand Painted Birthday Cake
+    text: Hand painted portrait, with bunny ears and flower hair garland
+    bullets:
+      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
+          hair garland, like the little girl requested
+      - bullet: Light lemon sponge, paired with a vanilla sponge and tangy lemon curd
+          filling
+      - bullet: Served 30 portions
+    images:
+      - image: /images/uploads/luisa-painting-1.jpg
         primary: true
-      - image: /images/uploads/ted-lasso-cake-2.jpg
-        primary: false
-      - image: /images/uploads/ted-lasso-cake-3.jpg
+      - image: /images/uploads/luisa-painting-2.jpg
         primary: false
     tags:
       - name: Birthday
-    title: Ted Lasso Birthday Cake
-    text: Ted Lasso inspired 3 tier birthday cake, with fondant and hand painted
-      details
+  - title: Flower/Bee Scene
+    text: Hand painted scene of wild flowers and bees
+    images:
+      - image: /images/uploads/hand-painted-flower-bee-scene-1.jpg
+        primary: true
+      - image: /images/uploads/hand-painted-flower-bee-scene-2.jpg
+        primary: false
+      - image: /images/uploads/hand-painted-flower-bee-scene-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
     bullets:
-      - bullet: Hand painted Ted Lasso inspired characters on the bottom tier, with
-          fondant details based on the TV programme
-      - bullet: Bottom tier, rich and moist chocolate sponge paired with a vanilla
-          buttercream filling. Middle tier, intense coffee sponge, paired with a
-          light mocha buttercream filling. Top tier, light lemon sponge, paired
-          with vanilla buttercream and tangy lemon curd filling
-      - bullet: Served 60 portions
+      - bullet: Tall/slim cake, covered in sugar paste with hand painted cocoa butter
+          details
+      - bullet: The cake consisted of two flavours, half light lemon sponge, paired with
+          a lemon curd buttercream and raspberry conserve. The other half a rich
+          and moist chocolate sponge, paired with a whipped chocolate ganache
+          filling
+      - bullet: Served 20 portions
+  - title: Cake International Entry 2023
+    text: 3 tier under the sea themed cake
+    bullets:
+      - bullet: This was my entry for Cake International 2023, which won Gold in it's
+          category
+      - bullet: "3 tier hand painted under the sea themed cake, with a range of fish and
+          coral in a mix of bright colours. 3D modelled fondant features on
+          certain fish and the turtle to give life to the cake "
+    images:
+      - image: /images/uploads/ci-square-version.jpg
+        primary: true
+      - image: /images/uploads/cake-international-2023-logo-3.jpg
+        primary: false
+      - image: /images/uploads/cake-international-2023-logo-2.jpg
+        primary: false
+      - image: /images/uploads/cake-international-2023-logo-4.jpg
+        primary: false
+    tags:
+      - name: Other
   - title: Wildflower Wedding Blessing Cake
     text: Two tier wildflower themed cake
     bullets:
@@ -112,21 +158,26 @@ items:
           buttercream filling. Top tier, light lemon sponge, paired with vanilla
           buttercream and tangy lemon curd filling
       - bullet: Served 130 portions
-  - title: Hand Painted Birthday Cake
-    text: Hand painted portrait, with bunny ears and flower hair garland
-    bullets:
-      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
-          hair garland, like the little girl requested
-      - bullet: Light lemon sponge, paired with a vanilla sponge and tangy lemon curd
-          filling
-      - bullet: Served 30 portions
-    images:
-      - image: /images/uploads/luisa-painting-1.jpg
+  - images:
+      - image: /images/uploads/ted-lasso-cake-1.jpg
         primary: true
-      - image: /images/uploads/luisa-painting-2.jpg
+      - image: /images/uploads/ted-lasso-cake-2.jpg
+        primary: false
+      - image: /images/uploads/ted-lasso-cake-3.jpg
         primary: false
     tags:
       - name: Birthday
+    title: Ted Lasso Birthday Cake
+    text: Ted Lasso inspired 3 tier birthday cake, with fondant and hand painted
+      details
+    bullets:
+      - bullet: Hand painted Ted Lasso inspired characters on the bottom tier, with
+          fondant details based on the TV programme
+      - bullet: Bottom tier, rich and moist chocolate sponge paired with a vanilla
+          buttercream filling. Middle tier, intense coffee sponge, paired with a
+          light mocha buttercream filling. Top tier, light lemon sponge, paired
+          with vanilla buttercream and tangy lemon curd filling
+      - bullet: Served 60 portions
   - title: Triathlon Wedding Cake
     text: "A bespoke wedding cake designed for a couple who met while Triathlon
       training "
@@ -142,25 +193,6 @@ items:
         primary: true
     tags:
       - name: Wedding
-  - title: Cake International Entry 2023
-    text: 3 tier under the sea themed cake
-    bullets:
-      - bullet: This was my entry for Cake International 2023, which won Gold in it's
-          category
-      - bullet: "3 tier hand painted under the sea themed cake, with a range of fish and
-          coral in a mix of bright colours. 3D modelled fondant features on
-          certain fish and the turtle to give life to the cake "
-    images:
-      - image: /images/uploads/ci-square-version.jpg
-        primary: true
-      - image: /images/uploads/cake-international-2023-logo-3.jpg
-        primary: false
-      - image: /images/uploads/cake-international-2023-logo-2.jpg
-        primary: false
-      - image: /images/uploads/cake-international-2023-logo-4.jpg
-        primary: false
-    tags:
-      - name: Other
   - images:
       - image: /images/uploads/wonka-cake-1.jpg
         primary: true
@@ -218,6 +250,21 @@ items:
     title: 5 tier Wedding Cake
     text: Fondant covered 5 tier wedding cake, with clear acrylic tier spacers and
       white roses
+  - title: 80th Silhouette Cake
+    text: Hand painted floral 80th birthday cake
+    images:
+      - image: /images/uploads/painted-flowers-80-cake-1.jpg
+        primary: true
+      - image: /images/uploads/painted-flowers-80-cake-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    bullets:
+      - bullet: "Hand painted cake with a floral cluster, with the 80 silhouette showing
+          through "
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
+      - bullet: Served 30 portions
   - title: Blue Floral Wedding Cake
     text: Small blue and dried florals wedding cake
     tags:
@@ -955,51 +1002,4 @@ items:
           rosemary, almonds, cranberries, cinnamon, to create the wreath
       - bullet: Merry Christmas hand piped in the centre, finished with red and gold
           ribbon
-  - title: Flower/Bee Scene
-    text: Hand painted scene of wild flowers and bees
-    images:
-      - image: /images/uploads/hand-painted-flower-bee-scene-1.jpg
-        primary: true
-      - image: /images/uploads/hand-painted-flower-bee-scene-2.jpg
-        primary: false
-      - image: /images/uploads/hand-painted-flower-bee-scene-3.jpg
-        primary: false
-    tags:
-      - name: Birthday
-    bullets:
-      - bullet: Tall/slim cake, covered in sugar paste with hand painted cocoa butter
-          details
-      - bullet: The cake consisted of two flavours, half light lemon sponge, paired with
-          a lemon curd buttercream and raspberry conserve. The other half a rich
-          and moist chocolate sponge, paired with a whipped chocolate ganache
-          filling
-      - bullet: Served 20 portions
-  - title: 80th Silhouette Cake
-    text: Hand painted floral 80th birthday cake
-    images:
-      - image: /images/uploads/painted-flowers-80-cake-1.jpg
-        primary: true
-      - image: /images/uploads/painted-flowers-80-cake-2.jpg
-        primary: false
-    tags:
-      - name: Birthday
-    bullets:
-      - bullet: "Hand painted cake with a floral cluster, with the 80 silhouette showing
-          through "
-      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
-          jam filling
-      - bullet: Served 30 portions
-  - title: Hand Painted Floral Wedding Cake
-    text: Two tier hand painted floral cake, with 3D elements
-    bullets:
-      - bullet: Cocoa butter paintings inspired by the brides bouquet, including little
-          3D elements as you go around the cake
-      - bullet: Two tiers of zingy raspberry sponge, paired with a white chocolate
-          buttercream and raspberry conserve
-      - bullet: Served 100 portions
-    images:
-      - image: /images/uploads/s-s-hand-painted-wedding-cake-1.jpg
-        primary: true
-    tags:
-      - name: Wedding
 ---
