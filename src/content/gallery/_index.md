@@ -955,4 +955,51 @@ items:
           rosemary, almonds, cranberries, cinnamon, to create the wreath
       - bullet: Merry Christmas hand piped in the centre, finished with red and gold
           ribbon
+  - title: Flower/Bee Scene
+    text: Hand painted scene of wild flowers and bees
+    images:
+      - image: /images/uploads/hand-painted-flower-bee-scene-1.jpg
+        primary: true
+      - image: /images/uploads/hand-painted-flower-bee-scene-2.jpg
+        primary: false
+      - image: /images/uploads/hand-painted-flower-bee-scene-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    bullets:
+      - bullet: Tall/slim cake, covered in sugar paste with hand painted cocoa butter
+          details
+      - bullet: The cake consisted of two flavours, half light lemon sponge, paired with
+          a lemon curd buttercream and raspberry conserve. The other half a rich
+          and moist chocolate sponge, paired with a whipped chocolate ganache
+          filling
+      - bullet: Served 20 portions
+  - title: 80th Silhouette Cake
+    text: Hand painted floral 80th birthday cake
+    images:
+      - image: /images/uploads/painted-flowers-80-cake-1.jpg
+        primary: true
+      - image: /images/uploads/painted-flowers-80-cake-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    bullets:
+      - bullet: "Hand painted cake with a floral cluster, with the 80 silhouette showing
+          through "
+      - bullet: Classic vanilla sponge, paired with a vanilla buttercream and strawberry
+          jam filling
+      - bullet: Served 30 portions
+  - title: Hand Painted Floral Wedding Cake
+    text: Two tier hand painted floral cake, with 3D elements
+    bullets:
+      - bullet: Cocoa butter paintings inspired by the brides bouquet, including little
+          3D elements as you go around the cake
+      - bullet: Two tiers of zingy raspberry sponge, paired with a white chocolate
+          buttercream and raspberry conserve
+      - bullet: Served 100 portions
+    images:
+      - image: /images/uploads/s-s-hand-painted-wedding-cake-1.jpg
+        primary: true
+    tags:
+      - name: Wedding
 ---
