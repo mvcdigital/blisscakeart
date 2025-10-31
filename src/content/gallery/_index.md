@@ -90,25 +90,41 @@ items:
         primary: false
     tags:
       - name: Birthday
-  - title: Flower/Bee Scene
-    text: Hand painted scene of wild flowers and bees
+  - bullets:
+      - bullet: 5 tier classic off white fondant covered cake, with cascading faux white
+          roses and sage foliage. The tiers are separated with clear acrylic
+          tiers to give the cake extra height. Finished off with an acrylic
+          initials cake charm front and centre.
+      - bullet: All tiers, classic vanilla sponge, paired with a vanilla buttercream,
+          and a strawberry conserve filling
+      - bullet: Served 150 portions
     images:
-      - image: /images/uploads/hand-painted-flower-bee-scene-1.jpg
+      - image: /images/uploads/l-v-wedding-cake-1.jpg
         primary: true
-      - image: /images/uploads/hand-painted-flower-bee-scene-2.jpg
+      - image: /images/uploads/l-v-wedding-cake-2.jpg
         primary: false
-      - image: /images/uploads/hand-painted-flower-bee-scene-3.jpg
+      - image: /images/uploads/l-v-wedding-cake-3.jpg
         primary: false
     tags:
-      - name: Birthday
+      - name: Wedding
+    title: 5 tier Wedding Cake
+    text: Fondant covered 5 tier wedding cake, with clear acrylic tier spacers and
+      white roses
+  - title: Wildflower Wedding Blessing Cake
+    text: Two tier wildflower themed cake
     bullets:
-      - bullet: Tall/slim cake, covered in sugar paste with hand painted cocoa butter
-          details
-      - bullet: The cake consisted of two flavours, half light lemon sponge, paired with
-          a lemon curd buttercream and raspberry conserve. The other half a rich
-          and moist chocolate sponge, paired with a whipped chocolate ganache
-          filling
-      - bullet: Served 20 portions
+      - bullet: Two tiers of hand painted watercolour style wildflowers, in a mixture of
+          bright spring colours
+      - bullet: Both tiers, light lemon sponge, paired with a delicate elderflower
+          buttercream filling
+      - bullet: Served 50 portions
+    images:
+      - image: /images/uploads/wildflower-cake-1.jpg
+        primary: true
+      - image: /images/uploads/wildflower-cake-2.jpg
+        primary: false
+    tags:
+      - name: Wedding
   - title: Cake International Entry 2023
     text: 3 tier under the sea themed cake
     bullets:
@@ -128,21 +144,6 @@ items:
         primary: false
     tags:
       - name: Other
-  - title: Wildflower Wedding Blessing Cake
-    text: Two tier wildflower themed cake
-    bullets:
-      - bullet: Two tiers of hand painted watercolour style wildflowers, in a mixture of
-          bright spring colours
-      - bullet: Both tiers, light lemon sponge, paired with a delicate elderflower
-          buttercream filling
-      - bullet: Served 50 portions
-    images:
-      - image: /images/uploads/wildflower-cake-1.jpg
-        primary: true
-      - image: /images/uploads/wildflower-cake-2.jpg
-        primary: false
-    tags:
-      - name: Wedding
   - title: 3 Tier White Wedding
     text: All white wedding cake, with clear tier and white florals
     images:
@@ -193,6 +194,25 @@ items:
         primary: true
     tags:
       - name: Wedding
+  - title: Flower/Bee Scene
+    text: Hand painted scene of wild flowers and bees
+    images:
+      - image: /images/uploads/hand-painted-flower-bee-scene-1.jpg
+        primary: true
+      - image: /images/uploads/hand-painted-flower-bee-scene-2.jpg
+        primary: false
+      - image: /images/uploads/hand-painted-flower-bee-scene-3.jpg
+        primary: false
+    tags:
+      - name: Birthday
+    bullets:
+      - bullet: Tall/slim cake, covered in sugar paste with hand painted cocoa butter
+          details
+      - bullet: The cake consisted of two flavours, half light lemon sponge, paired with
+          a lemon curd buttercream and raspberry conserve. The other half a rich
+          and moist chocolate sponge, paired with a whipped chocolate ganache
+          filling
+      - bullet: Served 20 portions
   - images:
       - image: /images/uploads/wonka-cake-1.jpg
         primary: true
@@ -230,26 +250,6 @@ items:
       - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
           filling
       - bullet: Served 40 people
-  - bullets:
-      - bullet: 5 tier classic off white fondant covered cake, with cascading faux white
-          roses and sage foliage. The tiers are separated with clear acrylic
-          tiers to give the cake extra height. Finished off with an acrylic
-          initials cake charm front and centre.
-      - bullet: All tiers, classic vanilla sponge, paired with a vanilla buttercream,
-          and a strawberry conserve filling
-      - bullet: Served 150 portions
-    images:
-      - image: /images/uploads/l-v-wedding-cake-1.jpg
-        primary: true
-      - image: /images/uploads/l-v-wedding-cake-2.jpg
-        primary: false
-      - image: /images/uploads/l-v-wedding-cake-3.jpg
-        primary: false
-    tags:
-      - name: Wedding
-    title: 5 tier Wedding Cake
-    text: Fondant covered 5 tier wedding cake, with clear acrylic tier spacers and
-      white roses
   - title: 80th Silhouette Cake
     text: Hand painted floral 80th birthday cake
     images:
