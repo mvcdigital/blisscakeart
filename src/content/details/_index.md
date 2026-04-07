@@ -1,9 +1,9 @@
 ---
 title: Information
 subtitle: Details
-text: Prices start at £75, your bespoke quote will be sent once all the details
-  of your cake are confirmed. All of the above can be ordered Gluten Free or
-  Vegan
+text: Prices start at £150, your bespoke quote will be sent once all the details
+  of your cake are confirmed.                       All of the above can be
+  ordered Gluten Free or Vegan
 guide: /images/uploads/portion-guide.jpg
 flavours:
   - name: Vanilla & Jam
