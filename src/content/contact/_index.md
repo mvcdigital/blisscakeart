@@ -1,12 +1,17 @@
 ---
 title: Contact
 subtitle: Get in touch
-content: |-
+content: >-
   Please complete the enquiry form and I’ll get back to you as soon as possible.
+
 
   Alternatively, you can email me at enquiries@blisscakeart.co.uk
 
-  You can also find me on social media.
+
+  Prices for bespoke cakes start from £150. I aim to respond to all enquiries within 48 hours, however during busier times this may take slightly longer. I appreciate your patience.
+
+
+  You can also find me on social media below!
 flavours:
   - name: Vanilla
   - name: Chocolate
