@@ -1,7 +1,7 @@
 ---
 title: Information
 subtitle: Details
-text: Prices start at £150, your bespoke quote will be sent once all the details
+text: Prices start at £100, your bespoke quote will be sent once all the details
   of your cake are confirmed.                       All of the above can be
   ordered Gluten Free or Vegan
 guide: /images/uploads/portion-guide.jpg
