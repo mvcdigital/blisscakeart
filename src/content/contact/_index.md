@@ -8,7 +8,7 @@ content: >-
   Alternatively, you can email me at enquiries@blisscakeart.co.uk
 
 
-  Prices for bespoke cakes start from £150. I aim to respond to all enquiries within 48 hours, however during busier times this may take slightly longer. I appreciate your patience.
+  Prices for bespoke cakes start from £100. I aim to respond to all enquiries within 48 hours, however during busier times this may take slightly longer. I appreciate your patience.
 
 
   You can also find me on social media below!
