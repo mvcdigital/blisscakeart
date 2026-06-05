@@ -1,11 +1,11 @@
 {
   "name": "default",
   "scripts": {
-    "build": "node-sass --include-path node_modules theme.scss static/css/theme.css",
-    "watch": "node-sass --watch --include-path node_modules theme.scss static/css/theme.css"
+    "build": "sass --load-path node_modules theme.scss static/css/theme.css",
+    "watch": "sass --watch --load-path node_modules theme.scss static/css/theme.css"
   },
   "dependencies": {
-    "node-sass": "^4.14.0"
+    "sass": "^1.77.0"
   },
   "devDependencies": {
     "scss-reset": "^1.4.2"
