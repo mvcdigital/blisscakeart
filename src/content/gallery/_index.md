@@ -1002,4 +1002,20 @@ items:
           rosemary, almonds, cranberries, cinnamon, to create the wreath
       - bullet: Merry Christmas hand piped in the centre, finished with red and gold
           ribbon
+  - title: Blue Flower Wedding Cake
+    text: 3 tier wedding cake, with sugar flower clusters and hand painted elements
+    bullets:
+      - bullet: White sugar paste covered 3 tier cake, with clusters of sugar flowers in
+          different shades of blue and hand painted details in the leaves and
+          florals
+      - bullet: Bottom tier, light lemon sponge, paired with a delicate elderflower
+          buttercream filling. 2nd tier, zingy raspberry sponge, paired with a
+          white chocolate buttercream and raspberry jam filling. Top tier, silky
+          strawberry sponge, paired with a Prosecco buttercream filling
+      - bullet: Served 80 portions
+    tags:
+      - name: Wedding
+    images:
+      - image: /images/uploads/3rd-home-page-scroll-image.jpg
+        primary: true
 ---
