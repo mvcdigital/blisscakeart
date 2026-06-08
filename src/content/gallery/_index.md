@@ -8,6 +8,54 @@ filters:
   - name: Christmas
   - name: Other
 items:
+  - bullets:
+      - bullet: 5 tier classic off white fondant covered cake, with cascading faux white
+          roses and sage foliage. The tiers are separated with clear acrylic
+          tiers to give the cake extra height. Finished off with an acrylic
+          initials cake charm front and centre.
+      - bullet: All tiers, classic vanilla sponge, paired with a vanilla buttercream,
+          and a strawberry conserve filling
+      - bullet: Served 150 portions
+    images:
+      - image: /images/uploads/l-v-wedding-cake-1.jpg
+        primary: true
+      - image: /images/uploads/l-v-wedding-cake-2.jpg
+        primary: false
+      - image: /images/uploads/l-v-wedding-cake-3.jpg
+        primary: false
+    tags:
+      - name: Wedding
+    title: 5 tier Wedding Cake
+    text: Fondant covered 5 tier wedding cake, with clear acrylic tier spacers and
+      white roses
+  - title: Hand Painted Floral Wedding Cake
+    text: Two tier hand painted floral cake, with 3D elements
+    bullets:
+      - bullet: Cocoa butter paintings inspired by the brides bouquet, including little
+          3D elements as you go around the cake
+      - bullet: Two tiers of zingy raspberry sponge, paired with a white chocolate
+          buttercream and raspberry conserve
+      - bullet: Served 100 portions
+    images:
+      - image: /images/uploads/s-s-hand-painted-wedding-cake-1.jpg
+        primary: true
+    tags:
+      - name: Wedding
+  - title: 3 Tier White Wedding
+    text: All white wedding cake, with clear tier and white florals
+    images:
+      - image: /images/uploads/square-3-tier-white-with-ribbon.jpg
+        primary: true
+    tags:
+      - name: Wedding
+    bullets:
+      - bullet: "White fondant covered tiers, with white florals and white ribbon. The
+          top and bottom tiers are edible, and the middle clear tier adds height
+          and dimension to the cake. "
+      - bullet: Bottom tier, rich and moist chocolate sponge paired with a vanilla
+          buttercream filling. Top tier, light lemon sponge, paired with vanilla
+          buttercream and tangy lemon curd filling
+      - bullet: Served 130 portions
   - title: Cake International Entry 2024
     bullets:
       - bullet: This was my entry for Cake International 2024, which won Gold in it's
@@ -47,69 +95,6 @@ items:
       - bullet: Alternate layers of classic vanilla sponge, moist and rich chocolate
           sponge, paired with vanilla buttercream layers
       - bullet: Served 45 portions
-  - title: Hand Painted Floral Wedding Cake
-    text: Two tier hand painted floral cake, with 3D elements
-    bullets:
-      - bullet: Cocoa butter paintings inspired by the brides bouquet, including little
-          3D elements as you go around the cake
-      - bullet: Two tiers of zingy raspberry sponge, paired with a white chocolate
-          buttercream and raspberry conserve
-      - bullet: Served 100 portions
-    images:
-      - image: /images/uploads/s-s-hand-painted-wedding-cake-1.jpg
-        primary: true
-    tags:
-      - name: Wedding
-  - title: The Joker Cake
-    text: Cocao butter hand painted Joker cake
-    bullets:
-      - bullet: Hand painted half face of the Joker, finished with splatters of the
-          colours coming away from his face
-      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
-          filling
-      - bullet: Served 30 portions
-    images:
-      - image: /images/uploads/joker-2.jpg
-        primary: true
-      - image: /images/uploads/joker-3.jpg
-        primary: false
-    tags:
-      - name: Other
-  - title: Hand Painted Birthday Cake
-    text: Hand painted portrait, with bunny ears and flower hair garland
-    bullets:
-      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
-          hair garland, like the little girl requested
-      - bullet: Light lemon sponge, paired with a vanilla sponge and tangy lemon curd
-          filling
-      - bullet: Served 30 portions
-    images:
-      - image: /images/uploads/luisa-painting-1.jpg
-        primary: true
-      - image: /images/uploads/luisa-painting-2.jpg
-        primary: false
-    tags:
-      - name: Birthday
-  - bullets:
-      - bullet: 5 tier classic off white fondant covered cake, with cascading faux white
-          roses and sage foliage. The tiers are separated with clear acrylic
-          tiers to give the cake extra height. Finished off with an acrylic
-          initials cake charm front and centre.
-      - bullet: All tiers, classic vanilla sponge, paired with a vanilla buttercream,
-          and a strawberry conserve filling
-      - bullet: Served 150 portions
-    images:
-      - image: /images/uploads/l-v-wedding-cake-1.jpg
-        primary: true
-      - image: /images/uploads/l-v-wedding-cake-2.jpg
-        primary: false
-      - image: /images/uploads/l-v-wedding-cake-3.jpg
-        primary: false
-    tags:
-      - name: Wedding
-    title: 5 tier Wedding Cake
-    text: Fondant covered 5 tier wedding cake, with clear acrylic tier spacers and
-      white roses
   - title: Wildflower Wedding Blessing Cake
     text: Two tier wildflower themed cake
     bullets:
@@ -125,6 +110,36 @@ items:
         primary: false
     tags:
       - name: Wedding
+  - title: Hand Painted Birthday Cake
+    text: Hand painted portrait, with bunny ears and flower hair garland
+    bullets:
+      - bullet: Hand painted portrait on fondant, with modelled bunny ears and flower
+          hair garland, like the little girl requested
+      - bullet: Light lemon sponge, paired with a vanilla sponge and tangy lemon curd
+          filling
+      - bullet: Served 30 portions
+    images:
+      - image: /images/uploads/luisa-painting-1.jpg
+        primary: true
+      - image: /images/uploads/luisa-painting-2.jpg
+        primary: false
+    tags:
+      - name: Birthday
+  - title: The Joker Cake
+    text: Cocao butter hand painted Joker cake
+    bullets:
+      - bullet: Hand painted half face of the Joker, finished with splatters of the
+          colours coming away from his face
+      - bullet: Rich and moist chocolate sponge, paired with a chocolate buttercream
+          filling
+      - bullet: Served 30 portions
+    images:
+      - image: /images/uploads/joker-2.jpg
+        primary: true
+      - image: /images/uploads/joker-3.jpg
+        primary: false
+    tags:
+      - name: Other
   - title: Cake International Entry 2023
     text: 3 tier under the sea themed cake
     bullets:
@@ -144,21 +159,6 @@ items:
         primary: false
     tags:
       - name: Other
-  - title: 3 Tier White Wedding
-    text: All white wedding cake, with clear tier and white florals
-    images:
-      - image: /images/uploads/square-3-tier-white-with-ribbon.jpg
-        primary: true
-    tags:
-      - name: Wedding
-    bullets:
-      - bullet: "White fondant covered tiers, with white florals and white ribbon. The
-          top and bottom tiers are edible, and the middle clear tier adds height
-          and dimension to the cake. "
-      - bullet: Bottom tier, rich and moist chocolate sponge paired with a vanilla
-          buttercream filling. Top tier, light lemon sponge, paired with vanilla
-          buttercream and tangy lemon curd filling
-      - bullet: Served 130 portions
   - images:
       - image: /images/uploads/ted-lasso-cake-1.jpg
         primary: true
