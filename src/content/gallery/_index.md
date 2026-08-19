@@ -1016,6 +1016,10 @@ items:
     tags:
       - name: Wedding
     images:
-      - image: /images/uploads/3rd-home-page-scroll-image.jpg
+      - image: /images/uploads/blue-floral-3-tier-wedding-cake-1.jpg
         primary: true
+      - image: /images/uploads/blue-floral-3-tier-wedding-cake-2.jpg
+        primary: false
+      - image: /images/uploads/blue-floral-3-tier-wedding-cake-3.jpg
+        primary: false
 ---
