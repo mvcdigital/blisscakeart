@@ -28,6 +28,25 @@ items:
     title: 5 tier Wedding Cake
     text: Fondant covered 5 tier wedding cake, with clear acrylic tier spacers and
       white roses
+  - bullets:
+      - bullet: This was my entry for Cake International 2025, which won Gold in it's
+          category
+      - bullet: "3 tier hand painted cake inspired by the work and frescos of
+          Michelangelo in the Sistene chapel, after visiting Italy and the
+          Vatican City. "
+    title: Cake International Entry 2025
+    text: 3 tier cake inspired by the work of Michelangelo
+    images:
+      - image: /images/uploads/cake-international-cake-2025-square.jpg
+        primary: true
+      - image: /images/uploads/cake-international-2025-top-square.jpg
+        primary: false
+      - image: /images/uploads/cake-international-2025-middle-square.jpg
+        primary: false
+      - image: /images/uploads/cake-international-2025-bottom-square.jpg
+        primary: false
+    tags:
+      - name: Other
   - title: Hand Painted Floral Wedding Cake
     text: Two tier hand painted floral cake, with 3D elements
     bullets:
