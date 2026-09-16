@@ -9,6 +9,9 @@ images:
   - image: /images/uploads/home-page-scroll-image-4.jpg
   - image: /images/uploads/home-page-scroll-image-5.jpg
 testimonials:
+  - text: "\"Your work and talent just shines through! You understood our vision and
+      created a piece that we'll never forget. Thank you so much for making the
+      day so special!\" S & C"
   - text: '"Our cake was absolutely beautiful and was everything we wanted, and
       tasted incredible as always. Thank you so much for making our day as
       special as we hoped!" J & S '
@@ -16,7 +19,9 @@ testimonials:
       mesmerising. The cake was all everyone could talk about!! Absolutely
       incredible thank you!" A & T'
   - text: '"Absolutely loved it!! Went down a treat with the guests, thank you so so
-      much!" E & O'
+      much!" T & O'
+  - text: '"You never fail us, always creating outstanding cakes that we will never
+      forget. We will never go to anyone else!" B & H'
 content: >-
   Welcome to Bliss Cake Art, the home of bespoke designed cakes, focusing on
   hand painted elements creating edible art, near Aylesbury, Bucks, U.K. 
