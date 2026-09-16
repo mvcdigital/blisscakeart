@@ -22,7 +22,7 @@ content: >-
   hand painted elements creating edible art, near Aylesbury, Bucks, U.K. 
 
 
-  I'm owner and creator, Ricarda, an award winning cake artist, achieving a Gold award in Cake International 2023, 2024 and 2025 in the Hand Painted Category. I pride myself in creating memorable cakes, which are bespoke, unique and individual to each person and their vision. 
+  I'm owner and creator, Ricarda, an award winning cake artist, achieving a Gold award in Cake International 2023, 2024 and 2025 in the Hand Painted Category. My work and tutorial has been seen in D'Licious magazine, as well as international cake collaborations. I pride myself in creating memorable cakes, which are bespoke, unique and individual to each person and their vision. 
 
 
   Click below to explore my creations!
